@@ -1,19 +1,18 @@
+---
+description: This page talks about the MAHA governance token.
+---
+
 # What is MAHA?
 
-MAHA is the governance and utility token that regulates the ARTH valuecoin and enables token holders to vote on a number of items such as:
+MAHA is the governance and utility token that regulates the ARTH valuecoin and keeps the protocol decentralized. Decentralization is one of the most important features that gives value to the ARTH token. The more decentralized ARTH becomes, the easier it becomes for users to trust the functionalities governing ARTH.
 
-* Savings rates
+MAHA token holders have an influence on ARTH in a number of different scenarios. MAHA token holders can govern:
+
 * Stability fees
 * Protocol direction & strategy
-* ARTH improvement proposals
-
-![](../.gitbook/assets/mahadao-asset-09%20%281%29.jpg)
-
-MAHA, as the name signifies, refers to a supreme, magnanimous, greater than itself characteristic, which the MAHA governance token embodies. 
+* Improvement proposals that improve the Protocol
 
 Community members use the MAHA token to vote on key aspects of the ecosystem in order to collectively manage the parameters that keep ARTH stable and in check. Using democratic frameworks such as governance portals, forums & the power of social discourse, growth is driven by the community and for the community.
 
-
-
-
+![MAHA, means supreme, magnanimous, and being greater than itself](../.gitbook/assets/mahadao-asset-09%20%281%29.jpg)
 

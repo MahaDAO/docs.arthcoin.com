@@ -1,21 +1,26 @@
+---
+description: >-
+  This page explains to users what is ARTH and how does it play an impact in
+  today's world.
+---
+
 # What is ARTH?
 
-ARTH is a decentralized algorithmic stablecoin that combines the best features of basket-pegged stablecoins and elastic stablecoins to create the world's first "value-stable" cryptocurrency. 
+ARTH is a currency that is designed not to be pegged to government-owned currencies \(like US Dollar, Euro, or Chinese Yuan\), but at the same time remain relatively stable \(unlike Gold and Bitcoin\).
+
+Hence, ARTH is also the first currency to be immune to inflation and be stable at the same time.
+
+Government-owned currencies have proven that they can be inflated and[ lose their value over time.](../the-money-illusion.md) Furthermore, assets like Gold/Bitcoin while have proven themselves as strong hedges against inflation, have proven themselves too volatile for regular trade. _**ARTH is the first currency that solves both these issues in one asset.**_
 
 ![](../../.gitbook/assets/mahadao-asset-10%20%282%29.jpg)
 
-It is designed to maintain its purchasing power over time, irrespective of which direction the market moves. The core pillars which drive the value stability of the ARTH coin are:
+## How does ARTH fight inflation but also remain stable? 
 
-* Global Measurement Unit \(GMU\) - the algorithm which maintains the basket of assets
-* ARTH Bond - elastic stablecoin seigniorage shares governing the minting and burning of new ARTH tokens
+ARTH does this by being pegged to a basket of assets that represent strong hedges of each other; so that if one asset depreciates in buying power, the other appreciates because it acts as a hedge against the first asset, keeping the net buying power of the entire basket unchanged.
 
-## How does ARTH solve the problem of declines in purchasing power?
+![](../../.gitbook/assets/image%20%2876%29.png)
 
-The ARTH ecosystem builds upon MakerDAO’s concept of DAI to pioneer new mechanisms, resulting in a coin that’s both value-stable and a raw measure of an asset’s buying power. 
+Performance of ARTH across various scenarios including crises has been documented in the [ARTH target price](../../arth-201/what-is-the-global-measurement-uni-gmu.md). 
 
-ARTH is able to do this as it is pegged to stable assets which are complete hedges of one other, so that if one asset depreciates in buying power, the other appreciates. Thus, keeping the net buying power of the resulting coin stable.
-
-![](../../.gitbook/assets/image%20%2868%29.png)
-
-\*\*\*\*
+## Risks of holding ARTH
 

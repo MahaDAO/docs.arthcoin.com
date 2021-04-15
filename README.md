@@ -1,46 +1,33 @@
 ---
 description: >-
-  ARTH is the world's first decentralized algorithmic valuecoin. This guidebook
-  details the working of ARTH valuecoin and explains the components in the
-  protocol.
+  ARTH is the future of money. Say hello to timeless value. This guidebook
+  details the working of the ARTH coin and explains the different components in
+  the protocol.
 ---
 
 # Welcome to ARTH
 
-## 🚀**ARTH Valuecoin Protocol Launch - 22 Jan, 2021**
+## What is ARTH?
 
-ARTH is the future. Say hello to _timeless value_ 
+ARTH is a currency that is designed not to be pegged to government-owned currencies \(like US Dollar, Euro, or Chinese Yuan\), but also remains relatively stable \(unlike Gold and Bitcoin\).
 
-#### ℹ️Basic Information
+By not being influenced by government-owned currencies, ARTH in effect becomes immune to inflation. And by also being stable, ARTH in effect also becomes an ideal choice of currency for means of trade, unlike Gold/Bitcoin which is used more as a store of value rather than a medium of exchange.
+
+![ARTH. Purchase. Power. ](.gitbook/assets/mahadao-asset-10%20%282%29.jpg)
+
+## ️Basic Information
 
 * Token Name: **$ARTH**
 * Type: **ERC-20**
-* Token Genesis Launch date: **18 January 2021**
-* Valuecoin **Protocol** Launch date: **22 January 2021, 3 PM GMT**
-* First Epoch: **22 January 2021, 4 PM GMT**
-* Seigniorage**: 12 hours**
 * Blockchain**: Ethereum Mainnet**
-* Circulating Supply**: Elastic** \(based on demand and supply\)
-* Start off Price at Protocol Launch: **US$ 1**
-* Target Price over time: **Pegged to** [**GMU**](arth-201/target-price-of-arth/what-is-the-global-measurement-uni-gmu.md) **Index**
-* Product Website**:**  [**http://arthcoin.com**](http://arthcoin.com)\*\*\*\*
+* Start off Price at Protocol Launch: **US $1**
+* Target Price: **Pegged to** [**GMU**](arth-201/what-is-the-global-measurement-uni-gmu.md) **Index**
+* Product Website**:**  [**http://arthcoin.com**](http://arthcoin.com)
+* Contract Addresses:
+  * **ARTH**: [0x0E3cC2c4FB9252d17d07C67135E48536071735D9](https://etherscan.io/token/0x0E3cC2c4FB9252d17d07C67135E48536071735D9)
+  * **MAHA**: [0xb4d930279552397bba2ee473229f89ec245bc365](https://etherscan.io/token/0xb4d930279552397bba2ee473229f89ec245bc365)
 
-#### Important Jumpstart Links
-
-* Stake/Bond: [https://arthcoin.com/\#/distribution](https://arthcoin.com/#/distribution) 
-* How to Stake/Bond: [https://docs.arthcoin.com/tutorials/seigniorage-distribution](https://docs.arthcoin.com/tutorials/seigniorage-distribution)
-* Buy ARTH Bonds: [https://arthcoin.com/\#/bonds](https://arthcoin.com/#/bonds)
-* How to buy ARTH Bonds: [https://docs.arthcoin.com/tutorials/purchasing-bonds](https://docs.arthcoin.com/tutorials/purchasing-bonds)
-* How to redeem ARTH Bonds: [https://docs.arthcoin.com/tutorials/redeeming-bonds](https://docs.arthcoin.com/tutorials/redeeming-bonds)
-
-**📝Note:** ARTH token genesis event was successfully held on 16 January 2021 when the ARTH token was launched. MahaDAO launched the official $ARTH protocol on 22 January 2021 that converts the ARTH token into the world's first valuecoin comprising \(ARTH Bonds, Arth Global Measurement Unit \(GMU\), Seignorage shares, etc\) the innovative mechanism of the most advanced decentralised protocol. ARTH is [NOT a rebase coin](appendix-typesofstablecoins/seigniorage-shares.md). ARTH is based on the model of seigniorage share model. $ARTH has an elastic supply that has the potential to transition into a hybrid model that incorporates a partially collateral-backed mechanism.   
-
-
-![](.gitbook/assets/mahadao-asset-10%20%282%29.jpg)
-
-### **ARTH. Purchase. Power.** 
-
-### **🎁Key features of the ARTH Valuecoin platform**
+## **Key features of the ARTH Valuecoin platform**
 
 For those familiar with the existing elastic stablecoin platforms, here are the key features of the ARTH platform:
 
@@ -51,12 +38,5 @@ For those familiar with the existing elastic stablecoin platforms, here are the 
 * **Bond Interest Rates**: 10–20%
 * **Bond Redemption Fees**: 1% paid in $MAHA \(burnt\)
 
-![](.gitbook/assets/image%20%2880%29.png)
-
-### 🌐Contract Addresses
-
-The contract addresses for the Ethereum ERC20 tokens are:
-
-* **ARTH**: [0x0E3cC2c4FB9252d17d07C67135E48536071735D9](https://etherscan.io/token/0x0E3cC2c4FB9252d17d07C67135E48536071735D9)
-* **MAHA**: [0xb4d930279552397bba2ee473229f89ec245bc365](https://etherscan.io/token/0xb4d930279552397bba2ee473229f89ec245bc365)
+![](.gitbook/assets/image%20%2888%29.png)
 
