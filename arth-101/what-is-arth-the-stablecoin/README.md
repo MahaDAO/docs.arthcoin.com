@@ -18,7 +18,7 @@ Government-owned currencies have proven that they can be inflated and[ lose thei
 
 ARTH does this by being pegged to a basket of assets that represent strong hedges of each other; so that if one asset depreciates in buying power, the other appreciates because it acts as a hedge against the first asset, keeping the net buying power of the entire basket unchanged.
 
-![](../../.gitbook/assets/image%20%2876%29.png)
+![](../../.gitbook/assets/image%20%2868%29.png)
 
 Performance of ARTH across various scenarios including crises has been documented in the [ARTH target price](../../arth-201/what-is-the-global-measurement-uni-gmu.md). 
 

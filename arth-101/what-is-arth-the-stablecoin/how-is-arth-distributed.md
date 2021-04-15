@@ -13,7 +13,7 @@ There was no team pre-mine and it was a completely community-focused distributio
 
 The first 500,000 ARTH genesis tokens \(worth 500,000 at the start with a $1 starting price\) were distributed to the following community pools:
 
-![Distribution of ARTH across the various community tokesns](../../.gitbook/assets/image%20%2861%29.png)
+![Distribution of ARTH across the various community tokesns](../../.gitbook/assets/image%20%2811%29%20%283%29.png)
 
 To keep the distribution fair and simple; all pools except the MahaDAO pools were given the same number of tokens across a period of 5 days. The MahaDAO pool receives a 20% bonus allocation as compared to other pools.   
   

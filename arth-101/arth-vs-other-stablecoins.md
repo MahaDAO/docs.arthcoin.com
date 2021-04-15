@@ -16,7 +16,7 @@ ARTH combines the best features of each stablecoin as illustrated in the followi
 * Pragmatic epoch durations
 * Reasonable caps on debt and supply increases
 
-![](../.gitbook/assets/image%20%2877%29.png)
+![](../.gitbook/assets/image%20%2869%29%20%281%29.png)
 
 
 
