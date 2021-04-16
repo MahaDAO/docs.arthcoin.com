@@ -2,7 +2,7 @@
 description: This post explains how ARTH v2 will launch in a phased manner.
 ---
 
-# ARTH v2 - Phased Launch
+# Launch Plan
 
 ARTH 2.0 is going to be the next major protocol update that’ll bring stability and volume for ARTH.
 
@@ -18,28 +18,26 @@ ARTHX is launched and users are able to redeem their ARTH for ARTHX.
 
 Minting of ARTH is disabled and users redeem their ARTH for ARTHX at a 1:1 ratio. The amount of ARTHX minted is decided on the market price of ARTHX taken from Uniswap. This is how ARTHX tokens enter into the supply. 
 
-Recollateralizing of ARTH happens at a 100% collateralization ratio and users who do so will be rewarded 101% of their collateral in ARTHX tokens along with some MAHA tokens as a reward.
+Recollateralizing of ARTH happens at a 100% collateralization ratio and users who do so will be rewarded 101% of their collateral in ARTHX tokens along with some MAHA tokens as a reward. ARTHX that gets minted during this phase will happen at a fixed price with respect to the being issued.
 
-Staking programs start for the following pools:
+Exclusive MAHA Staking programs start for the following pools:
 
 * ARTHX
 * ARTHX/ETH SushiSwap LP
 
-At this point, there will be no staking rewards for ARTH until the protocol reaches its target collateralization ratio.
+These staking pools will close deposits once Phase 2 has completed.
 
 **Users who redeem their ARTH for ARTHX reduce the supply of ARTH, hence further help the protocol reach its collateralization goal.**
 
-Phase 2 ends once the protocol is at least 90% backed by collateral.
+Phase 2 ends once the protocol is at least 90% backed by collateral. If the protocol does not reach this target, then the MAHA community can decide if Phase 2 should be extended or the target price for ARTH should be lowered based on the value of the collateral and the circulating supply of ARTH.
 
-### Phase 3 - Staking Programs for ARTHX go live
+### Phase 3 - ARTHX is distributed for MAHA holders
 
-In phase 3, the ARTHX supply is inflated by 5% and is distributed across MAHA, LP token holders, and a few community token holders. 
-
-The distribution will go over a period of 5 days, to create a slow and steady network effect, bringing in more and more participants within the MAHA & ARTH ecosystem.
+In phase 3, the ARTHX supply is inflated by 5% and is distributed to MAHA token holders and to the various new staking programs that'll come in for ARTH.
 
 ### Phase 4 - ARTH minting is enabled & staking programs for ARTH go live
 
-After enough users have their hands on ARTH and on ARTHX, ARTH minting is enabled and people can effectively start using ARTH for either performing arbitrage across the various ARTH pools or by taking on leveraged positions in any one of ARTH's underlying collaterals.
+After enough users have had their hands on ARTH and on ARTHX, ARTH minting is enabled and people can effectively start using ARTH for either performing arbitrage across the various ARTH pools or by taking on leveraged positions in any one of ARTH's underlying collaterals.
 
 Rewards go live for all ARTH LP pools. This includes rewards for the following pools:
 
@@ -52,7 +50,7 @@ Staking pools won't have any timelock allowing for LPs.
 
 By introducing staking pools, the protocols start building up liquidity for ARTH making ARTH more liquidity and further cement its role as a 'lending' and as an 'arbitrage' token.
 
-\(Liquidity pool for Uniswap V3 will be launched after the [PCV](../../arth-201/protocol-controlled-liquidity.md) goes live\)
+\(Liquidity pool for Uniswap V3 will be launched after the [PCV](../arth-201/protocol-controlled-liquidity.md) goes live\)
 
 ### Phase 5 
 

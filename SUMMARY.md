@@ -4,18 +4,16 @@
 
 ## ARTH 101 - Basics <a id="arth-101"></a>
 
-* [What is ARTH?](arth-101/what-is-arth-the-stablecoin/README.md)
-  * [ARTH v1 - Genesis Launch](arth-101/what-is-arth-the-stablecoin/how-is-arth-distributed.md)
-  * [ARTH v2 - Phased Launch](arth-101/what-is-arth-the-stablecoin/arth-v2-phased-launch.md)
+* [What is ARTH?](arth-101/what-is-arth-the-stablecoin.md)
 * [What is MAHA?](arth-101/what-is-maha.md)
 * [What is ARTHX?](arth-101/what-is-arthx.md)
 * [The Money Illusion](arth-101/the-money-illusion.md)
-* [ARTH IDO](arth-101/arth-genesis-ido.md)
 * [ARTH vs Other Stablecoins](arth-101/arth-vs-other-stablecoins.md)
 * [Use cases of ARTH](arth-101/use-cases-of-arth/README.md)
   * [No depreciation or loss of purchasing power](arth-101/use-cases-of-arth/no-depreciation-or-loss-of-purchasing-power.md)
   * [Taking Leverage positions on ETH/BTC](arth-101/use-cases-of-arth/taking-leverage-positions-on-eth-btc.md)
   * [Performing Arbitrage Across Multiple Volatile Currencies](arth-101/use-cases-of-arth/arbitrage-across-multiple-trading-pairs.md)
+* [Launch Plan](arth-101/arth-v2-phased-launch.md)
 
 ## ARTH 201 - Mechanics <a id="arth-201"></a>
 
