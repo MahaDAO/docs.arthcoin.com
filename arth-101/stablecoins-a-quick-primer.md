@@ -23,7 +23,7 @@ An alternate way of looking at stablecoins is that they are aimed at replicating
 
 ## Types of Stablecoins
 
-Stablecoins can be classified as: 
+Stablecoins can be classified as:
 
 * Fiat-backed \(e.g. USD, EUR, CNY\)
 * Asset-backed \(e.g. Gold\)
@@ -32,20 +32,16 @@ Stablecoins can be classified as:
 * Algorithmic or Elastic stablecoins \(e.g. AMPL\)
 * Seigniorage Shares \(e.g. ESD\)
 
-Alternatively, they can also be classified as: 
+Alternatively, they can also be classified as:
 
 * Centralized & Unregulated - USDT
-*  Centralized but Regulated - USDC
+* Centralized but Regulated - USDC
 * Decentralized & Overcollateralized - DAI
-*  Decentralized but Uncollateralized - RSR, AMPLE, ESD
+* Decentralized but Uncollateralized - RSR, AMPLE, ESD
 
-ARTH valuecoin is a combination of both basket-pegged stablecoins and seigniorage shares stablecoins, which makes it a partially collateralized stablecoin. ARTH aims to optimize its stability mechanism by taking the best of both the collateral backed system & elastic supply system, thereby uncovering a world of possibilities that beckon the stablecoin space.    
-  
+ARTH valuecoin is a combination of both basket-pegged stablecoins and seigniorage shares stablecoins, which makes it a partially collateralized stablecoin. ARTH aims to optimize its stability mechanism by taking the best of both the collateral backed system & elastic supply system, thereby uncovering a world of possibilities that beckon the stablecoin space.
+
 _For a more detailed overview of these types of stablecoins, please navigate to_ [_Appendix - Types of Stablecoins_](https://mahadao.gitbook.io/mahahub/appendix-typesofstablecoins/untitled)\_\_
 
 ## \_\_
-
-## 
-
-
 

@@ -1,6 +1,6 @@
 # Master Links
 
-## MAHA Token 
+## MAHA Token
 
 * MAHA Etherscan: [https://etherscan.io/token/0xb4d930279552397bba2ee473229f89ec245bc365](https://etherscan.io/token/0xb4d930279552397bba2ee473229f89ec245bc365)
 * MAHA Uniswap: [https://info.uniswap.org/token/0xb4d930279552397bba2ee473229f89ec245bc365](https://info.uniswap.org/token/0xb4d930279552397bba2ee473229f89ec245bc365)
@@ -8,7 +8,7 @@
 * MAHA CoinmarketCap: [https://coinmarketcap.com/currencies/mahadao/](https://coinmarketcap.com/currencies/mahadao/)
 * MAHA DexTools: [https://www.dextools.io/app/uniswap/pair-explorer/0xc0897d6ba893e31f42f658eead777aa15b8f824d](https://www.dextools.io/app/uniswap/pair-explorer/0xc0897d6ba893e31f42f658eead777aa15b8f824d)
 
-## ARTH Token 
+## ARTH Token
 
 * ARTH Etherscan: [https://etherscan.io/token/0x0E3cC2c4FB9252d17d07C67135E48536071735D9](https://etherscan.io/token/0x0E3cC2c4FB9252d17d07C67135E48536071735D9)
 * ARTH MahaSwap: [https://mahaswap.com/\#/swap](https://mahaswap.com/#/swap)
@@ -34,5 +34,5 @@
 [https://medium.com/mahadao/arth-genesis-distribution-plan-d73b08f22533](https://medium.com/mahadao/arth-genesis-distribution-plan-d73b08f22533)  
 [https://medium.com/mahadao/arth-to-launch-as-a-seigniorage-share-beta-program-announced-3137103b7435](https://medium.com/mahadao/arth-to-launch-as-a-seigniorage-share-beta-program-announced-3137103b7435)  
 [_https://www.paxos.com/paxgold/_](https://www.paxos.com/paxgold/)  
-__
+\_\_
 

@@ -12,7 +12,7 @@ ARTH Bond are tokens that are sold by the protocol as a measure to encourage tra
 
 ![The ARTH bond logo](../../.gitbook/assets/image%20%2813%29.png)
 
-ARTH bonds are always purchased at a discount from the current price and redeemed back to ARTH at a 1:1 ratio. This means speculators make a net positive return when they purchase and sell their bonds. However, by doing so they also contribute to increasing the price of ARTH.  
-  
+ARTH bonds are always purchased at a discount from the current price and redeemed back to ARTH at a 1:1 ratio. This means speculators make a net positive return when they purchase and sell their bonds. However, by doing so they also contribute to increasing the price of ARTH.
+
 Note: ARTH Bonds are redeemable when the **12hr & 1hr TWAP of ARTH is above $1**
 

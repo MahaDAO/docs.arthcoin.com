@@ -2,7 +2,7 @@
 
 Asset-backed stablecoins, similarly to fiat-backed stablecoins, have their value pegged to the value of the asset backing it. The most simple example is a cryptocurrency which is 1:1 backed by the price of Gold.
 
-One of the very first projects to introduce this concept of tokenizing physical gold assets onto the Ethereum blockchain via an ERC-20 token was the Digix Gold \(DGX\) project. The project is slightly different from that of Tether's XAUT in that 1 DGX is equal to 1 Gram of gold, as opposed to 1 ounce. 
+One of the very first projects to introduce this concept of tokenizing physical gold assets onto the Ethereum blockchain via an ERC-20 token was the Digix Gold \(DGX\) project. The project is slightly different from that of Tether's XAUT in that 1 DGX is equal to 1 Gram of gold, as opposed to 1 ounce.
 
 Every gold bar backing DGX is always openly verifiable by the public, 24/7, with blockchain technology. The vaults holding Digix Gold are located in Singapore and Canada, are accredited members of the Bullion Association and are fully insured. So in essence there is also an element of centralization and trust involved here, which is hard to get around given the physical nature of the underlying asset.
 

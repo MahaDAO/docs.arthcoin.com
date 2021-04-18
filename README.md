@@ -9,7 +9,7 @@ description: >-
 
 ## 🚀**ARTH Valuecoin Protocol Launch - 22 Jan, 2021**
 
-ARTH is the future. Say hello to _timeless value_ 
+ARTH is the future. Say hello to _timeless value_
 
 #### ℹ️Basic Information
 
@@ -33,12 +33,11 @@ ARTH is the future. Say hello to _timeless value_
 * How to buy ARTH Bonds: [https://docs.arthcoin.com/tutorials/purchasing-bonds](https://docs.arthcoin.com/tutorials/purchasing-bonds)
 * How to redeem ARTH Bonds: [https://docs.arthcoin.com/tutorials/redeeming-bonds](https://docs.arthcoin.com/tutorials/redeeming-bonds)
 
-**📝Note:** ARTH token genesis event was successfully held on 16 January 2021 when the ARTH token was launched. MahaDAO launched the official $ARTH protocol on 22 January 2021 that converts the ARTH token into the world's first valuecoin comprising \(ARTH Bonds, Arth Global Measurement Unit \(GMU\), Seignorage shares, etc\) the innovative mechanism of the most advanced decentralised protocol. ARTH is [NOT a rebase coin](appendix-typesofstablecoins/seigniorage-shares.md). ARTH is based on the model of seigniorage share model. $ARTH has an elastic supply that has the potential to transition into a hybrid model that incorporates a partially collateral-backed mechanism.   
-
+**📝Note:** ARTH token genesis event was successfully held on 16 January 2021 when the ARTH token was launched. MahaDAO launched the official $ARTH protocol on 22 January 2021 that converts the ARTH token into the world's first valuecoin comprising \(ARTH Bonds, Arth Global Measurement Unit \(GMU\), Seignorage shares, etc\) the innovative mechanism of the most advanced decentralised protocol. ARTH is [NOT a rebase coin](appendix-typesofstablecoins/seigniorage-shares.md). ARTH is based on the model of seigniorage share model. $ARTH has an elastic supply that has the potential to transition into a hybrid model that incorporates a partially collateral-backed mechanism.
 
 ![](.gitbook/assets/mahadao-asset-10%20%282%29.jpg)
 
-### **ARTH. Purchase. Power.** 
+### **ARTH. Purchase. Power.**
 
 ### **🎁Key features of the ARTH Valuecoin platform**
 

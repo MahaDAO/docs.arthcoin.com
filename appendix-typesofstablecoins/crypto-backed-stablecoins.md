@@ -14,7 +14,7 @@ These however differ from fiat-backed stablecoins in that, due to the inherent v
 
 ![](../.gitbook/assets/image%20%2827%29.png)
 
-While DAI adoption has certainly grown and become a primary means of exchange for many DeFi protocols, it's inherent need for collateral makes it quite capital inefficient, meaning that if there is increased demand for DAI then the protocol suffers to keep up with this demand as there is a maximum ceiling of DAI that can be minted in order to meet that demand. 
+While DAI adoption has certainly grown and become a primary means of exchange for many DeFi protocols, it's inherent need for collateral makes it quite capital inefficient, meaning that if there is increased demand for DAI then the protocol suffers to keep up with this demand as there is a maximum ceiling of DAI that can be minted in order to meet that demand.
 
 This leads us to the next section where we discuss the unique concept of non-collateralized algorithmic stablecoins.
 

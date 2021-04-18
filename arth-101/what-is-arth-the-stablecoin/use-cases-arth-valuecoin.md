@@ -1,6 +1,6 @@
 # Use Cases: ARTH valuecoin
 
-ARTH is not just a non-volatile asset to hold but also a great store of value over a longer period of time. Listed below are some of the use cases of ARTH:  
+ARTH is not just a non-volatile asset to hold but also a great store of value over a longer period of time. Listed below are some of the use cases of ARTH:
 
 * No depreciation & loss of purchasing power
 * Financial freedom with minimal volatility as it’s a value-stable currency that you control. 
@@ -11,6 +11,4 @@ ARTH is not just a non-volatile asset to hold but also a great store of value ov
 The following graphic further outlines the multi-faceted nature of ARTH and its unique properties:
 
 ![](../../.gitbook/assets/image%20%2886%29.png)
-
-## 
 

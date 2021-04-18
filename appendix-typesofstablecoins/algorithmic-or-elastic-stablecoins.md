@@ -1,6 +1,6 @@
 # Algorithmic or Elastic stablecoins
 
-With algorithmic stablecoins, the currency's supply algorithmically expands and contracts based on demand for the coin. 
+With algorithmic stablecoins, the currency's supply algorithmically expands and contracts based on demand for the coin.
 
 ![](../.gitbook/assets/image%20%2836%29.png)
 
@@ -8,7 +8,7 @@ The first of this type of stablecoin to gain widespread attention was Ampleforth
 
 ![](../.gitbook/assets/image%20%2870%29.png)
 
-As an output, the Ampleforth protocol seeks to reflect demand changes in quantity rather than price. 
+As an output, the Ampleforth protocol seeks to reflect demand changes in quantity rather than price.
 
 The Ampleforth paper describes this process using the following example:
 

@@ -8,7 +8,7 @@ Stablecoins built on the seigniorage shares model consist of \(at least\) two to
 
 ![](../.gitbook/assets/image%20%2894%29.png)
 
-Empty Set Dollar is the most recent project which has implemented a seigniorage model to grow the money supply. They have done so by distributing extra minted money supply to current holders of ESD when the market demands more ESD in order to meet the increased demand for ESD. 
+Empty Set Dollar is the most recent project which has implemented a seigniorage model to grow the money supply. They have done so by distributing extra minted money supply to current holders of ESD when the market demands more ESD in order to meet the increased demand for ESD.
 
 When the reverse happens, i.e. when demand goes down and the protocol has to reduce the supply of ESD, "coupons" are awarded to ESD holders to voluntarily burn their ESD. Coupons here are ESD's version of seigniorage shares.
 
@@ -20,9 +20,7 @@ The coupon premium is based on the ratio of debt vs supply within the protocol. 
 
 _Sources_:
 
-{% embed url="https://docs.emptyset.finance/" %}
+{% embed url="https://docs.emptyset.finance/" caption="" %}
 
-{% embed url="https://www.delphidigital.io/reports/empty-set-dollar-a-game-theoretical-approach-to-elastic-stablecoins-2/" %}
-
-
+{% embed url="https://www.delphidigital.io/reports/empty-set-dollar-a-game-theoretical-approach-to-elastic-stablecoins-2/" caption="" %}
 

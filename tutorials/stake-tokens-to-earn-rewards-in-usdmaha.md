@@ -6,9 +6,9 @@ description: >-
 
 # Stake tokens to earn rewards in $MAHA
 
-You can earn staking rewards buy staking your ARTH/MAHA tokens by following the below steps: 
+You can earn staking rewards buy staking your ARTH/MAHA tokens by following the below steps:
 
-### For Non-LP pools: 
+### For Non-LP pools:
 
 * Visit [https://arthcoin.com/\#/staking](https://arthcoin.com/#/staking)
 * Click on ‘Connect’ on the top right to connect to your wallet
@@ -21,9 +21,9 @@ You can earn staking rewards buy staking your ARTH/MAHA tokens by following the 
 * Click on Confirm if prompted by Wallet
 * Wait for a few seconds, & your ARTH & token balance shall show up. You can then Settle & Withdraw both your tokens.
 
-### For LP Pools 
+### For LP Pools
 
-You can follow the below steps to stake your LP tokens, considering that you have already added Liquidity to either the MahaSwap pool or the Uniswap pool. Note that the rewards are more for the MahaSwap pool. 
+You can follow the below steps to stake your LP tokens, considering that you have already added Liquidity to either the MahaSwap pool or the Uniswap pool. Note that the rewards are more for the MahaSwap pool.
 
 ![](../.gitbook/assets/tg_image_29727786-copy.jpeg)
 
@@ -41,6 +41,5 @@ You can follow the below steps to stake your LP tokens, considering that you hav
 * Deposit ARTH/DAI Uniswap LP tokens and Earn $MAHA - 30 days 
 * Deposit $ARTH and Earn $MAHA - 30 days 
 
-  
-Please note: Staking pools can be added/removed. Please always verify the current available pools on [https://arthcoin.com/\#/staking](https://arthcoin.com/#/staking) 
+Please note: Staking pools can be added/removed. Please always verify the current available pools on [https://arthcoin.com/\#/staking](https://arthcoin.com/#/staking)
 

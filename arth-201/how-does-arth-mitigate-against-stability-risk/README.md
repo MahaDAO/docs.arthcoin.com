@@ -26,7 +26,5 @@ Based on these points, the MahaDAO team have come up with a few key innovations 
 * **Uniswap Integration** - Tying bond purchases to the Uniswap price
 * **Stability Fees** - A measure to dampen bond redemptions 
 
-More on them in the following sections. 
-
-
+More on them in the following sections.
 

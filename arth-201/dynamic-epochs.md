@@ -22,23 +22,17 @@ Dynamic Epochs allow flexibility and can allow the governance protocol to unders
 
 The ARTH protocol currently rewards 200 ARTH for those who advance the protocol's Epoch. This is done as a measure to keep the system decentralized and allow the general public to forward the protocol to the next epoch.
 
-## What is TWAP? 
+## What is TWAP?
 
-While spot price means the current market price of an asset, TWAP means a time weighted average price over a given period of time.   
-  
-Thus, the 1 hr TWAP takes an average price over a period of 1 hour & the 12 hr TWAP taken an average price over a period of 12 hrs. 
+While spot price means the current market price of an asset, TWAP means a time weighted average price over a given period of time.
 
-In the ARTH Protocol, the 1hr TWAP of ARTH is updated every hour, but the 12hr TWAP of ARTH is updated every 12 hrs, that is at every epoch.  
+Thus, the 1 hr TWAP takes an average price over a period of 1 hour & the 12 hr TWAP taken an average price over a period of 12 hrs.
 
-## TWAP Triggers 
+In the ARTH Protocol, the 1hr TWAP of ARTH is updated every hour, but the 12hr TWAP of ARTH is updated every 12 hrs, that is at every epoch.
 
-Here are the different triggers that occur depending on the 12hr TWAP & the 1hr TWAP 
+## TWAP Triggers
+
+Here are the different triggers that occur depending on the 12hr TWAP & the 1hr TWAP
 
 ![](../.gitbook/assets/twap-triggers-arth.png)
-
-  
-  
-
-
-
 
