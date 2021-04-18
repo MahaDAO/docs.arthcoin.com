@@ -12,11 +12,13 @@ ARTH is only minted whenever collateral is deposited into any one of the protoco
 
 ARTH is never minted freely without some kind of collateral being deposited into the protocol.
 
+_\(_[_See Collateral Pools, Minting ARTH_](collateral-pools/minting-and-redeeming-arth.md#minting-arth)_\)_
+
 ## When ARTH is burnt?
 
-ARTH is burnt when it is redeemed for it's underlying collateral.
+ARTH is burnt when it is redeemed for its underlying collateral. Since there are multiple pools, users can go to any one of the collateral pools 
 
-TODO
+\_\_[_\(See Collateral Pools, Redeeming ARTH\)_](collateral-pools/minting-and-redeeming-arth.md#redeeming-arth)
 
 ## Special Case: Protocol Becomes Over Collateralized
 

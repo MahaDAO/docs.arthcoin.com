@@ -20,7 +20,7 @@ At 100% CR, the collateral pool requires collateral and no ARTHX tokens to mint 
 
 ## How does a change in CR affect the protocol?
 
-A change in the CR is what makes ARTH a very efficient protocol. It allows ARTH to be undercollateralized but also remains stable as long as the ARTHX token has a strong position in the market.
+A change in the CR is what makes ARTH a very capital efficient stablecoin. It allows ARTH to be undercollateralized but also remains stable as long as the ARTHX token has a strong position in the market.
 
 A decrease in CR happens when the ARTH is going through a phase where there's a spike in demand. By reducing the CR, ARTH is become easier to be minted by ARTHX holders who now have a more significant share in the ARTH protocol.
 
