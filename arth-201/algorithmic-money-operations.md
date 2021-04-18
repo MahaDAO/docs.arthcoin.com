@@ -12,11 +12,11 @@ Algorithmic Money Operations \(or AMOs\) are an investment strategy that utilize
 
 An AMO can be thought of as a strategy that utilizes unused funds from the ARTH collateral pools and invests them into protocols like Compound Finance or AAVE to earn extra yield.
 
-AMOs[ were first conceptually introduced in the Frax protocol.](https://docs.frax.finance/amo/overview)
+_AMOs_[ _were first conceptually introduced in the Frax protocol._](https://docs.frax.finance/amo/overview)\_\_
 
 ## Where does an AMO get the funds to invest?
 
-An AMO gets it's funds from the ARTH [collateral pools.](collateral-pools/) The collateral pools contain collateral that is deposited by users which is used to back ARTH. An AMO is given special permission to a collateral pool to borrow funds from it. 
+An AMO gets its funds from the ARTH [collateral pools.](collateral-pools/) The collateral pools contain collateral that is deposited by users which is used to back ARTH. An AMO is given special permission to a collateral pool to borrow funds from it. 
 
 Hence funds for an AMO to invest are borrowed from the ARTH collateral pools.
 
@@ -24,5 +24,5 @@ Hence funds for an AMO to invest are borrowed from the ARTH collateral pools.
 
 ## How are the returns given back?
 
-The returns are given back to ARTHX holders and all staking pool providers as extra staking rewards.
+The returns are given back to ARTHX holders through the ARTHX staking pool. 
 

@@ -29,7 +29,7 @@ These staking pools will close deposits once Phase 2 has completed.
 
 **Users who redeem their ARTH for ARTHX reduce the supply of ARTH, hence further help the protocol reach its collateralization goal.**
 
-Phase 2 ends once the protocol is at least 90% backed by collateral. If the protocol does not reach this target, then the MAHA community can decide if Phase 2 should be extended or the target price for ARTH should be lowered based on the value of the collateral and the circulating supply of ARTH.
+Phase 2 ends once the protocol is at least 90% backed by collateral. If the protocol does not reach this target, then the MAHA community can decide if Phase 2 should be extended or if ARTH should be [rebased](../arth-201/rebase-mechanism.md) to meet the current value of the collateral and meet the circulating supply of ARTH.
 
 ### Phase 3 - ARTHX is distributed for MAHA holders
 

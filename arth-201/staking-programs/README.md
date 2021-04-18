@@ -14,8 +14,6 @@ Users who stake for longer periods of time [can have their rewards boosted](boos
 
 Furthermore, users who stake earn rewards in multiple tokens not limiting to just ARTH, ARTHX, and MAHA.
 
-
-
 ## What Staking Pools are live and what rewards do people earn?
 
 As of writing users can stake the following tokens
@@ -31,16 +29,7 @@ As of writing users can stake the following tokens
 * ARTH-ARTHX SushiSwap LP
 * MAHA-ETH SushiSwap LP
 
-Each pool will earn rewards in the following tokens. 
-
-* ARTHX
-* MAHA
-* WETH
-* WBTC
-* USDT
-* USDC
-
-LP token pools receive greater rewards \(4 times more\) than individual token pools as LP token holders generally carry on greater risk than individual token holders.
+LP token pools receive greater rewards \(4 times more\) than individual token pools as LP token holders generally carry on greater risk \(impermanent loss\) than with individual token holders.
 
 For more information on the APY of the current staking pools, visit [https://arthcoin.com/\#/farming](https://arthcoin.com/#/farming)
 

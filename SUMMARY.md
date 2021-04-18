@@ -32,6 +32,7 @@
   * [Earning Rewards in Multiple Tokens](arth-201/staking-programs/earning-rewards-in-multiple-tokens.md)
   * [ARTH Pool Token](arth-201/staking-programs/arth-pool-token.md)
 * [Algorithmic Money Operations](arth-201/algorithmic-money-operations.md)
+* [Rebase Mechanism](arth-201/rebase-mechanism.md)
 
 ## ARTH 301 - Tutorials <a id="tutorials"></a>
 
