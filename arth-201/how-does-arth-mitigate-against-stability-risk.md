@@ -23,12 +23,16 @@ The trading fee is charged when a user:
 
 * Redeems collateral
 * Recollateralized the protocol
-* Buysback Collateral
+* Buyback Collateral
 * Mints new ARTH tokens
 
 The trading fee is used to drive revenue for ARTH holders.
 
 ## Redemption Fees
+
+Redemption fees are used as a mechanism to encourage or discourage collateral redemption from within the protocol. Redemption fees are charged in MAHA tokens and are calculated as a percentage of the collateral that is being redeemed.
+
+When Governance decides that the protocol is under high risk and is about to lose it's collateral, it sets the redemption fee at a higher percentage \(from 5-20%\). When Governance decides that the protocol is under low risk, then the redemption fees are reduced to 1-5%.
 
 
 
