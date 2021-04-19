@@ -16,7 +16,7 @@ If the protocol realizes that it has excess collateral then it’ll trigger a bu
 
 ## Advantages of holding ARTHX
 
-ARTHX has the chance of appreciating and being bought back by the protocol in a bull market. In a bull market, the value of the collateral exceeds the collateralization ratio of ARTH, and so the protocol ends up with excess collateral which it needs to sell off in the market. To do so, the protocol performs a ["buy back and burn"](../arth-201/collateral-pools/buybacks.md) with ARTHX using some of the excess collateral. This creates upward price pressure on ARTHX.
+ARTHX has the chance of appreciating and being bought back by the protocol in a bull market. In a bull market, the value of the collateral exceeds the collateralization ratio of ARTH, and so the protocol ends up with excess collateral which it needs to sell off in the market. To do so, the protocol performs a ["buy back and burn"]() with ARTHX using some of the excess collateral. This creates upward price pressure on ARTHX.
 
 Further ARTHX holders earn to different kinds of [platform fees](../arth-201/how-does-arth-mitigate-against-stability-risk.md) that get charged when users interact with the protocol. These fees get distributed to ARTHX stakers. ARTHX holders earn fees in collateral tokens and in MAHA/ARTH.
 
