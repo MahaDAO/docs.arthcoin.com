@@ -8,10 +8,7 @@
 * [What is MAHA?](arth-101/what-is-maha.md)
 * [What is ARTHX?](arth-101/what-is-arthx.md)
 * [The Money Illusion](arth-101/the-money-illusion.md)
-* [Use cases of ARTH](arth-101/use-cases-of-arth/README.md)
-  * [No depreciation or loss of purchasing power](arth-101/use-cases-of-arth/no-depreciation-or-loss-of-purchasing-power.md)
-  * [Taking Leverage positions on ETH/BTC](arth-101/use-cases-of-arth/taking-leverage-positions-on-eth-btc.md)
-  * [Performing Arbitrage Across Multiple Volatile Currencies](arth-101/use-cases-of-arth/arbitrage-across-multiple-trading-pairs.md)
+* [Use cases of ARTH](arth-101/use-cases-of-arth.md)
 * [Launch Plan](arth-101/arth-v2-phased-launch.md)
 
 ## ARTH 201 - Mechanics <a id="arth-201"></a>
@@ -24,7 +21,6 @@
 * [Charging Fees](arth-201/how-does-arth-mitigate-against-stability-risk.md)
 * [Protocol Controlled Value \(PCV\)](arth-201/protocol-controlled-liquidity.md)
 * [Staking Programs](arth-201/staking-programs/README.md)
-  * [Boosting Rewards](arth-201/staking-programs/boosting-rewards.md)
   * [ARTH Pool Token](arth-201/staking-programs/arth-pool-token.md)
 * [Algorithmic Money Operations](arth-201/algorithmic-money-operations.md)
 * [Rebase Mechanism](arth-201/rebase-mechanism.md)

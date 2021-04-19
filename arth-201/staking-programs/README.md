@@ -10,7 +10,7 @@ The ARTH protocol has various staking programs designed to allow token holders t
 
 Staking programs allow users to stake single-token \(eg: ARTH, ARTHX & MAHA\) and liquidity pool tokens \(eg: ARTH-ARTHX, ARTH-ETH etc..\).
 
-Users who stake for longer periods of time [can have their rewards boosted](boosting-rewards.md). This is done to encourage long-term holders.
+Users who stake for longer periods of time [can have their rewards boosted](). This is done to encourage long-term holders.
 
 Furthermore, users who stake earn rewards in multiple tokens not limiting to just ARTH, ARTHX, and MAHA.
 
