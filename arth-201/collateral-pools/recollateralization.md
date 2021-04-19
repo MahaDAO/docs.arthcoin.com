@@ -26,7 +26,5 @@ $$
 Discount = \dfrac{10 ^ x - 1}{10}  * Discount_{max}
 $$
 
-![What the rewards bonding curve looks like with a maximum discount of 30%](../../.gitbook/assets/image%20%2831%29.png)
-
 This implies that early participants who re-collateralize the protocol will earn a higher discount in ARTHX than those who re-collateralize the protocol later.
 
