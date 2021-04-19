@@ -20,7 +20,6 @@
 * [Minting and Burning ARTH](arth-201/minting-and-burning-arth.md)
 * [Target price of ARTH](arth-201/what-is-the-global-measurement-uni-gmu.md)
 * [Collateral Pools](arth-201/collateral-pools/README.md)
-  * [Minting and Redeeming ARTH](arth-201/collateral-pools/minting-and-redeeming-arth.md)
   * [Collateralization Ratio](arth-201/collateral-pools/collateralization-ratio.md)
   * [Buybacks](arth-201/collateral-pools/buybacks.md)
   * [Recollateralization](arth-201/collateral-pools/recollateralization.md)
@@ -29,18 +28,9 @@
 * [Protocol Controlled Value \(PCV\)](arth-201/protocol-controlled-liquidity.md)
 * [Staking Programs](arth-201/staking-programs/README.md)
   * [Boosting Rewards](arth-201/staking-programs/boosting-rewards.md)
-  * [Earning Rewards in Multiple Tokens](arth-201/staking-programs/earning-rewards-in-multiple-tokens.md)
   * [ARTH Pool Token](arth-201/staking-programs/arth-pool-token.md)
 * [Algorithmic Money Operations](arth-201/algorithmic-money-operations.md)
 * [Rebase Mechanism](arth-201/rebase-mechanism.md)
-
-## ARTH 301 - Tutorials <a id="tutorials"></a>
-
-* [Minting ARTH](tutorials/minting-arth.md)
-* [Redeeming ARTH](tutorials/redeeming-arth.md)
-* [Purchase ARTH & MAHA](tutorials/purchase-arth-and-maha.md)
-* [Providing Liquidity on SushiSwap](tutorials/creating-an-arth-dai-liquidity-pool.md)
-* [Staking Tokens to earn $ARTHX & $MAHA](tutorials/stake-tokens-to-earn-rewards.md)
 
 ## Others
 

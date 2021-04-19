@@ -20,8 +20,6 @@ An AMO gets its funds from the ARTH [collateral pools.](collateral-pools/) The c
 
 Hence funds for an AMO to invest are borrowed from the ARTH collateral pools.
 
-&lt;a small diagram showcasing this would be great&gt;
-
 ## How are the returns given back?
 
 The returns are given back to ARTHX holders through the ARTHX staking pool. 
