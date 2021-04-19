@@ -22,5 +22,3 @@ ARTH does this by being pegged to a basket of assets that represent strong hedge
 
 Performance of ARTH across various scenarios including crises has been documented in the [ARTH target price](../arth-201/what-is-the-global-measurement-uni-gmu.md). 
 
-## Risks of holding ARTH
-

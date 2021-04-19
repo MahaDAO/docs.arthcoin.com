@@ -25,18 +25,5 @@ By not being influenced by government-owned currencies, ARTH in effect becomes i
 * Product Website**:**  [**http://arthcoin.com**](http://arthcoin.com)
 * Contract Addresses:
   * **ARTH**: [0x0E3cC2c4FB9252d17d07C67135E48536071735D9](https://etherscan.io/token/0x0E3cC2c4FB9252d17d07C67135E48536071735D9)
-  * **MAHA**: [0xb4d930279552397bba2ee473229f89ec245bc365](https://etherscan.io/token/0xb4d930279552397bba2ee473229f89ec245bc365)
-
-## **Key features of the ARTH Valuecoin platform**
-
-For those familiar with the existing elastic stablecoin platforms, here are the key features of the ARTH platform:
-
-* **Epoch interval**: 12 hours \(Dynamic\)
-* **Max debt increase per epoch:** 3%-5%
-* **Max supply increase per epoch:** 15-30%
-* **Target Price**: Starts at 1$; Pegged to Global Measurement Unit, hence subject to change in the future
-* **Bond Interest Rates**: 10–20%
-* **Bond Redemption Fees**: 1% paid in $MAHA \(burnt\)
-
-![](.gitbook/assets/image%20%2818%29%20%287%29.png)
+  * **MAHA**: [0xb4d930279552397bba2ee473229f89ec245bc36](https://etherscan.io/token/0xb4d930279552397bba2ee473229f89ec245bc365)
 

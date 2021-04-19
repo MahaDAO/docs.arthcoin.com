@@ -8,7 +8,6 @@
 * [What is MAHA?](arth-101/what-is-maha.md)
 * [What is ARTHX?](arth-101/what-is-arthx.md)
 * [The Money Illusion](arth-101/the-money-illusion.md)
-* [ARTH vs Other Stablecoins](arth-101/arth-vs-other-stablecoins.md)
 * [Use cases of ARTH](arth-101/use-cases-of-arth/README.md)
   * [No depreciation or loss of purchasing power](arth-101/use-cases-of-arth/no-depreciation-or-loss-of-purchasing-power.md)
   * [Taking Leverage positions on ETH/BTC](arth-101/use-cases-of-arth/taking-leverage-positions-on-eth-btc.md)
