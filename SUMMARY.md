@@ -21,7 +21,6 @@
 * [Collateral Pools](arth-201/collateral-pools/README.md)
   * [Collateralization Ratio](arth-201/collateral-pools/collateralization-ratio.md)
   * [Recollateralization](arth-201/collateral-pools/recollateralization.md)
-  * [Volatile vs Stable Collateral Pools](arth-201/collateral-pools/volatile-vs-stable-collateral-pools.md)
 * [Charging Fees](arth-201/how-does-arth-mitigate-against-stability-risk.md)
 * [Protocol Controlled Value \(PCV\)](arth-201/protocol-controlled-liquidity.md)
 * [Staking Programs](arth-201/staking-programs/README.md)
