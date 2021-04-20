@@ -4,7 +4,7 @@ description: This page talks about the target price of ARTH and defines the GMU 
 
 # Target price of ARTH
 
-Because stablecoins are almost always pegged to a target price, it is ideal for them to revolve around that price. Most stablecoins are pegged to the $1 price or another fiat currency\(like Japanese Yen, Chinese Yuan, etc\). 
+Because stablecoins are almost always pegged to a target price, it is ideal for them to revolve around that price. Most stablecoins are pegged to the $1 price or another fiat currency \(like Japanese Yen, Chinese Yuan, etc\). 
 
 ARTH, however, is price pegged to the Global Measurement Unit \(GMU\). For simplicity purposes, ARTH's initial target price is set at $1.  
   
@@ -67,8 +67,6 @@ Research has shown that Bitcoin and Gold provide a strong hedge against inflatio
 $$
 GMU = (80 * Fiat + 15 * Gold + 5 * Bitcoin) / 100
 $$
-
-![Historical performance of the GMU against USD over time:](../.gitbook/assets/image%20%2897%29.png)
 
 
 
