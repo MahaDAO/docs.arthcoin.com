@@ -1,7 +1,5 @@
 ---
-description: >-
-  This page talks about the various staking pools and what are the features they
-  offer.
+description: This page talks about the various staking pools and the features they offer.
 ---
 
 # Staking Programs
@@ -12,7 +10,7 @@ Staking programs allow users to stake single-token \(eg: ARTH, ARTHX & MAHA\) an
 
 Users who stake for longer periods of time can have their rewards boosted. This is done to encourage long-term holders.
 
-Furthermore, users who stake earn rewards in multiple tokens not limiting to just ARTH, ARTHX, and MAHA.
+Furthermore, users who stake earn rewards in multiple tokens not limited to just ARTH, ARTHX, and MAHA.
 
 ## What Staking Pools are live and what rewards do people earn?
 
@@ -29,7 +27,7 @@ Users can stake the following tokens
 * ARTH-ARTHX SushiSwap LP
 * MAHA-ETH SushiSwap LP
 
-LP token pools receive greater rewards \(4 times more\) than individual token pools as LP token holders generally carry on greater risk \(impermanent loss\) than with individual token holders.
+LP token pools receive greater rewards \(4 times more\) than individual token pools as LP token holders generally carry on greater risk \(impermanent loss\) than individual token holders.
 
 For more information on the APY of the current staking pools, visit [https://arthcoin.com/\#/farming](https://arthcoin.com/#/farming)
 

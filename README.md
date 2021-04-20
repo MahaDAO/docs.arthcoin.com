@@ -1,7 +1,7 @@
 ---
 description: >-
   ARTH is the future of money. Say hello to timeless value. This guidebook
-  details the working of the ARTH coin and explains the different components in
+  details the working of the ARTH coin and explains the different components of
   the protocol.
 ---
 
@@ -9,9 +9,9 @@ description: >-
 
 ## What is ARTH?
 
-ARTH is a new type of currency designed to not be pegged to government-owned currencies \(like US Dollar, Euro, or Chinese Yuan\), but also remains relatively stable \(unlike Gold and Bitcoin\).
+ARTH is a new type of currency designed to not be pegged to government-owned currencies \(like US Dollar, Euro, or Chinese Yuan\), but still remain relatively stable \(unlike Gold and Bitcoin\).
 
-Without being influenced by government-owned currencies, ARTH in effect becomes immune to inflation. Through stability, ARTH also becomes an superior choice of currency for means of trade, unlike Gold/Bitcoin which is used more as a store of value rather than a medium of exchange.
+Without being influenced by government-owned currencies, ARTH will be immune to inflation. Through stability, ARTH also becomes a superior choice of currency for means of trade. This is unlike Gold or Bitcoin, which are used more as a store of value rather than a medium of exchange.
 
 ![ARTH. Purchase. Power. ](.gitbook/assets/mahadao-asset-10%20%282%29.jpg)
 
@@ -20,7 +20,7 @@ Without being influenced by government-owned currencies, ARTH in effect becomes 
 * Token Name: **$ARTH**
 * Type: **ERC-20**
 * Blockchain**: Ethereum Mainnet**
-* Start off Price at Protocol Launch: **US $1**
+* Initial Price at Protocol Launch: **US $1**
 * Target Price: **Pegged to** [**GMU**](arth-201/what-is-the-global-measurement-uni-gmu.md) **Index**
 * Product Website**:**  [**http://arthcoin.com**](http://arthcoin.com)
 * Contract Addresses:

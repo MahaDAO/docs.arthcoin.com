@@ -6,11 +6,11 @@ description: >-
 
 # Recollateralization
 
-If ever the protocol finds that one of its collateral pools does not have enough collateral to meet the collateralization ratio \(CR\), the protocol opens up the pool for re-collateralization. 
+If the protocol finds that one of its collateral pools does not have enough collateral to meet the collateralization ratio \(CR\), the protocol opens up the pool for re-collateralization. 
 
 Recollateralization allows users to deposit collateral into the pool and in turn receive a discount in ARTHX proportionate to how much collateral they've deposited.
 
-## Bonding curve based discounts
+## Bonding curve discounts
 
 The discount a user receives by re-collateralizing the protocol is based on a bonding curve which gives more rewards to people who participate in re-collateralizing the protocol early on.
 

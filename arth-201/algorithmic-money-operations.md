@@ -1,6 +1,6 @@
 ---
 description: >-
-  This sections describes what Algorithmic Money Operations (AMOs) are and how
+  This section describes what Algorithmic Money Operations (AMOs) are and how
   they work
 ---
 
