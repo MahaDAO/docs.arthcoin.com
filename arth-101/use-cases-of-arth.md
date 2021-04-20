@@ -1,3 +1,7 @@
+---
+description: A means of exchange & store of value.
+---
+
 # Use cases of ARTH
 
 ## No depreciation or loss of purchasing power

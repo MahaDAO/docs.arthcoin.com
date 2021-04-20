@@ -1,5 +1,5 @@
 ---
-description: A silent tax
+description: A silent tax.
 ---
 
 # The Money Illusion
