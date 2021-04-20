@@ -6,8 +6,6 @@ description: This page explains how ARTH v2 will launch in a phased manner.
 
 ARTH 2.0 is going to be the next major protocol update that’ll bring stability and volume to ARTH.
 
-![](.gitbook/assets/arth-2.0-launching-phases-5-.png)
-
 ### Phase 1 - Initial Distribution of ARTH v2 & Migration from v1
 
 Migration will take place; All ARTH v1 holders get airdropped ARTH v2 tokens

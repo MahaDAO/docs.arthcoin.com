@@ -6,6 +6,8 @@ description: >-
 
 # Algorithmic Money Operations
 
+![](../.gitbook/assets/arthx-algorithmic-money-operations-amo-.png)
+
 Algorithmic Money Operations \(or AMOs\) are an investment strategy that utilizes the collateral that is locked up in the unused pools to earn interest that will be paid to all stakers and ARTHX holders.
 
 ## What is an AMO and how does it work?
