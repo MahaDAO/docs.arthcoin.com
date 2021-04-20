@@ -8,7 +8,7 @@ This means users who hold ARTH for longer periods of time should see their purch
 
 ## Taking Leverage positions on ETH/BTC
 
-In future implementations of ARTH, the protocol will allow users to mint ARTH tokens by placing down some amount of collateral.
+In future implementations of the ARTH valuecoin, the protocol will allow users to mint ARTH tokens by placing down some amount of collateral.
 
 ## Performing Arbitrage Across Multiple Volatile Currencies
 

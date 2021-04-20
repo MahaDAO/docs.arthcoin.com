@@ -9,7 +9,10 @@
 * [What is ARTHX?](arth-101/what-is-arthx.md)
 * [The Money Illusion](arth-101/the-money-illusion.md)
 * [Use cases of ARTH](arth-101/use-cases-of-arth.md)
-* [Launch Plan](arth-101/arth-v2-phased-launch.md)
+
+---
+
+* [ARTH 2.0 Launch Plan](arth-v2-phased-launch.md)
 
 ## ARTH 201 - Mechanics <a id="arth-201"></a>
 
