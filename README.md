@@ -9,9 +9,9 @@ description: >-
 
 ## What is ARTH?
 
-ARTH is a currency that is designed not to be pegged to government-owned currencies \(like US Dollar, Euro, or Chinese Yuan\), but also remains relatively stable \(unlike Gold and Bitcoin\).
+ARTH is a new type of currency designed to not be pegged to government-owned currencies \(like US Dollar, Euro, or Chinese Yuan\), but also remains relatively stable \(unlike Gold and Bitcoin\).
 
-By not being influenced by government-owned currencies, ARTH in effect becomes immune to inflation. And by also being stable, ARTH in effect also becomes an ideal choice of currency for means of trade, unlike Gold/Bitcoin which is used more as a store of value rather than a medium of exchange.
+Without being influenced by government-owned currencies, ARTH in effect becomes immune to inflation. Through stability, ARTH also becomes an superior choice of currency for means of trade, unlike Gold/Bitcoin which is used more as a store of value rather than a medium of exchange.
 
 ![ARTH. Purchase. Power. ](.gitbook/assets/mahadao-asset-10%20%282%29.jpg)
 

@@ -6,9 +6,9 @@ description: >-
 
 # What is ARTH?
 
-ARTH is a currency that is designed not to be pegged to government-owned currencies \(like US Dollar, Euro, or Chinese Yuan\), but at the same time remain relatively stable \(unlike Gold and Bitcoin\).
+ARTH is a next generation digital currency designed to tackle the depreciation of government-owned currencies \(like US Dollar, Euro, or Chinese Yuan\), but at the same time remain relatively stable \(unlike Gold and Bitcoin\).
 
-Hence, ARTH is also the first currency to be immune to inflation and be stable at the same time.
+Hence, ARTH is the first currency to be immune to inflation and stable at the same time.
 
 Government-owned currencies have proven that they can be inflated and[ lose their value over time.](the-money-illusion.md) Furthermore, assets like Gold/Bitcoin while have proven themselves as strong hedges against inflation, have proven themselves too volatile for regular trade. _**ARTH is the first currency that solves both these issues in one asset.**_
 

@@ -1,3 +1,7 @@
+---
+description: A silent tax
+---
+
 # The Money Illusion
 
 ## The time value of money
