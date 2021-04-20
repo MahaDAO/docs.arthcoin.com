@@ -12,13 +12,12 @@ For example, if the target price of ARTH is set as $1. And If its price goes abo
 
 To elaborate, if Alice has 1 ARTH, which doubles in value to become $2, the supply will inflate through the rebase mechanism. This means that Alice’s 1 ARTH will decrease to 0.5 ARTH, yet the value will still be $1 since 1 ARTH would now be worth $2.
 
-## When are Rebases triggered?
+## When are rebases triggered?
 
-ARTH triggers a rebase when the value of the collateral locked cannot sustain the protocol's target price. Such an event could occur during the following scenarios.
+ARTH triggers a rebase when the value of the collateral locked cannot sustain the protocol's target price. Such an event could occur during the following scenarios:
 
 1. During the ARTH Genesis Launch
-2. After any of the ARTH IDOs
-3. A black-friday event
+2. A black-friday event
 
 Rebases are triggered by Governance. 
 
