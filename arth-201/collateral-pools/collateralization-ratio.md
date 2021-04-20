@@ -1,6 +1,6 @@
 ---
 description: >-
-  This page explains what is the Collateralization ratio and how it influences
+  This page explains what the Collateralization Ratio is and how it influences
   the price.
 ---
 
@@ -22,9 +22,9 @@ At 100% CR, the collateral pool requires collateral and no ARTHX tokens to mint 
 
 A change in the CR is what makes ARTH a very capital efficient stablecoin. It allows ARTH to be undercollateralized but also remains stable as long as the ARTHX token has a strong position in the market.
 
-A decrease in CR happens when the ARTH is going through a phase where there's a spike in demand. By reducing the CR, ARTH is become easier to be minted by ARTHX holders who now have a more significant share in the ARTH protocol.
+A decrease in CR happens when the ARTH is going through a phase where there's a spike in demand. By reducing the CR, ARTH becomes easier to be minted by ARTHX holders who now have a more significant share in the ARTH protocol.
 
-Further, a decrease in CR could creates excess collateral which can be used by the protocol to buyback and burn ARTHX tokens. \(However, note that it is not encouraged to simply decrease the CR to trigger these buybacks. A very low CR could pose a risk to the stability of the protocol\).
+Further, a decrease in CR could create excess collateral which can be used by the protocol to buyback and burn ARTHX tokens. \(However, note that it is not encouraged to simply decrease the CR to trigger these buybacks. A very low CR could pose a risk to the stability of the protocol\).
 
 An increase in CR happens when ARTH goes below the peg and the protocol realizes that it needs more collateral to support the peg. In such scenarios, the protocol triggers a re-collaterlize event, where it'll attempt to buy more collateral in exchange for newly minted ARTHX tokens. These newly minted ARTHX tokens can be sold off in the market to give a discount \(However note that this does create an unwanted sell pressure on the ARTHX token\). 
 

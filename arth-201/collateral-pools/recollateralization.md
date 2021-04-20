@@ -14,7 +14,7 @@ Recollateralization allows users to deposit collateral into the pool and in turn
 
 The discount a user receives by re-collateralizing the protocol is based on a bonding curve which gives more rewards to people who participate in re-collateralizing the protocol early on.
 
-If the protocol starts at 10% collateralization ratio \(CR\) and has a target of 80% collateralization ratio, then the protocol calculates the distance from the target CR ratio, using this formula
+If the protocol starts at a 10% collateralization ratio \(CR\) and has a target of 80% collateralization ratio, then the protocol calculates the distance from the target CR ratio, using this formula
 
 $$
 x = \dfrac{CR_{target} - CR_{current}}{ CR_{target} }

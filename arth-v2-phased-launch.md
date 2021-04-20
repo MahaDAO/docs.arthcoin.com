@@ -18,7 +18,7 @@ Exchanges will be informed, Coingecko, CoinMarketCap, Etherscan, 1nch will be in
 
 ARTHX is launched and users are able to redeem their ARTH for ARTHX.
 
-Minting of ARTH is disabled and users redeem their ARTH for ARTHX at a 1:1 ratio. The amount of ARTHX minted is decided on the market price of ARTHX taken from Uniswap. This is how ARTHX tokens enter into the supply. 
+Minting of ARTH is disabled and users redeem their ARTH for ARTHX at a bonding curve model. The amount of ARTHX minted is decided on the market price of ARTHX taken from Uniswap. This is how ARTHX tokens enter into the supply. 
 
 Recollateralizing of ARTH happens at a 100% collateralization ratio and users who do so will be rewarded 101% of their collateral in ARTHX tokens along with a reward in MAHA tokens. ARTHX that gets minted during this phase will happen at a fixed price with respect to the collateral being issued.
 
