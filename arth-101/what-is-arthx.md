@@ -6,15 +6,13 @@ description: This page talks about the ARTHX stability token.
 
 ARTH Shares \(ARTHX\) is the solution in bringing stability to ARTH but also keeping ARTH partially collateralised. ARTHX is a non-stable token that is designed to absorb the volatility of ARTH.
 
-When ARTH is trading above 1$, arbitrageurs will buy ARTHX to mint ARTH and sell the ARTH in the open market to realise a profit. Hence bringing the price of ARTH down to the 1$ mark.
+When ARTH is trading above 1$, arbitrageurs will mint ARTH by providing collatearl and sell ARTHX in the open market to realize a profit. Hence bringing the price of ARTH down to the 1$ mark.
 
-When ARTH is trading below 1$, arbitrageurs will purchase ARTH from the open market and then redeem/burn the ARTH to get back the underlying collateral along with some ARTHX which is sold off in the market to realise a profit. Hence reducing the supply of ARTH to meet the actual demand for it.
+When ARTH is trading below 1$, arbitrageurs will redeem ARTH along with ARTHX from the open market to get back the underlying collateral to realize a profit. Hence reducing the supply of ARTH to meet the actual demand for it.
 
 ![](../.gitbook/assets/arth-v2.0-2-.png)
 
-However, there are many things that make ARTHX an attractive token. ARTHX is a deflationary token and there will be no more than **10,000** ARTHX tokens in circulation. 
-
-If the protocol realises that it has excess collateral then it’ll trigger a buyback of ARTHX using the actual collateral, burning the ARTHX out of the supply, thereby having a deflationary pressure on ARTHX.
+However, there are many things that make ARTHX an attractive token. ARTHX is a deflationary token.
 
 ## Advantages of holding ARTHX
 
