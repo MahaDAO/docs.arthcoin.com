@@ -10,10 +10,6 @@
 * [The Money Illusion](arth-101/the-money-illusion.md)
 * [Use cases of ARTH](arth-101/use-cases-of-arth.md)
 
----
-
-* [ARTH 2.0 Launch Plan](arth-v2-phased-launch.md)
-
 ## ARTH 201 - Mechanics <a id="arth-201"></a>
 
 * [Minting and Burning ARTH](arth-201/minting-and-burning-arth.md)

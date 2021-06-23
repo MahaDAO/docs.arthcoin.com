@@ -30,7 +30,7 @@ An increase in CR happens when ARTH goes below the peg and the protocol recogniz
 
 ## Bootstrapping the CR
 
-At the [launch](../../arth-v2-phased-launch.md) of ARTH 2.0, the collateralization ratio will be set differently for redemption and for minting.
+At the [launch]() of ARTH 2.0, the collateralization ratio will be set differently for redemption and for minting.
 
 During the bootstrapping period, the redemption collateralization ratio will be set at 0% and the minting collateralization ratio will be set at 100%.
 
