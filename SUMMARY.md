@@ -24,6 +24,12 @@
 * [Algorithmic Money Operations](arth-201/algorithmic-money-operations.md)
 * [Rebase Mechanism](arth-201/rebase-mechanism.md)
 
+## Tutorials - Genesis <a id="tutorials"></a>
+
+* [Getting started](tutorials/getting-started.md)
+* [Commit Collateral to get ARTHX](tutorials/commit-collateral-to-get-arthx.md)
+* [Swap ARTH for ARTHX](tutorials/swap-arth-for-arthx.md)
+
 ## Others
 
 * [FAQs](others/faqs-arth-bonds-usdarthb.md)
