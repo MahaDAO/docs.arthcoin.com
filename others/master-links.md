@@ -10,7 +10,11 @@
 
 ## ARTH Token 
 
-* Coming soon 
+* **ARTH \(Polygon\)**:  [0xe52509181feb30eb4979e29ec70d50fd5c44d59](https://polygonscan.com/token/0xe52509181feb30eb4979e29ec70d50fd5c44d590)\*\*\*\*
+
+## ARTHX Token 
+
+* **ARTHX \(Polygon\):**  [0xd354d56dae3588f1145dd664bc5094437b889d6f](https://polygonscan.com/token/0xd354d56dae3588f1145dd664bc5094437b889d6f)
 
 ## Websites, Portals, Socials & more
 
