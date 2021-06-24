@@ -19,11 +19,14 @@ Without being influenced by government-owned currencies, ARTH will be immune to 
 
 * Token Name: **$ARTH**
 * Type: **ERC-20**
-* Blockchain**: Ethereum Mainnet**
+* Blockchain**: Polygon Mainnet**
 * Initial Price at Protocol Launch: **US $1**
 * Target Price: **Pegged to** [**GMU**](arth-201/what-is-the-global-measurement-uni-gmu.md) **Index**
-* Product Website**:**  [**http://arthcoin.com**](http://arthcoin.com)
+* Product Website**:**  [**https://arthcoin.com**](https://arthcoin.com/)\*\*\*\*
 * Contract Addresses:
-  * **ARTH**: [0x0E3cC2c4FB9252d17d07C67135E48536071735D9](https://etherscan.io/token/0x0E3cC2c4FB9252d17d07C67135E48536071735D9)
-  * **MAHA**: [0xb4d930279552397bba2ee473229f89ec245bc36](https://etherscan.io/token/0xb4d930279552397bba2ee473229f89ec245bc365)
+  * **ARTH \(Polygon\)**:  [0xe52509181feb30eb4979e29ec70d50fd5c44d590](https://polygonscan.com/token/0xe52509181feb30eb4979e29ec70d50fd5c44d590)
+  * **MAHA \(ETH\)**:   [0xb4d930279552397bba2ee473229f89ec245bc365](https://etherscan.io/token/0xb4d930279552397bba2ee473229f89ec245bc365)
+  * **ARTHX \(Polygon\):**  [0xd354d56dae3588f1145dd664bc5094437b889d6f](https://polygonscan.com/token/0xd354d56dae3588f1145dd664bc5094437b889d6f)
+
+
 
