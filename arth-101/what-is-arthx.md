@@ -4,7 +4,7 @@ description: This page talks about the ARTHX stability token.
 
 # What is ARTHX?
 
-ARTH Shares \(ARTHX\) is the solution in bringing stability to ARTH but also keeping ARTH partially collateralised. ARTHX is a non-stable token that is designed to absorb the volatility of ARTH.
+ARTH Shares \(ARTHX\) is the solution in bringing stability to ARTH but also keeping ARTH fully collateralized. ARTHX is a non-stable token that is designed to absorb the volatility of ARTH.
 
 When ARTH is trading above 1$, arbitrageurs will mint ARTH by providing collateral and sell ARTHX in the open market to realize a profit. Hence bringing the price of ARTH down to the 1$ mark
 
