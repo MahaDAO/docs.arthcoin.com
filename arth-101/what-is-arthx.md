@@ -26,6 +26,5 @@ While there are many potential benefits in holding ARTHX, there are also risks t
 
 * ARTHX can witness sell pressure when the market turns into a bear market: When the market turns into a bear market and the net value of the underlying collateral decreases, then the protocol sells of collateral in return for a discount in ARTHX. This ARTHX is sold by arbitrageurs to keep ARTH stable and realize a profit. 
 * ARTHX is a relatively new concept and can have undiscovered economic flaws: Being a new concept has its pros and cons. ARTHX comes in that same boat.
-* ARTHX is a relatively new concept and can have undiscovered economic flaws.
 * While ARTHX will be thoroughly audited and tested before launch, the protocol may enter unknown bugs/issues, either small or big.
 
