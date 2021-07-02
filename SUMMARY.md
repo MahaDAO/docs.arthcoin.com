@@ -13,14 +13,13 @@
 ## ARTH 201 - Mechanics <a id="arth-201"></a>
 
 * [Minting and Burning ARTH](arth-201/minting-and-burning-arth.md)
-* [Target price of ARTH](arth-201/what-is-the-global-measurement-uni-gmu.md)
+* [Target price of ARTH - $2](arth-201/what-is-the-global-measurement-uni-gmu.md)
 * [Collateral Pools](arth-201/collateral-pools/README.md)
   * [Collateralization Ratio](arth-201/collateral-pools/collateralization-ratio.md)
   * [Recollateralization](arth-201/collateral-pools/recollateralization.md)
 * [Charging Fees](arth-201/how-does-arth-mitigate-against-stability-risk.md)
 * [Protocol Controlled Value \(PCV\)](arth-201/protocol-controlled-liquidity.md)
-* [Staking Programs](arth-201/staking-programs/README.md)
-  * [ARTH Pool Token](arth-201/staking-programs/arth-pool-token.md)
+* [Staking Programs](arth-201/staking-programs.md)
 * [Algorithmic Money Operations](arth-201/algorithmic-money-operations.md)
 * [Rebase Mechanism](arth-201/rebase-mechanism.md)
 
@@ -32,6 +31,5 @@
 
 ## Others
 
-* [FAQs](others/faqs-arth-bonds-usdarthb.md)
 * [External Links](others/master-links.md)
 

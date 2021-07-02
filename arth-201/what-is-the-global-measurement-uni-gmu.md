@@ -2,11 +2,11 @@
 description: This page talks about the target price of ARTH and defines the GMU index
 ---
 
-# Target price of ARTH
+# Target price of ARTH - $2
 
 Because stablecoins are almost always pegged to a target price, it is ideal for them to revolve around that price. Most stablecoins are pegged to the 1 USD price or another fiat currency \(like Japanese Yen, Chinese Yuan, etc\). 
 
-ARTH, however, is price pegged to the Global Measurement Unit \(GMU\). For simplicity purposes, ARTH's initial target price is set at 1 USD worth of GMU. From here, as GMU changes, so will ARTH’s peg. As the pegged price is used as an anchor, if the current value of the ARTH falls on either side of the target price, the protocol either re-collateralizes or performs buybacks to meet the target price.
+ARTH, however, is price pegged to the Global Measurement Unit \(GMU\). For simplicity purposes, ARTH's initial target price was set at **1 USD worth of GMU**. From here, as GMU changed over time, ARTH’s peg was updated to $2 at the time of ARTH 2.0 Launch, signifying the rise in inflation amongst other things. As the pegged price is used as an anchor, if the current value of the ARTH falls on either side of the target price, the protocol either re-collateralizes or performs buybacks to meet the target price.
 
 Most stablecoins provide nothing more than just a USD stablecoin that competes with the utility of existing stablecoins like USDT, USDC, DAI, etc. ARTH is different: it is not just a stablecoin, it is the world’s first valuecoin.
 

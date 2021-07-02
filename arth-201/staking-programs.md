@@ -16,18 +16,17 @@ Furthermore, users who stake earn rewards in multiple tokens not limited to just
 
 Users can stake the following tokens
 
-* ARTH
-* ARTHX
-* MAHA
-* ARTH-USDC SushiSwap LP
-* ARTH-USDT SushiSwap LP
-* ARTH-WBTC SushiSwap LP
-* ARTH-ETH SushiSwap LP
-* ARTHX-ETH SushiSwap LP
-* ARTH-ARTHX SushiSwap LP
-* MAHA-ETH SushiSwap LP
+🔹 ARTH/USDC LP 
 
-LP token pools receive greater rewards \(4 times more\) than individual token pools as LP token holders generally carry on greater risk \(impermanent loss\) than individual token holders.
+🔹 ARTH/MAHA LP
 
-For more information on the APY of the current staking pools, visit [https://arthcoin.com/\#/farming](https://arthcoin.com/#/farming)
+🔹 $ARTHX 
+
+🔹 $ARTH 
+
+🔹 $MAHA 
+
+🔹 ARTH/ARTHX LP 
+
+LP token pools receive greater rewards than individual token pools as LP token holders generally carry on greater risk \(impermanent loss\) than individual token holders
 

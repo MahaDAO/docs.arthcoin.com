@@ -7,6 +7,7 @@
 * MAHA CoinGecko: [https://www.coingecko.com/en/coins/mahadao](https://www.coingecko.com/en/coins/mahadao)
 * MAHA CoinmarketCap: [https://coinmarketcap.com/currencies/mahadao/](https://coinmarketcap.com/currencies/mahadao/)
 * MAHA DexTools: [https://www.dextools.io/app/uniswap/pair-explorer/0xc0897d6ba893e31f42f658eead777aa15b8f824d](https://www.dextools.io/app/uniswap/pair-explorer/0xc0897d6ba893e31f42f658eead777aa15b8f824d)
+* MAHA Polygon: [https://polygonscan.com/token/0xedd6ca8a4202d4a36611e2fff109648c4863ae19](https://polygonscan.com/token/0xedd6ca8a4202d4a36611e2fff109648c4863ae19)
 
 ## ARTH Token 
 
