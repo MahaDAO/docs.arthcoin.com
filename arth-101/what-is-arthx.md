@@ -18,7 +18,7 @@ However, there are many things that make ARTHX an attractive token. ARTHX is a d
 
 ARTHX has the chance of appreciating and being bought back by the protocol in a bull market. In a bull market, the value of the collateral exceeds the collateralisation ratio of ARTH, and so the protocol ends up with excess collateral which it needs to sell in the market. To do so, the protocol performs a "buy back and burn" with ARTHX using some of the excess collateral. This creates an upward price pressure on ARTHX.
 
-Further ARTHX holders earn different kinds of [platform fees](../arth-201/how-does-arth-mitigate-against-stability-risk.md) that get charged when users interact with the protocol. These fees get distributed to ARTHX stakers who stake their tokens in the various pools available. ARTHX holders earn fees in collateral tokens and in MAHA/ARTH.
+Further ARTHX holders earn different kinds of [platform fees](../protocol/how-does-arth-mitigate-against-stability-risk.md) that get charged when users interact with the protocol. These fees get distributed to ARTHX stakers who stake their tokens in the various pools available. ARTHX holders earn fees in collateral tokens and in MAHA/ARTH.
 
 ## Risks of ARTHX
 

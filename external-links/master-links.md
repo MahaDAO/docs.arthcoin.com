@@ -1,10 +1,10 @@
-# External Links
+# Other Links
 
 ## MAHA Token 
 
-* MAHA Etherscan: [https://etherscan.io/token/0xb4d930279552397bba2ee473229f89ec245bc365](https://etherscan.io/token/0xb4d930279552397bba2ee473229f89ec245bc365)
-* MAHA Uniswap: [https://info.uniswap.org/token/0xb4d930279552397bba2ee473229f89ec245bc365](https://info.uniswap.org/token/0xb4d930279552397bba2ee473229f89ec245bc365)
-* MAHA CoinGecko: [https://www.coingecko.com/en/coins/mahadao](https://www.coingecko.com/en/coins/mahadao)
+* MAHA Etherscan - [link](https://etherscan.io/token/0xb4d930279552397bba2ee473229f89ec245bc365)
+* MAHA Uniswap - [link](https://info.uniswap.org/token/0xb4d930279552397bba2ee473229f89ec245bc365)
+* MAHA CoinGecko - [link](https://www.coingecko.com/en/coins/mahadao)
 * MAHA CoinmarketCap: [https://coinmarketcap.com/currencies/mahadao/](https://coinmarketcap.com/currencies/mahadao/)
 * MAHA DexTools: [https://www.dextools.io/app/uniswap/pair-explorer/0xc0897d6ba893e31f42f658eead777aa15b8f824d](https://www.dextools.io/app/uniswap/pair-explorer/0xc0897d6ba893e31f42f658eead777aa15b8f824d)
 * MAHA Polygon: [https://polygonscan.com/token/0xedd6ca8a4202d4a36611e2fff109648c4863ae19](https://polygonscan.com/token/0xedd6ca8a4202d4a36611e2fff109648c4863ae19)

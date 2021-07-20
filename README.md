@@ -5,7 +5,7 @@ description: >-
   the protocol.
 ---
 
-# Welcome to ARTH
+# Overview
 
 ## What is ARTH?
 
@@ -21,7 +21,7 @@ Without being influenced by government-owned currencies, ARTH will be immune to 
 * Type: **ERC-20**
 * Blockchain**: Polygon Mainnet**
 * Initial Price at Protocol Launch: **US $2**
-* Target Price: **Pegged to** [**GMU**](arth-201/what-is-the-global-measurement-uni-gmu.md) **Index**
+* Target Price: **Pegged to** [**GMU**](protocol/what-is-the-global-measurement-uni-gmu.md) **Index**
 * Product Website**:**  [**https://arthcoin.com**](https://arthcoin.com/)\*\*\*\*
 * Contract Addresses:
   * **ARTH \(Polygon\)**:  [0xe52509181feb30eb4979e29ec70d50fd5c44d590](https://polygonscan.com/token/0xe52509181feb30eb4979e29ec70d50fd5c44d590)

@@ -20,5 +20,5 @@ ARTH does this by being pegged to a basket of assets that represent strong hedge
 
 ![](../.gitbook/assets/image%20%2868%29.png)
 
-Performance of ARTH across various scenarios including crises has been documented in the [ARTH target price](../arth-201/what-is-the-global-measurement-uni-gmu.md). 
+Performance of ARTH across various scenarios including crises has been documented in the [ARTH target price](../protocol/what-is-the-global-measurement-uni-gmu.md). 
 
