@@ -14,10 +14,6 @@ ARTH is never minted freely without some kind of collateral being deposited into
 
 Users will choose to mint ARTH when it is trading above its GMU peg.
 
- 
-
-![](../.gitbook/assets/arth-v2.0-2-%20%283%29.png)
-
 ## When is ARTH burnt?
 
 ARTH is burnt when it is redeemed for its underlying collateral. Since there are multiple pools, users can go to any one of the collateral pools to redeem their ARTH tokens.

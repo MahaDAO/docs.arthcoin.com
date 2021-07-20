@@ -16,17 +16,12 @@ Furthermore, users who stake earn rewards in multiple tokens not limited to just
 
 Users can stake the following tokens
 
-🔹 ARTH/USDC LP 
-
-🔹 ARTH/MAHA LP
-
-🔹 $ARTHX 
-
-🔹 $ARTH 
-
-🔹 $MAHA 
-
-🔹 ARTH/ARTHX LP 
+* ARTH/USDC LP 
+* ARTH/MAHA LP
+* ARTHX 
+* ARTH 
+* MAHA 
+* ARTH/ARTHX LP 
 
 LP token pools receive greater rewards than individual token pools as LP token holders generally carry on greater risk \(impermanent loss\) than individual token holders
 

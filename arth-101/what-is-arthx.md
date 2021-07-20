@@ -1,5 +1,7 @@
 ---
-description: This page talks about the ARTHX stability token.
+description: >-
+  ARTHX is the fee bearing token of the ecosystem. This page describes how the
+  ARTHX token works.
 ---
 
 # What is ARTHX?
@@ -9,8 +11,6 @@ ARTH Shares \(ARTHX\) is the solution in bringing stability to ARTH but also kee
 When ARTH is trading above 1$, arbitrageurs will mint ARTH by providing collateral and sell ARTHX in the open market to realize a profit. Hence bringing the price of ARTH down to the 1$ mark
 
 When ARTH is trading below 1$, arbitrageurs will redeem ARTH along with ARTHX from the open market to get back the underlying collateral to realize a profit. Hence reducing the supply of ARTH to meet the actual demand for it.
-
-![](../.gitbook/assets/arth-v2.0-2-%20%282%29.png)
 
 However, there are many things that make ARTHX an attractive token. ARTHX is a deflationary token, earns platform fees, and is bought back from the protocol when the protocol is over-collateralized. 
 
