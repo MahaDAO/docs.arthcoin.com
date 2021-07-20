@@ -3,6 +3,7 @@
 * [Overview](README.md)
 * [The Money Illusion](the-money-illusion.md)
 * [Use cases of ARTH](use-cases-of-arth.md)
+* [Risks with ARTH](risks-with-arth.md)
 * [Contract Addresses](contract-addresses.md)
 
 ## User Guide
@@ -13,8 +14,8 @@
 * [What is ARTHX?](protocol/what-is-arthx.md)
 * [Minting and Burning ARTH](protocol/minting-and-burning-arth.md)
 * [Target price of ARTH](protocol/what-is-the-global-measurement-uni-gmu.md)
+* [Collateralization Ratio](protocol/collateralization-ratio.md)
 * [Collateral Pools](protocol/collateral-pools/README.md)
-  * [Collateralization Ratio](protocol/collateral-pools/collateralization-ratio.md)
   * [Recollateralization](protocol/collateral-pools/recollateralization.md)
 * [Protocol Fees](protocol/how-does-arth-mitigate-against-stability-risk.md)
 * [Staking Programs](protocol/staking-programs.md)
