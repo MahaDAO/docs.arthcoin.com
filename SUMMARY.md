@@ -1,17 +1,16 @@
 # Table of contents
 
 * [Overview](README.md)
+* [The Money Illusion](the-money-illusion.md)
 * [Use cases of ARTH](use-cases-of-arth.md)
+* [Contract Addresses](contract-addresses.md)
 
-## ARTH 101 - Basics <a id="arth-101"></a>
-
-* [What is ARTH?](arth-101/what-is-arth-the-stablecoin.md)
-* [What is ARTHX?](arth-101/what-is-arthx.md)
-* [The Money Illusion](arth-101/the-money-illusion.md)
+## User Guide
 
 ## Protocol
 
-* [Contract Addresses](protocol/contract-addresses.md)
+* [What is ARTH?](protocol/what-is-arth-the-stablecoin.md)
+* [What is ARTHX?](protocol/what-is-arthx.md)
 * [Minting and Burning ARTH](protocol/minting-and-burning-arth.md)
 * [Target price of ARTH](protocol/what-is-the-global-measurement-uni-gmu.md)
 * [Collateral Pools](protocol/collateral-pools/README.md)
@@ -21,15 +20,16 @@
 * [Protocol Controlled Value \(PCV\)](protocol/protocol-controlled-liquidity.md)
 * [Staking Programs](protocol/staking-programs.md)
 
-## User Guides
-
-* [Untitled](user-guides/untitled.md)
-
-## External Links
-
-* [Other Links](external-links/master-links.md)
-
 ## Governance
 
 * [What is MAHA?](governance/what-is-maha.md)
+
+## External Links
+
+* [Github](https://github.com/MahaDao/)
+* [Governance Portal](http://gov.mahadao.com/)
+* [Maha Homepage](https://mahadao.com/)
+* [Vote Snapshot Page](http://vote.mahadao.com/)
+* [FAQs](http://faq.mahadao.com/)
+* [Other Links](external-links/master-links.md)
 

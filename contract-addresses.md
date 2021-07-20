@@ -22,3 +22,5 @@ These are the addresses of contracts in the polygon network.
 
 ### Collateral Tokens
 
+USDT
+
