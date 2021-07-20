@@ -16,8 +16,7 @@
 * [Collateral Pools](protocol/collateral-pools/README.md)
   * [Collateralization Ratio](protocol/collateral-pools/collateralization-ratio.md)
   * [Recollateralization](protocol/collateral-pools/recollateralization.md)
-* [Charging Fees](protocol/how-does-arth-mitigate-against-stability-risk.md)
-* [Protocol Controlled Value \(PCV\)](protocol/protocol-controlled-liquidity.md)
+* [Protocol Fees](protocol/how-does-arth-mitigate-against-stability-risk.md)
 * [Staking Programs](protocol/staking-programs.md)
 
 ## Governance
