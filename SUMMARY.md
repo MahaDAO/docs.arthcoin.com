@@ -1,19 +1,6 @@
 # Table of contents
 
 * [Welcome to ARTH](README.md)
-* [New Launch: ARTH Loans 🚀](new-launch-arth-loans.md)
-
-## ARTH Loans
-
-* [Introduction: ARTH Loans](arth-loans/introduction-arth-loans.md)
-* [Features](arth-loans/features.md)
-* [Borrowing ARTH](arth-loans/borrowing-arth.md)
-* [Liquidations](arth-loans/liquidations.md)
-* [Stability Pool](arth-loans/stability-pool.md)
-* [Rewards & Fees](arth-loans/rewards-and-fees.md)
-* [Recovery Mode](arth-loans/recovery-mode.md)
-* [Launch Plan](arth-loans/launch-plan.md)
-* [FAQs](arth-loans/faqs.md)
 
 ## ARTH 101 - Basics <a id="arth-101"></a>
 
