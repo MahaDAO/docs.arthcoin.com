@@ -2,7 +2,7 @@
 description: This page talks about the target price of ARTH and defines the GMU index
 ---
 
-# Target price of ARTH - $2
+# Target price of ARTH
 
 Because stablecoins are almost always pegged to a target price, it is ideal for them to revolve around that price. Most stablecoins are pegged to the 1 USD price or another fiat currency \(like Japanese Yen, Chinese Yuan, etc\). 
 

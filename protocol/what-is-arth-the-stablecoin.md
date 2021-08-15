@@ -10,7 +10,7 @@ ARTH is a next-generation digital currency designed to tackle the depreciation o
 
 Hence, ARTH is the first currency to be immune to inflation and stable at the same time.
 
-Government-owned currencies have proven that they can be inflated and[ lose their value over time.](the-money-illusion.md) Furthermore, assets like Gold/Bitcoin while have proven themselves as strong hedges against inflation, have proven themselves too volatile for regular trade. _**ARTH is the first currency that solves both these issues in one asset.**_
+Government-owned currencies have proven that they can be inflated and[ lose their value over time.](../the-money-illusion.md) Furthermore, assets like Gold/Bitcoin while have proven themselves as strong hedges against inflation, have proven themselves too volatile for regular trade. _**ARTH is the first currency that solves both these issues in one asset.**_
 
 ![](../.gitbook/assets/mahadao-asset-10%20%282%29.jpg)
 
@@ -20,5 +20,5 @@ ARTH does this by being pegged to a basket of assets that represent strong hedge
 
 ![](../.gitbook/assets/image%20%2868%29.png)
 
-Performance of ARTH across various scenarios including crises has been documented in the [ARTH target price](../arth-201/what-is-the-global-measurement-uni-gmu.md). 
+Performance of ARTH across various scenarios including crises has been documented in the [ARTH target price](what-is-the-global-measurement-uni-gmu.md). 
 

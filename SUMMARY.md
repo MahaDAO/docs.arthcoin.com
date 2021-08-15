@@ -1,35 +1,35 @@
 # Table of contents
 
-* [Welcome to ARTH](README.md)
+* [Overview](README.md)
+* [The Money Illusion](the-money-illusion.md)
+* [Use cases of ARTH](use-cases-of-arth.md)
+* [Risks with ARTH](risks-with-arth.md)
+* [Contract Addresses](contract-addresses.md)
 
-## ARTH 101 - Basics <a id="arth-101"></a>
+## User Guide
 
-* [What is ARTH?](arth-101/what-is-arth-the-stablecoin.md)
-* [What is MAHA?](arth-101/what-is-maha.md)
-* [What is ARTHX?](arth-101/what-is-arthx.md)
-* [The Money Illusion](arth-101/the-money-illusion.md)
-* [Use cases of ARTH](arth-101/use-cases-of-arth.md)
+## Protocol
 
-## ARTH 201 - Mechanics <a id="arth-201"></a>
+* [What is ARTH?](protocol/what-is-arth-the-stablecoin.md)
+* [What is ARTHX?](protocol/what-is-arthx.md)
+* [Minting and Burning ARTH](protocol/minting-and-burning-arth.md)
+* [Target price of ARTH](protocol/what-is-the-global-measurement-uni-gmu.md)
+* [Collateralization Ratio](protocol/collateralization-ratio.md)
+* [Collateral Pools](protocol/collateral-pools/README.md)
+  * [Recollateralization](protocol/collateral-pools/recollateralization.md)
+* [Protocol Fees](protocol/how-does-arth-mitigate-against-stability-risk.md)
+* [Staking Programs](protocol/staking-programs.md)
 
-* [Minting and Burning ARTH](arth-201/minting-and-burning-arth.md)
-* [Target price of ARTH - $2](arth-201/what-is-the-global-measurement-uni-gmu.md)
-* [Collateral Pools](arth-201/collateral-pools/README.md)
-  * [Collateralization Ratio](arth-201/collateral-pools/collateralization-ratio.md)
-  * [Recollateralization](arth-201/collateral-pools/recollateralization.md)
-* [Charging Fees](arth-201/how-does-arth-mitigate-against-stability-risk.md)
-* [Protocol Controlled Value \(PCV\)](arth-201/protocol-controlled-liquidity.md)
-* [Staking Programs](arth-201/staking-programs.md)
-* [Algorithmic Money Operations](arth-201/algorithmic-money-operations.md)
-* [Rebase Mechanism](arth-201/rebase-mechanism.md)
+## Governance
 
-## Tutorials - Genesis <a id="tutorials"></a>
+* [What is MAHA?](governance/what-is-maha.md)
 
-* [Getting started](tutorials/getting-started.md)
-* [Commit Collateral to get ARTHX](tutorials/commit-collateral-to-get-arthx.md)
-* [Swap ARTH for ARTHX](tutorials/swap-arth-for-arthx.md)
+## External Links
 
-## Others
-
-* [External Links](others/master-links.md)
+* [Github](https://github.com/MahaDao/)
+* [Governance Portal](http://gov.mahadao.com/)
+* [Maha Homepage](https://mahadao.com/)
+* [Vote Snapshot Page](http://vote.mahadao.com/)
+* [FAQs](http://faq.mahadao.com/)
+* [Other Links](external-links/master-links.md)
 

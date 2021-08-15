@@ -1,5 +1,7 @@
 ---
-description: This page talks about the ARTHX stability token.
+description: >-
+  ARTHX is the fee bearing token of the ecosystem. This page describes how the
+  ARTHX token works.
 ---
 
 # What is ARTHX?
@@ -10,15 +12,13 @@ When ARTH is trading above 1$, arbitrageurs will mint ARTH by providing collater
 
 When ARTH is trading below 1$, arbitrageurs will redeem ARTH along with ARTHX from the open market to get back the underlying collateral to realize a profit. Hence reducing the supply of ARTH to meet the actual demand for it.
 
-![](../.gitbook/assets/arth-v2.0-2-%20%282%29.png)
-
 However, there are many things that make ARTHX an attractive token. ARTHX is a deflationary token, earns platform fees, and is bought back from the protocol when the protocol is over-collateralized. 
 
 ## Advantages of holding ARTHX
 
 ARTHX has the chance of appreciating and being bought back by the protocol in a bull market. In a bull market, the value of the collateral exceeds the collateralisation ratio of ARTH, and so the protocol ends up with excess collateral which it needs to sell in the market. To do so, the protocol performs a "buy back and burn" with ARTHX using some of the excess collateral. This creates an upward price pressure on ARTHX.
 
-Further ARTHX holders earn different kinds of [platform fees](../arth-201/how-does-arth-mitigate-against-stability-risk.md) that get charged when users interact with the protocol. These fees get distributed to ARTHX stakers who stake their tokens in the various pools available. ARTHX holders earn fees in collateral tokens and in MAHA/ARTH.
+Further ARTHX holders earn different kinds of [platform fees](how-does-arth-mitigate-against-stability-risk.md) that get charged when users interact with the protocol. These fees get distributed to ARTHX stakers who stake their tokens in the various pools available. ARTHX holders earn fees in collateral tokens and in MAHA/ARTH.
 
 ## Risks of ARTHX
 
