@@ -18,11 +18,10 @@
 * [Launch Plan](arth-loans/launch-plan.md)
 * [FAQs](arth-loans/faqs.md)
 
-## User Guide
-
 ## Protocol
 
 * [What is ARTH?](protocol/what-is-arth-the-stablecoin.md)
+* [What is MAHA?](protocol/what-is-maha.md)
 * [What is ARTHX?](protocol/what-is-arthx.md)
 * [Minting and Burning ARTH](protocol/minting-and-burning-arth.md)
 * [Target price of ARTH](protocol/what-is-the-global-measurement-uni-gmu.md)
@@ -31,10 +30,6 @@
   * [Recollateralization](protocol/collateral-pools/recollateralization.md)
 * [Protocol Fees](protocol/how-does-arth-mitigate-against-stability-risk.md)
 * [Staking Programs](protocol/staking-programs.md)
-
-## Governance
-
-* [What is MAHA?](governance/what-is-maha.md)
 
 ## External Links
 
