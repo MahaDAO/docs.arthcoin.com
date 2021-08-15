@@ -1,10 +1,10 @@
 # Table of contents
 
 * [Overview](README.md)
-* [New Launch: ARTH Loans 🚀](new-launch-arth-loans.md)
 * [The Money Illusion](the-money-illusion.md)
 * [Use cases of ARTH](use-cases-of-arth.md)
 * [Contract Addresses](contract-addresses.md)
+* [New Launch: ARTH Loans 🚀](new-launch-arth-loans.md)
 
 ## ARTH Loans
 
