@@ -2,9 +2,9 @@
 
 The system charges fees in 3 ways:
 
-* **Borrowing fee:** Borrowing fee is charged in ARTH. As the name suggests, it is charged once when the borrower draws a new loan position by committing 110% collateral. The borrowing fee is variable in nature, that is it increases if ARTH is trading below its peg, to demotivate more ARTH to be minted.
-* **Redemption fee:** Redemption fee is charged in the collateral used to borrow. As the name suggests, it is charged once when the borrower redeems his loan position for collateral. The redemption fee is variable in nature, that is the fees increase if the number of redemptions are high.
-* **Stability fee:** X% Stability fee is charged at redemption like the redemption fee. This fee is accumulated and 50% of it goes to the frontend provider and 50% to ecosystem funds, which is then used to pay the ARTH/ARTHX Debt Pool holders.
+* **Borrowing fee:** The borrowing fee is charged once in ARTH when the borrower draws a new loan position by committing &gt;=110% collateral. The borrowing fee is variable, that is it increases if ARTH is trading below its peg - this discourages more ARTH to be minted. Borrowing fee also increases as the number of redemptions increase. 50% of the borrowing fee is sent to the frontend, while 50% is sent to the ecosystem fund. The 50% delivered to the ecosystem fund is then used to pay the ARTH/ARTHX Debt Pool holders.
+* **Redemption fee:** The redemption fee is charged once in the collateral used to borrow, and when the borrower redeems his loan position for collateral. The redemption fee is variable, that is the fees increase if the number of redemptions are high. 100% of the redemption fee is sent to the ecosystem fund.
+* **Stability fee:** A stability fee is charged at 1% upon redemption - similar to the redemption fee. 100% of stability fee\(currently charged in MAHA\) is burnt.
 
 
 
