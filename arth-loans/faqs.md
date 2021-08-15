@@ -103,7 +103,7 @@ As a borrower, simply increasing your collateral ratio to &gt;150% will protect 
 
 ### Can I be liquidated if my collateral ratio is below 150% in Recovery Mode? 
 
-Yes - Yes - during recovery mode your position can be liquidated if it falls below 150% CR. Otherwise, during normal circumstances, the CR will remain at 110%. It is advised to both monitor and adjust as needed to avoid liquidation risk.
+Yes - during recovery mode your position can be liquidated if it falls below 150% CR. Otherwise, during normal circumstances, the CR will remain at 110%. It is advised to both monitor and adjust as needed to avoid liquidation risk.
 
  ---
 
