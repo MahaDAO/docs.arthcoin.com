@@ -14,7 +14,7 @@ When a loan postition is liquidated, an equivalent amount of ARTH corresponding 
 
 The Stability Pool is funded by users transferring their ARTH into the pool. These are also known as pooled users or stability providers. 
 
-### Why do users add funds in the stability pool?
+### Why do users add funds to the stability pool?
 
 Users that provide stability via the stability pool, do so for earning liquidation rewards. 
 
