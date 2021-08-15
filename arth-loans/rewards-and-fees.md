@@ -12,5 +12,7 @@ The system charges fees in 3 ways:
 
 #### LP Farming/Staking
 
-Once, you have procured your loan, you can farm on [arthcoin.com](http://arthcoin.com). There will be multiple pools with multiple partner projects to ensure ecosystem participants are well incentivized to keep the system stable and secure. 
+LP Farming/Staking Once you have procured your loan, you can farm on [**arthcoin.com**](https://polygon.arthcoin.com/#/farming). There will be multiple pools with multiple partnered projects to ensure users are well incentivized to keep the system stable and secure.  
+  
+
 

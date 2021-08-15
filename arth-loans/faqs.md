@@ -23,9 +23,13 @@ To become a Stability Provider, you need ARTH valuecoin.
 
 $ARTH can be borrowed by putting in collateral in the form of opening a loan position. Alternatively, you can also buy $ARTH from the open market directly from a DEX like [Dfyn](https://dfyn.network/).
 
-### What are the risks associated with using ARTH Loans?
+### What is the gas fee compensation? 
 
-.. @Steven
+To make liquidations profitable, the borrower needs to keep away a gas fee compensation at the time of borrowing ARTH. The current gas fee compensation is 5 ARTH or $10. This is significantly lower than the average gas fees on the ETH chain. Hence, Polygon Network.  
+
+### What is the minimum requirement to create a loan position?  
+
+A borrower can only take out a loan, by creating a debt position of not less than 500 ARTH or $1,000. 
 
 ## Stability Pool 
 
@@ -81,7 +85,7 @@ Minimum Collateralization Ratio in **Recovery mode**: 150%
 
 For every liquidation, the liquidator will have to pay gas fees. To make sure, liquidations are profitable, a significant gas fee is kept aside at the time of borrowing a loan. 
 
-Currently, the gas compensation is set at $200 + 0.5% of the collateral committed by the borrower.
+Currently, the gas fee compensation is set at 5 ARTH or $10 acc to the current GMU of $2. 
 
 ## Recovery Mode 
 

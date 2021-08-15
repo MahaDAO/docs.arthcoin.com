@@ -34,15 +34,15 @@ The CR or collateralization ratio is the ratio that determines how much ARTH a b
   
 The CR is set by the user. The minimum CR required is 110%. 
 
-**Example 1:** If user A sets a CR of 110% and creates a position of 10,000$ in ARTH, he would would have to at least collateralize 11,000$ worth of collateral\(WMATIC, WETH, or DAI\). This position is highly prone to liquidation, if the CR% falls below 110%. 
+**Example 1:** If user A sets a CR of 110% and creates a position of 10,000$ in ARTH, he would have to at least collateralize 11,000$ worth of collateral\(WMATIC, WETH, or DAI\). This position is highly prone to liquidation, if the CR% falls below 110%. 
 
-**Example 2:** If user B sets a CR of 150% and creates a position of 10,000$ in ARTH, he would would have to at least collateralize 15,000$ worth of collateral\(WMATIC, WETH, or DAI\). This position is more secure than Example 1. 
+**Example 2:** If user B sets a CR of 150% and creates a position of 10,000$ in ARTH, he would have to at least collateralize 15,000$ worth of collateral\(WMATIC, WETH, or DAI\). This position is more secure than Example 1. 
 
 Thus, a **higher CR%** means the user's position is **less prone to** [**liquidation**](liquidations.md), but also means that he will receive less ARTH for the collaterallaized position. Whereas a **lower CR%** means the user's position is **more prone to liquidation**, but he will receive more ARTH for the collateralized position. 
 
 The Minimum Collateralization Ratio or MCR is the lowest ratio of collateral that will not trigger a liquidation. This is set at 110% under normal conditions.  
 
-However, [**in recovery mode**]()**,** this MCR is set to 150%. To avoid liquidation during [Recovery Mode](https://docs.liquity.org/faq/recovery-mode), it is recommended to keep ratio above 150%.
+However, in [**recovery mode**](recovery-mode.md)**,** this MCR is set to 150%. To avoid liquidation during [Recovery Mode](https://docs.liquity.org/faq/recovery-mode), it is recommended to keep ratio above 150%.
 
 As a borrower, you should make sure you are creating positions that are not prone to get liquidated to avoid loss of funds. 
 

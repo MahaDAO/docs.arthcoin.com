@@ -4,7 +4,6 @@
 * [New Launch: ARTH Loans 🚀](new-launch-arth-loans.md)
 * [The Money Illusion](the-money-illusion.md)
 * [Use cases of ARTH](use-cases-of-arth.md)
-* [Risks with ARTH](risks-with-arth.md)
 * [Contract Addresses](contract-addresses.md)
 
 ## ARTH Loans
@@ -12,10 +11,10 @@
 * [Introduction: ARTH Loans](arth-loans/introduction-arth-loans.md)
 * [Features](arth-loans/features.md)
 * [Borrowing ARTH](arth-loans/borrowing-arth.md)
+* [Recovery Mode](arth-loans/recovery-mode.md)
 * [Liquidations](arth-loans/liquidations.md)
 * [Stability Pool](arth-loans/stability-pool.md)
 * [Rewards & Fees](arth-loans/rewards-and-fees.md)
-* [Recovery Mode](arth-loans/recovery-mode.md)
 * [Launch Plan](arth-loans/launch-plan.md)
 * [FAQs](arth-loans/faqs.md)
 

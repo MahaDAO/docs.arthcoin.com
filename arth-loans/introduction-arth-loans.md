@@ -1,6 +1,6 @@
 # Introduction: ARTH Loans
 
-ARTH Loans is an algorithmic borrowing protocol that lets users draw [interest-free](https://app.gitbook.com/@liquity/s/liquity-docs/faq/borrowing#how-can-you-offer-borrowing-at-a-0-interest-rate) loans against their crypto assets used as collateral. Loans are always let out in ARTH valuecoin \(a stablecoin pegged to the Global Measurement Unit\). Users need to commit a minimum Collateralization Ratio\(CR\) of 110%. 
+ARTH Loans is an algorithmic borrowing protocol that lets users draw [interest-free](https://app.gitbook.com/@liquity/s/liquity-docs/faq/borrowing#how-can-you-offer-borrowing-at-a-0-interest-rate) loans against their crypto assets used as collateral. Loans are always lent in ARTH valuecoin \(a stablecoin pegged to the Global Measurement Unit\). Users need to commit a minimum Collateralization Ratio\(CR\) of 110%. 
 
 Because of the low collateralization ratio, it is essential to secure the protocol via other means. 
 
