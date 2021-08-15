@@ -14,7 +14,6 @@
 * [Recovery Mode](arth-loans/recovery-mode.md)
 * [Liquidations](arth-loans/liquidations.md)
 * [Stability Pool](arth-loans/stability-pool.md)
-* [Rewards & Fees](arth-loans/rewards-and-fees.md)
 * [Launch Plan](arth-loans/launch-plan.md)
 * [FAQs](arth-loans/faqs.md)
 
