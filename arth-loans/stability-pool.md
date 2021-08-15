@@ -24,9 +24,9 @@ Because, loan positions are always created at 110%+ CR and liquidated just below
 
 ### What will happen if the collateral value is decreasing significantly?
 
-The only time that Stability pool providers can be in a net negative position is, if the collateral is losing value at a significant pace. 
+The only time that Stability pool providers can be in a net negative position is if the collateral is losing value at a significant pace. 
 
 However, stability pool providers can almost immediately withdraw the collateral received from liquidations & sell their position, collateral's value is decreasing at a significant pace against the USD.   
   
-Have questions about Stability pools, hop on to the stability pool section in our FAQs page. 
+Have questions about Stability pools, hop on to the stability pool section on our [FAQs page](faqs.md#stability-pool). 
 

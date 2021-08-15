@@ -14,5 +14,5 @@ ARTH Loans will boast a number of features:
 
 **Leveraged Loans Position\(upcoming\):** Leveraged loans allow for DeFi users to not only create loan positions at 110% CR, but also take leverage on that position. We will introduce this feature soon.
 
-**Staking Rewards\(already live\):** You can find a list of all staking/farming programs on [https://polygon.arthcoin.com/\#/farming](https://polygon.arthcoin.com/#/farming)
+**Staking Rewards\(already live\):** You can find a list of all staking/farming programs on [https://polygon.arthcoin.com/\#/farming](https://polygon.arthcoin.com/#/farming). More LP/Staking Pools with partner projects will be announced post-launch. 
 

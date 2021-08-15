@@ -8,9 +8,7 @@ The protocol also uses secondary measures to secure the loans. In surplus to the
 
 Learn more about the Stability Pool below. 
 
-
-
-
+{% page-ref page="stability-pool.md" %}
 
 ### Use Cases: ARTH Loans 
 

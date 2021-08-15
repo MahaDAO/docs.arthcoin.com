@@ -2,11 +2,16 @@
 
 Recovery Mode is triggered when the [T](https://docs.liquity.org/faq/recovery-mode#what-is-the-total-collateralization-ratio)otal Collateral Ratio or TCR of the system falls below 150%. 
 
-During Recovery Mode, loan positions with a collateral ratio **below the TCR** \(i.e. in the worst case up to 150%\) can be liquidated. 
+Minimum Collateralization Ratio in **Normal mode**: 110%   
+Minimum Collateralization Ratio in **Recovery mode**: 150% 
 
-Moreover, the system blocks borrower transactions that would further decrease the TCR. New LUSD may only be issued by adjusting existing Troves in a way that improves their collateral ratio, or by opening a new Trove with a collateral ratio`>=150%`. In general, if an existing Trove's adjustment reduces its collateral ratio, the transaction is only executed if the resulting TCR is above `150%`. 
+New loans can only be taken out if the borrower sets a CR% of &gt;=150%. 
 
-The goal of Recovery Mode is to incentivize borrowers to behave in ways that promptly raise the TCR back above 150%, and to incentivize LUSD holders to replenish the Stability Pool.
+The reason for kicking in Recovery Mode is to make sure borrowers take out loans that do not further reduce the TCR, and instead raise the TCR back above 150%, 
 
-Economically, Recovery Mode is designed to encourage collateral top-ups and debt repayments, and also itself acts as a self-negating deterrent: the possibility of it occurring actually guides the system away from ever reaching it. Recovery Mode is not a desirable state for the system. 
+Further, it is also an incentivization for ARTH holders to participate in the Stability Pool and provide more ARTH to the pool.   
+  
+As a system design, Recovery Mode is best avoided. Thus, the mere possibility of going into recovery mode should be an alarming point for ecosystem participants to make amendments to their position, in order to not go into Recovery Mode.      
+  
+Have questions about Recovery Mode? Visit our FAQs section [here](faqs.md#recovery-mode). 
 
