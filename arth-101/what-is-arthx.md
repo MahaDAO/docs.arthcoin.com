@@ -1,5 +1,7 @@
 ---
-description: This page talks about the ARTHX stability token.
+description: >-
+  The ARTHX is the fee earning token that allows tokens holders to accrue fees
+  from the protocol.
 ---
 
 # What is ARTHX?
@@ -9,8 +11,6 @@ ARTH Shares \(ARTHX\) is the solution in bringing stability to ARTH but also kee
 When ARTH is trading above 1$, arbitrageurs will mint ARTH by providing collateral and sell ARTHX in the open market to realize a profit. Hence bringing the price of ARTH down to the 1$ mark
 
 When ARTH is trading below 1$, arbitrageurs will redeem ARTH along with ARTHX from the open market to get back the underlying collateral to realize a profit. Hence reducing the supply of ARTH to meet the actual demand for it.
-
-![](../.gitbook/assets/arth-v2.0-2-%20%282%29.png)
 
 However, there are many things that make ARTHX an attractive token. ARTHX is a deflationary token, earns platform fees, and is bought back from the protocol when the protocol is over-collateralized. 
 
@@ -24,7 +24,6 @@ Further ARTHX holders earn different kinds of [platform fees](../arth-201/how-do
 
 While there are many potential benefits in holding ARTHX, there are also risks that come along with the benefits. The risks have been outlined below.
 
-* ARTHX can witness sell pressure when the market turns into a bear market: When the market turns into a bear market and the net value of the underlying collateral decreases, then the protocol sells of collateral in return for a discount in ARTHX. This ARTHX is sold by arbitrageurs to keep ARTH stable and realize a profit. 
 * ARTHX is a relatively new concept and can have undiscovered economic flaws: Being a new concept has its pros and cons. ARTHX comes in that same boat.
 * While ARTHX will be thoroughly audited and tested before launch, the protocol may enter unknown bugs/issues, either small or big.
 
