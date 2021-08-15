@@ -29,7 +29,7 @@ To make liquidations profitable, the borrower needs to keep away a gas fee compe
 
 ### What is the minimum requirement to create a loan position?  
 
-A borrower can only take out a loan, by creating a debt position of not less than 500 ARTH or $1,000. 
+A borrower can only take out a loan, by creating a debt position of not less than 250 ARTH or $500. 
 
 ## Stability Pool 
 
