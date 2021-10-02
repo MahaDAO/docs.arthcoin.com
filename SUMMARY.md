@@ -36,3 +36,7 @@
 * [FAQs](http://faq.mahadao.com/)
 * [Other Links](external-links/master-links.md)
 
+## Tutorials
+
+* [How to Open a Loan](tutorials/loans-tutorial.md)
+
