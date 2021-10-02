@@ -1,3 +1,7 @@
+---
+description: This section explains how you can modify an existing loan
+---
+
 # Modifying a Loan
 
 Modify loan means you can add more collateral or you withdraw collateral. This lets you modify your existing loans. You can make these changes by clicking on any of the loans in the ' Your loans' section.
@@ -29,7 +33,7 @@ Modify loan means you can add more collateral or you withdraw collateral. This l
   
 **Step 6:** After you click on withdraw collateral you will get a confirm withdraw collateral pop up; which is followed by a metamask wallet confirmation.
 
-NOTE: Always check the status of all your transactions after clicking on the refresh button to ensure changes are reflected successfully.  
+**NOTE**: Always check the status of all your transactions after clicking on the refresh button to ensure changes are reflected successfully.  
 
 
 ![](../.gitbook/assets/confirm-withdraw.jpg)

@@ -35,7 +35,9 @@ The loan system mainly works on you exchanging WMATIC, WETH or DAI for ARTH at 0
 
 **Step 9:** Once you click on complete transaction you will get another metamask confirmation and once you have confirmed that it completes your open loan process.
 
-**Step 10:** To check whether your loan has been opened or no; you can check it the ' Your loans' section. NOTE: If it is not visible there you are advised to click on the refresh button once and check for the same.
+**Step 10:** To check whether your loan has been opened or no; you can check it the ' Your loans' section.
+
+**NOTE**: If it is not visible there you are advised to click on the refresh button once and check for the same.
 
 
 
