@@ -4,25 +4,25 @@ description: This page talks about the target price of ARTH and defines the GMU 
 
 # Target price of ARTH
 
-Because stablecoins are almost always pegged to a target price, it is ideal for them to revolve around that price. Most stablecoins are pegged to the 1 USD price or another fiat currency \(like Japanese Yen, Chinese Yuan, etc\). 
+Because stablecoins are almost always pegged to a target price, it is ideal for them to revolve around that price. Most stablecoins are pegged to the 1 USD price or another fiat currency (like Japanese Yen, Chinese Yuan, etc).&#x20;
 
-ARTH, however, is price pegged to the Global Measurement Unit \(GMU\). For simplicity purposes, ARTH's initial target price was set at **1 USD worth of GMU**. From here, as GMU changed over time, ARTH’s peg was updated to $2 at the time of ARTH 2.0 Launch, signifying the rise in inflation amongst other things. As the pegged price is used as an anchor, if the current value of the ARTH falls on either side of the target price, the protocol either re-collateralizes or performs buybacks to meet the target price.
+ARTH, however, is price pegged to the Global Measurement Unit (GMU). For simplicity purposes, ARTH's initial target price was set at **1 USD worth of GMU**. From here, as GMU changed over time, ARTH’s peg was updated to $2 at the time of ARTH 2.0 Launch, signifying the rise in inflation amongst other things. As the pegged price is used as an anchor, if the current value of the ARTH falls on either side of the target price, the protocol either re-collateralizes or performs buybacks to meet the target price.
 
 Most stablecoins provide nothing more than just a USD stablecoin that competes with the utility of existing stablecoins like USDT, USDC, DAI, etc. ARTH is different: it is not just a stablecoin, it is the world’s first valuecoin.
 
 
 
-## What is the Global Measurement Unit \(GMU\)?
+## What is the Global Measurement Unit (GMU)?
 
-ARTH uses a special method of measuring an asset’s buying power called the Global Measurement Unit \(GMU\). This represents a basket of assets carefully selected with adequate weights to present a strong hedge strategy against economic turbulence and risks as well as inflation and currency risks. 
+ARTH uses a special method of measuring an asset’s buying power called the Global Measurement Unit (GMU). This represents a basket of assets carefully selected with adequate weights to present a strong hedge strategy against economic turbulence and risks as well as inflation and currency risks.&#x20;
 
 As a result, the target price of ARTH is not going to be fixed to 1 US Dollar, but rather, the combined value of the assets which form the basket.
 
 The basket consists of several assets, some of which are traditional, well-known financial assets and others are new age, digital financial assets. Precisely speaking, the GMU consists of the following assets and their respective weights:
 
-* **80% — Collection of Fiat currencies** \(this includes USD, GBP, INR, JPY, CNY, CHF, CAD\)
-* **15% — Gold \(**often considered a safe-haven asset
-* **5% — Bitcoin \(**also started to show properties of being a safe have asset as of recently\)
+* **80% — Collection of Fiat currencies** (this includes USD, GBP, INR, JPY, CNY, CHF, CAD)
+* **15% — Gold (**often considered a safe-haven asset
+* **5% — Bitcoin (**also started to show properties of being a safe have asset as of recently)
 
 Based on prior research we believe that these 3 assets, when combined in the right way, can provide a safe and sound base for preventing ARTH from depreciating in value.
 
@@ -30,27 +30,27 @@ Based on prior research we believe that these 3 assets, when combined in the rig
 
 A methodological process was followed in order to determine the weightings of each portion of the GMU, specifically, extensive analysis was conducted across globally available metrics and data from prominent financial institutions such as the IMF in order to determine the average percentage makeup of these assets across both economies and portfolios globally.
 
-A detailed excel sheet with weighting calculations is made public over here: [**https://docs.google.com/spreadsheets/d/1Um6qI8kKPwOj3wiw\_8ZVdRtgYhmI0lZLBXjRN2canWs/edit?usp=sharing**](https://docs.google.com/spreadsheets/d/1Um6qI8kKPwOj3wiw_8ZVdRtgYhmI0lZLBXjRN2canWs/edit?usp=sharing)\*\*\*\*
+A detailed excel sheet with weighting calculations is made public over here: [**https://docs.google.com/spreadsheets/d/1Um6qI8kKPwOj3wiw\_8ZVdRtgYhmI0lZLBXjRN2canWs/edit?usp=sharing**](https://docs.google.com/spreadsheets/d/1Um6qI8kKPwOj3wiw\_8ZVdRtgYhmI0lZLBXjRN2canWs/edit?usp=sharing)****
 
 ### **A. Calculating the Currency weighting**
 
-The countries and their currencies were analyzed on the basis of their average share of world real GDP \(measured in constant 2010 US$\) between the years 2011 and 2019, with a minimum requirement of at least 2% of a share in world GDP to be eligible for inclusion in the model.
+The countries and their currencies were analyzed on the basis of their average share of world real GDP (measured in constant 2010 US$) between the years 2011 and 2019, with a minimum requirement of at least 2% of a share in world GDP to be eligible for inclusion in the model.
 
-Currencies included in the ****basket come from countries that accounted for more than 70% of the world Base GDP. At this moment countries which fulfil the mentioned conditions were as per the following table:
+Currencies included in the **** basket come from countries that accounted for more than 70% of the world Base GDP. At this moment countries which fulfil the mentioned conditions were as per the following table:
 
-![](../.gitbook/assets/image%20%286%29.png)
+![](<../.gitbook/assets/image (6).png>)
 
-In addition to this well-known IMF basket of currencies, we also chose currencies such as the Swiss franc, Indian rupee, Brazilian real, and Canadian dollar so that the basket can provide better diversification. 
+In addition to this well-known IMF basket of currencies, we also chose currencies such as the Swiss franc, Indian rupee, Brazilian real, and Canadian dollar so that the basket can provide better diversification.&#x20;
 
 The Swiss franc is the only currency from the basket whose country doesn’t meet the requirement of 2% in World GDP share. However, we made an exception due to the fact that the Swiss franc and Japanese yen are generally looked upon from investors' point of view as a safe heaven. These 2 currencies have proven to be a favorite choice of investors during crises.
 
 ### **B. Calculating the Gold weighting**
 
-Throughout history, gold has been proven to be the most trusted asset in difficult times hence gold has found itself a place in the global measurement unit. 
+Throughout history, gold has been proven to be the most trusted asset in difficult times hence gold has found itself a place in the global measurement unit.&#x20;
 
-The decision to include gold was not based merely on the presumption that gold has been viewed upon as a store of value but on the fact that central banks still hold gold as a foreign exchange reserve. 
+The decision to include gold was not based merely on the presumption that gold has been viewed upon as a store of value but on the fact that central banks still hold gold as a foreign exchange reserve.&#x20;
 
-Keeping significant amounts of gold in foreign exchange reserves is part of a more conservative Central bank’s strategy. It is considered a safe haven due to its use as a hedge against risky assets.  
+Keeping significant amounts of gold in foreign exchange reserves is part of a more conservative Central bank’s strategy. It is considered a safe haven due to its use as a hedge against risky assets. &#x20;
 
 After analyzing major central banks' foreign exchange reserves, the conclusion was that gold should be allocated a weight of not less than 15% in the GMU.
 
@@ -58,15 +58,13 @@ When specific events occur, such as a surge in the price of BTC, the weighting o
 
 ### **C. Calculating the BTC weighting**
 
-Bitcoin has been chosen because its price reflects spillovers from all other financial and commodity markets. 
+Bitcoin has been chosen because its price reflects spillovers from all other financial and commodity markets.&#x20;
 
-Research has shown that Bitcoin and Gold provide a strong hedge against inflation. Based on research, followed by a conservative portfolio diversification strategy which suggests a ratio of risk-free v/s risky \(ratio of gold and bitcoin\) asset to be 3:1, Bitcoin should be allocated a weight of 5%.
+Research has shown that Bitcoin and Gold provide a strong hedge against inflation. Based on research, followed by a conservative portfolio diversification strategy which suggests a ratio of risk-free v/s risky (ratio of gold and bitcoin) asset to be 3:1, Bitcoin should be allocated a weight of 5%.
 
 ## **Final GMU calculation**
 
 $$
 GMU = (80 * Fiat + 15 * Gold + 5 * Bitcoin) / 100
 $$
-
-
 

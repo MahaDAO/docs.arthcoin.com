@@ -6,7 +6,8 @@ description: This page describes how you can open a loan.
 
 The loan system mainly works on you exchanging WMATIC, WETH or DAI for ARTH at 0% interest.  Two modes that play a crucial role in getting a loan.
 
-* **Normal mode:** In the normal mode the collateral ratio must be at least 110% 
+* **Normal mode:** In the normal mode the collateral ratio must be at least 110%\
+
 * **Recovery mode:** In recovery mode, the collateral ratio must be at least 150% when opening a loan.
 
 **Step 1:** For a user who wants to take a loan; click on the 'open loan' button. If a user has opened any loans before and wants to check the status can check it below in the opened loans list.
@@ -21,14 +22,14 @@ The loan system mainly works on you exchanging WMATIC, WETH or DAI for ARTH at 0
 
 ![](../.gitbook/assets/open-loan-input-.jpg)
 
-**Step 4:** Once you have entered the amount you will see the minimum ARTH that you will receive. It also tells you the total debt amount which is inclusive of the borrowing fee and liquidation reserve.  
-  
-**Step 5:** After step 4 you need to click on the confirm loan button to open your loan.  
-  
+**Step 4:** Once you have entered the amount you will see the minimum ARTH that you will receive. It also tells you the total debt amount which is inclusive of the borrowing fee and liquidation reserve.\
+\
+**Step 5:** After step 4 you need to click on the confirm loan button to open your loan.\
+\
 **Step 6:** After clicking on the confirm loan button; you will have to follow through with two steps to complete your transaction. The first step is to approve the transaction.
 
-**Step 7:** Once you approve the transaction you will get a metamask wallet pop up to confirm the same. Once you click on confirm transaction in metamask; you will get a pop up regarding the transaction whether it was a success or a failure.  
-  
+**Step 7:** Once you approve the transaction you will get a metamask wallet pop up to confirm the same. Once you click on confirm transaction in metamask; you will get a pop up regarding the transaction whether it was a success or a failure.\
+\
 **Step 8:** Once you have got the successful transaction confirmation; you proceed with the next step which is; complete transaction.
 
 ![](../.gitbook/assets/complete-transaction-.jpg)
@@ -38,6 +39,4 @@ The loan system mainly works on you exchanging WMATIC, WETH or DAI for ARTH at 0
 **Step 10:** To check whether your loan has been opened or no; you can check it the ' Your loans' section.
 
 **NOTE**: If it is not visible there you are advised to click on the refresh button once and check for the same.
-
-
 

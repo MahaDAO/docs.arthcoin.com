@@ -9,7 +9,6 @@
 
 * [What is ARTH?](protocol/what-is-arth-the-stablecoin.md)
 * [What is MAHA?](protocol/what-is-maha.md)
-* [What is ARTHX?](protocol/what-is-arthx.md)
 * [Minting and Burning ARTH](protocol/minting-and-burning-arth.md)
 * [Target price of ARTH](protocol/what-is-the-global-measurement-uni-gmu.md)
 * [Collateralization Ratio](protocol/collateralization-ratio.md)
@@ -31,9 +30,9 @@
 ## External Links
 
 * [Github](https://github.com/MahaDao/)
-* [Governance Portal](http://gov.mahadao.com/)
-* [Maha Homepage](https://mahadao.com/)
-* [FAQs](http://faq.mahadao.com/)
+* [Governance Portal](http://gov.mahadao.com)
+* [Maha Homepage](https://mahadao.com)
+* [FAQs](http://faq.mahadao.com)
 * [Other Links](external-links/master-links.md)
 
 ## Tutorials
@@ -41,4 +40,3 @@
 * [Opening a Loan](tutorials/opening-a-loan.md)
 * [Closing a Loan](tutorials/closing-a-loan.md)
 * [Modifying a Loan](tutorials/modifying-a-loan.md)
-
