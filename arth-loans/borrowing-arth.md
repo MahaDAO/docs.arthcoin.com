@@ -38,7 +38,7 @@ The CR is set by the user. The minimum CR required is 110%.&#x20;
 
 **Example 2:** If user B sets a CR of 150% and creates a position of 10,000$ in ARTH, he would have to at least collateralize 15,000$ worth of collateral(WMATIC, WETH, or DAI). This position is more secure than Example 1.&#x20;
 
-Thus, a **higher CR%** means the user's position is **less prone to** [**liquidation**](../liquidations.md), but also means that he will receive less ARTH for the collaterallaized position. Whereas a **lower CR%** means the user's position is **more prone to liquidation**, but he will receive more ARTH for the collateralized position.&#x20;
+Thus, a **higher CR%** means the user's position is **less prone to** [**liquidation**](liquidations.md), but also means that he will receive less ARTH for the collaterallaized position. Whereas a **lower CR%** means the user's position is **more prone to liquidation**, but he will receive more ARTH for the collateralized position.&#x20;
 
 The Minimum Collateralization Ratio or MCR is the lowest ratio of collateral that will not trigger a liquidation. This is set at 110% under normal conditions. &#x20;
 

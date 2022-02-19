@@ -21,8 +21,8 @@
 
 * [Introduction: ARTH Loans](arth-loans/introduction-arth-loans.md)
 * [Features](arth-loans/features.md)
-* [Borrowing ARTH](arth-loans/borrowing-arth/README.md)
-  * [Recovery Mode](arth-loans/borrowing-arth/recovery-mode.md)
+* [Borrowing ARTH](arth-loans/borrowing-arth.md)
+  * [Recovery Mode](arth-loans/recovery-mode.md)
 * [Liquidations](arth-loans/liquidations.md)
 * [Stability Pool](arth-loans/stability-pool.md)
 * [FAQs](arth-loans/faqs.md)

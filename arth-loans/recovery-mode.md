@@ -11,4 +11,4 @@ The reason for initiating 'Recovery Mode' is to make sure new borrowers take out
 \
 As a system design, Recovery Mode is best avoided. Thus, the mere possibility of going into recovery mode should be an alarming point for ecosystem participants to make amendments to their position, in order to not go into Recovery Mode.    \
 \
-Have questions about Recovery Mode? Visit our FAQs section [here](../faqs.md#recovery-mode).&#x20;
+Have questions about Recovery Mode? Visit our FAQs section [here](faqs.md#recovery-mode).&#x20;
