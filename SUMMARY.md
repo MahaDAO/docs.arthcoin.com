@@ -2,8 +2,7 @@
 
 * [Overview](README.md)
 * [The Money Illusion](the-money-illusion.md)
-* [Use cases of ARTH](use-cases-of-arth.md)
-* [Contract Addresses](contract-addresses.md)
+* [Borrowing with 0% interest](borrowing-with-0-interest.md)
 
 ## Protocol
 

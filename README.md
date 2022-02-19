@@ -16,6 +16,22 @@ ARTH is issued using decentralized smart contracts that use cryptocurrency as co
 
 ![ARTH. Purchase. Power. ](<.gitbook/assets/mahadao-asset-10 (2).jpg>)
 
+## Why use ARTH?
+
+### Taking leverage long positions on yield farms
+
+Amongst the various types of assets that are accepted as collateral to mint ARTH, borrowers can deposit yield farm tokens and leverage their yields.&#x20;
+
+### Taking leverage long positions on cryptocurrencies
+
+Since ARTH is a stablecoin with trading pairs across various other cryptocurrencies, you can effectively gain a leveraged exposure to cryptocurrencies that can be used as collateral to mint ARTH.
+
+### No depreciation or loss of purchasing power
+
+One of the biggest differentiators of ARTH amongst other stablecoins is that it is inherently designed to appreciate against the US dollar.
+
+This means users who hold ARTH for longer periods of time should see their purchasing power increase when compared to fiat currencies.
+
 ## Contract Addresses
 
 These are the deployed contracts on the various networks.&#x20;
