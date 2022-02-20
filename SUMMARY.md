@@ -18,6 +18,7 @@
 * [Borrowing ARTH](protocol/borrowing-arth.md)
 * [Recovery Mode](protocol/recovery-mode.md)
 * [0% Flash Loans](protocol/0-flash-loans.md)
+* [Leverage (coming soon)](protocol/leverage-coming-soon.md)
 
 ## External Links
 
