@@ -9,9 +9,9 @@
 
 * [Introducing Loans](protocol/introduction-arth-loans.md)
 * [Minting and Burning ARTH](protocol/minting-and-burning-arth.md)
+* [Redeeming ARTH](protocol/redeeming-arth.md)
 * [Governance](protocol/governance.md)
 * [Protocol Fees](protocol/how-does-arth-mitigate-against-stability-risk.md)
-* [Collateralization Ratio](protocol/collateralization-ratio.md)
 * [Liquidations](protocol/liquidations.md)
 * [Staking Programs](protocol/staking-programs.md)
 * [Stability Pools](protocol/stability-pool.md)
