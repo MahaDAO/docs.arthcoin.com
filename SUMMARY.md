@@ -2,7 +2,6 @@
 
 * [Overview](README.md)
 * [The Money Illusion](the-money-illusion.md)
-* [Borrowing with 0% interest](borrowing-with-0-interest.md)
 * [Target Price for ARTH](target-price-for-arth.md)
 * [What is MAHA?](what-is-maha.md)
 
