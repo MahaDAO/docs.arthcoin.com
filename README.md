@@ -8,23 +8,27 @@ description: >-
 
 ARTH is a stablecoin that is designed to overtime appreciate against the US dollar whilst at the same time remain relatively stable.
 
-ARTH is issued using decentralized smart contracts that use cryptocurrency as collateral to maintain its peg. The fees charged to mint ARTH using cryptocurrency collateral is 0% which makes it very cost effective for borrowing/lending.
+ARTH is issued using decentralized smart contracts that use cryptocurrency as collateral to maintain its peg. The fees charged to mint ARTH using cryptocurrency collateral at 0% interest rates which makes it very cost effective for borrowing/lending.
 
+### 0% Interest Fees on Borrowing
 
+You take out loans. That’s it. No interests accrued, at all. Unlike lending protocols like Compound or MakerDAO, the way ARTH does this is by charging a one-time borrowing fee that adjust algorithmically and is taken when a loan is opened.
 
+### **Minimal Collateralization Ratio**
 
+110% — that’s it! And In some cases when the collateral used is stablecoins, the ratio is even lower, all the way down to 105%.
 
-![ARTH. Purchase. Power. ](<.gitbook/assets/mahadao-asset-10 (2).jpg>)
+Although we advise users to put a CR of not below 150%, the system allows for collateralization up to 110%. That means you can only be liquidated once your CR reaches below 110%.
 
-## Why use ARTH?
+### Taking leverage long positions on yield farms/cryptocurrencies
 
-### Taking leverage long positions on yield farms
+Amongst the various types of assets that are accepted as collateral to mint ARTH, borrowers can deposit yield farm tokens and leverage their yields.
 
-Amongst the various types of assets that are accepted as collateral to mint ARTH, borrowers can deposit yield farm tokens and leverage their yields.&#x20;
+Since ARTH is a stablecoin with trading pairs across various other cryptocurrencies, you can also effectively gain a leveraged exposure to cryptocurrencies that can be used as collateral to mint ARTH.
 
-### Taking leverage long positions on cryptocurrencies
+### **Staking Rewards**
 
-Since ARTH is a stablecoin with trading pairs across various other cryptocurrencies, you can effectively gain a leveraged exposure to cryptocurrencies that can be used as collateral to mint ARTH.
+You can find a list of all staking/farming programs on [https://app.arthcoin.com/#/farming](https://polygon.arthcoin.com/#/farming). More LP/Staking Pools with partner projects will be announced at launch.
 
 ### No depreciation or loss of purchasing power
 
@@ -34,7 +38,7 @@ This means users who hold ARTH for longer periods of time should see their purch
 
 ## Contract Addresses
 
-These are the deployed contracts on the various networks.&#x20;
+These are the deployed contracts on the various networks.
 
 | Network             | Addresses                                                                                                               |
 | ------------------- | ----------------------------------------------------------------------------------------------------------------------- |

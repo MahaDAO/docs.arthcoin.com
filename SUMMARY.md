@@ -3,39 +3,33 @@
 * [Overview](README.md)
 * [The Money Illusion](the-money-illusion.md)
 * [Borrowing with 0% interest](borrowing-with-0-interest.md)
+* [Target Price for ARTH](target-price-for-arth.md)
+* [What is MAHA?](what-is-maha.md)
 
 ## Protocol
 
-* [What is ARTH?](protocol/what-is-arth-the-stablecoin.md)
-* [What is MAHA?](protocol/what-is-maha.md)
+* [Introducing Loans](protocol/introduction-arth-loans.md)
 * [Minting and Burning ARTH](protocol/minting-and-burning-arth.md)
-* [Target price of ARTH](protocol/what-is-the-global-measurement-uni-gmu.md)
-* [Collateralization Ratio](protocol/collateralization-ratio.md)
-* [Collateral Pools](protocol/collateral-pools/README.md)
-  * [Recollateralization](protocol/collateral-pools/recollateralization.md)
+* [Governance](protocol/governance.md)
 * [Protocol Fees](protocol/how-does-arth-mitigate-against-stability-risk.md)
+* [Collateralization Ratio](protocol/collateralization-ratio.md)
+* [Liquidations](protocol/liquidations.md)
 * [Staking Programs](protocol/staking-programs.md)
-
-## ARTH Loans
-
-* [Introduction: ARTH Loans](arth-loans/introduction-arth-loans.md)
-* [Features](arth-loans/features.md)
-* [Borrowing ARTH](arth-loans/borrowing-arth.md)
-  * [Recovery Mode](arth-loans/recovery-mode.md)
-* [Liquidations](arth-loans/liquidations.md)
-* [Stability Pool](arth-loans/stability-pool.md)
-* [FAQs](arth-loans/faqs.md)
+* [Stability Pools](protocol/stability-pool.md)
+* [Borrowing ARTH](protocol/borrowing-arth.md)
+* [Recovery Mode](protocol/recovery-mode.md)
+* [0% Flash Loans](protocol/0-flash-loans.md)
 
 ## External Links
 
 * [Github](https://github.com/MahaDao/)
 * [Governance Portal](http://gov.mahadao.com)
-* [Maha Homepage](https://mahadao.com)
-* [FAQs](http://faq.mahadao.com)
-* [Other Links](external-links/master-links.md)
+* [Dune Analytics](https://mahadao.com)
+* [Forums](https://discuss.mahadao.com)
 
 ## Tutorials
 
 * [Opening a Loan](tutorials/opening-a-loan.md)
 * [Closing a Loan](tutorials/closing-a-loan.md)
 * [Modifying a Loan](tutorials/modifying-a-loan.md)
+* [FAQs](tutorials/faqs.md)

@@ -6,7 +6,7 @@ description: A silent tax.
 
 ## The time value of money
 
-The time value of money is a widely accepted conjecture that there is a greater benefit to receiving a sum of money now rather than an identical sum later.&#x20;
+The time value of money is a widely accepted conjecture that there is a greater benefit to receiving a sum of money now rather than an identical sum later.
 
 It is the concept that the money you have now is worth more than the identical sum in the future due to its potential earning capacity.
 
@@ -16,7 +16,7 @@ It is the concept that the money you have now is worth more than the identical s
 
 ![Source: https://corporatefinanceinstitute.com/resources/knowledge/economics/money-illusion/](<.gitbook/assets/image (83).png>)
 
-Money illusion is an economic theory stating that people have a tendency to view their wealth **** and **** income in nominal dollar terms, rather than in real terms.&#x20;
+Money illusion is an economic theory stating that people have a tendency to view their wealth \*\*\*\* and \*\*\*\* income in nominal dollar terms, rather than in real terms.
 
 In other words, it is assumed that people do not take into account the level of inflation in an economy, wrongly believing that a dollar is worth the same as it was the prior year. It is also sometimes referred to as a price illusion.
 
@@ -26,10 +26,9 @@ Fisher’s book detailed a German shopkeeper during a time when Germany’s curr
 
 The shopkeeper was under the belief that because she was selling shirts above the cost she acquired them for, she was making a profit. However, according to Fisher, the shopkeeper received less money, or lost money, from selling her shirts. It is because the shopkeeper had lost purchasing power, or the number of goods and services she could purchase with the same amount of money, due to inflationary pressures.
 
-What problem is MahaDAO trying to solve: Inflation & Loss of Purchasing Power
------------------------------------------------------------------------------
+## What problem is MahaDAO trying to solve: Inflation & Loss of Purchasing Power
 
-![](<.gitbook/assets/image (41) (1).png>)
+![](<.gitbook/assets/image (41).png>)
 
 Inflation, and the fight against it, has been very much in the public’s mind in recent years. The shrinkage in the purchasing power of the dollar in the past, and particularly the fear (or hope by speculators) of a serious further decline in the future, has greatly influenced the thinking of Wall Street.
 
@@ -37,6 +36,5 @@ Whilst there have been efforts to decentralize aspects of decision-making in the
 
 ![](<.gitbook/assets/image (61).png>)
 
-\
+\
 The Federal Reserve, freed from the constraints of pegging their “paper” to gold, has been constantly expanding the money supply since under various pretexts. However, it is an indisputable fact that virtually all fiat currencies, including the dollar, have lost anywhere between 50-100% of their value over the last few decades. Little is spoken of enduring inflation and permanent loss of “purchasing power” becoming a mainstay in our modern economic system.
-
