@@ -24,8 +24,8 @@
 
 * [Github](https://github.com/MahaDao/)
 * [Governance Portal](http://gov.mahadao.com)
-* [Dune Analytics](https://mahadao.com)
 * [Forums](https://discuss.mahadao.com)
+* [Dune Analytics](https://dune.xyz/mahadao/ARTH-Loans)
 
 ## Tutorials
 
