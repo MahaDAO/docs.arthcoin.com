@@ -22,19 +22,17 @@ Although we advise users to put a CR of not below 150%, the system allows for co
 
 ### Taking leverage long positions on yield farms/cryptocurrencies
 
-Amongst the various types of assets that are accepted as collateral to mint ARTH, borrowers can deposit yield farm tokens and leverage their yields.
-
 Since ARTH is a stablecoin with trading pairs across various other cryptocurrencies, you can also effectively gain a leveraged exposure to cryptocurrencies that can be used as collateral to mint ARTH.
 
 ### **Staking Rewards**
 
-You can find a list of all staking/farming programs on [https://app.arthcoin.com/#/farming](https://polygon.arthcoin.com/#/farming). More LP/Staking Pools with partner projects will be announced at launch.
+You can find a list of all staking/farming programs on [https://app.arthcoin.com/#/farming](https://polygon.arthcoin.com/#/farming).&#x20;
 
 ### No depreciation or loss of purchasing power
 
-One of the biggest differentiators of ARTH amongst other stablecoins is that it is inherently designed to appreciate against the US dollar.
+One of the biggest differentiators of ARTH amongst other stable coins is that it is designed to appreciate against the US dollar.&#x20;
 
-This means users who hold ARTH for longer periods of time should see their purchasing power increase when compared to fiat currencies.
+This means users who hold ARTH for longer periods of time should see an increase in their purchasing power when compared to other currencies.
 
 ## Contract Addresses
 
