@@ -8,7 +8,7 @@ Minimum Collateralization Ratio in **Recovery mode**: 150%
 New loans can only be taken out if the borrower sets a CR% of >=150%.
 
 {% hint style="warning" %}
-During Recovery Mode, Troves with a collateral ratio **below 150%** can be liquidated.&#x20;
+During Recovery Mode, loans with a collateral ratio **below 150%** can be liquidated.&#x20;
 {% endhint %}
 
 'Recovery Mode' is initiated to make sure new borrowers take out loans that do not further reduce the TCR, and help raise the TCR back above 150%. Furthermore, it's also an incentive for ARTH holders to participate in the Stability Pool and provide more ARTH to the pool.\
