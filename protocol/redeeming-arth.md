@@ -65,8 +65,8 @@ No, redemptions are a completely separate mechanism. All one has to do to pay ba
 
 ### As a borrower, do I lose money if I'm redeemed against?&#x20;
 
-If your Trove is redeemed against, you _do not_ incur a net loss. However, you will lose some of your ETH exposure. Your Trove's collateral ratio will also improve after a redemption.&#x20;
+If your loan is redeemed against, you _do not_ incur a net loss. However, you will lose some of your ETH exposure. Your loan's collateral ratio will also improve after a redemption.&#x20;
 
-### How can I avoid being redeemed against?&#x20;
+### How can I avoid my loan's collateral being redeemed?&#x20;
 
 The best way to avoid being redeemed against is by maintaining a high collateral ratio relative to the rest of the loans in the system. The riskiest loans (i.e. lowest collateralized loans) are first in line when a redemption takes place.&#x20;
