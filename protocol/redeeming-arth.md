@@ -41,12 +41,12 @@ Under normal operation, the redemption fee is given by the formula `(baseRate + 
 
 ### How is the `baseRate` calculated?
 
-Redemption fees are based on the `baseRate` state variable, which is dynamically updated. The `baseRate` increases with each redemption, and decays according to time passed since the last fee event - i.e. the last redemption or issuance of LUSD.
+Redemption fees are based on the `baseRate` state variable, which is dynamically updated. The `baseRate` increases with each redemption, and decays according to time passed since the last fee event - i.e. the last redemption or issuance of ARTH.
 
 Upon each redemption:
 
 * `baseRate` is decayed based on time passed since the last fee event
-* `baseRate` is incremented by an amount proportional to the fraction of the total LUSD supply that was redeemed
+* `baseRate` is incremented by an amount proportional to the fraction of the total ARTH supply that was redeemed
 * The redemption fee is given by `(baseRate  + 0.5%) * ETHdrawn`
 
 ## Stability Fees
