@@ -1,6 +1,6 @@
 # Liquidations
 
-When a borrower's loan falls below the Minimum Collateralization Ratio of 110%, he/she is exposed to liquidation.
+When a borrower's loan falls below the minimum collateralization ratio of 110%, the user is exposed to liquidation.
 
 **For example:**&#x20;
 
@@ -12,9 +12,9 @@ When a borrower's loan falls below the Minimum Collateralization Ratio of 110%, 
 
 ### Post Liquidation
 
-The debt of the loan position is fulfilled by the Stability Pool and its collateral is distributed among Stability Providers.
+The loan position debt  is fulfilled by the stability pool and its collateral is distributed among stability providers.
 
-The borrower still keeps the loan amount he received in ARTH as part of the borrowed loan but loses approximately 10% in overall value for each liquidation + fees.\
+The borrower still keeps the loan amount he received in ARTH but the user loses approximately 10% in overall value for each liquidation + fees while repaying the borrowed loan.\
 \
 **In the next section, learn how liquidations affect the Stability Pool rewards in favour of the Stability Pool providers.**
 
