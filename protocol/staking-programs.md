@@ -4,7 +4,7 @@ description: This page talks about the various staking pools and the features th
 
 # Staking Programs
 
-The ARTH protocol has various staking programs designed that allows token holders to earn rewards while they lock their holdings in these pools.
+The ARTH protocol has various staking programs that is designed to allow token holders to earn rewards while they lock their holdings in these pools.
 
 Staking programs allow users to stake single-token (eg: ARTH & MAHA) and liquidity pool tokens (eg: ARTH-ETH etc..).
 
