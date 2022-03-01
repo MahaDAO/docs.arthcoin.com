@@ -8,15 +8,13 @@ When a borrower's loan falls below the minimum collateralization ratio of 110%, 
 * The borrower committed 4 WETH, taking WETH at a price of $3,000`($10,000*120%/3000)`
 * For the loan position to be eligible for liquidation, the CR% needs to go below 110%&#x20;
 * If the price of WETH fell by 10% ($2700), his current CR% will fall to 108% ($2700\*4 WETH = $10,800 or 108% Collateralization Ratio)
-* This loan position can then be liquidated by anybody &#x20;
+* This loan position can then be liquidated by anybody
 
-### Post Liquidation
+Anybody can liquidate a loan as soon as it drops below the Minimum Collateral Ratio of `110%`. The initiator receives a gas compensation (`5 ARTH` + `0.5%` of the Trove's collateral) as a reward for this service.
 
-The loan position debt  is fulfilled by the stability pool and its collateral is distributed among stability providers.
+Post a liquidation. the loan position's debt is fulfilled by the stability pool and its collateral is distributed among stability providers. The borrower still keeps the loan amount he received in ARTH but the user loses approximately 10% in overall value for each liquidation + fees while repaying the borrowed loan.
 
-The borrower still keeps the loan amount he received in ARTH but the user loses approximately 10% in overall value for each liquidation + fees while repaying the borrowed loan.\
-\
-**In the next section, learn how liquidations affect the Stability Pool rewards in favour of the Stability Pool providers.**
+In special cases when the protocol goes under the [Recovery mode](recovery-mode.md), liquidation happens to all loans below the `150%` collateral ratio.
 
 ## **FAQs**
 

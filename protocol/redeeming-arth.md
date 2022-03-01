@@ -55,7 +55,7 @@ For every redemption, the ARTH holder will have to pay a fee which is a percenta
 
 This acts as a method to dampen the redemption of bonds which can often create a negative price impact if done all too quickly. The stability fee is not meant to de-incentivize ARTH holders from redeeming their bonds but rather used to control the speed at which they do so.
 
-The stability fee is managed via [Governance](governance.md).
+The stability fee is managed via [Governance](../what-is-maha.md).
 
 ## FAQs
 
