@@ -17,7 +17,7 @@
 * [Staking Programs](protocol/staking-programs.md)
 * [Recovery Mode](protocol/recovery-mode.md)
 * [0% Flash Loans](protocol/0-flash-loans.md)
-* [Leverage (coming soon)](protocol/leverage-coming-soon.md)
+* [Leverage Strategies](protocol/leverage-strategies.md)
 
 ## External Links
 
