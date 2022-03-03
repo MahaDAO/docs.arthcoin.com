@@ -9,6 +9,7 @@
 
 * [Introducing Loans](protocol/introduction-arth-loans.md)
 * [Minting and Burning ARTH](protocol/minting-and-burning-arth.md)
+* [Risks & Security](protocol/risks-and-security.md)
 * [Borrowing ARTH](protocol/borrowing-arth.md)
 * [Redeeming ARTH](protocol/redeeming-arth.md)
 * [Protocol Fees](protocol/how-does-arth-mitigate-against-stability-risk.md)
