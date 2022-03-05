@@ -24,6 +24,7 @@
 * [Recovery Mode](protocol/recovery-mode.md)
 * [0% Flash Loans](protocol/0-flash-loans.md)
 * [Leverage Strategies](protocol/leverage-strategies.md)
+* [Tokenized Pools](protocol/tokenized-pools.md)
 
 ## External Links
 
