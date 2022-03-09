@@ -35,6 +35,7 @@
 
 ## Tutorials
 
+* [Strategies](tutorials/strategies.md)
 * [Opening a Loan](tutorials/opening-a-loan.md)
 * [Closing a Loan](tutorials/closing-a-loan.md)
 * [Modifying a Loan](tutorials/modifying-a-loan.md)
