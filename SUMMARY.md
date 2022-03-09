@@ -6,7 +6,6 @@
 * [MAHA and Governance](what-is-maha.md)
 * [Farming](farming.md)
 * [Introduction to Farming](introduction-to-farming/README.md)
-  * [Untitled](introduction-to-farming/untitled.md)
   * [Concept of pools](introduction-to-farming/concept-of-pools.md)
   * [How to farm?](introduction-to-farming/how-to-farm.md)
 
