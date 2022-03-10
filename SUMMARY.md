@@ -34,8 +34,8 @@
 
 ## Tutorials
 
-* [Strategies](tutorials/strategies/README.md)
-  * [How to use leverage?](tutorials/strategies/how-to-use-leverage.md)
+* [Leverage Strategies](tutorials/leverage-strategies/README.md)
+  * [How to use leverage?](tutorials/leverage-strategies/how-to-use-leverage.md)
 * [Opening a Loan](tutorials/opening-a-loan.md)
 * [Closing a Loan](tutorials/closing-a-loan.md)
 * [Modifying a Loan](tutorials/modifying-a-loan.md)
