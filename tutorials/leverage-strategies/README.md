@@ -8,5 +8,7 @@ Leverage means using borrowed capital to carry out trades. Leverage trading can 
 
 Before a user borrows funds and starts trading with leverage, they need to deposit funds into their trading account. The initial capital that is provided is what is called as collateral. This collateral required depends on the leverage that a user uses and the total value of the position that they want to open which is also known as a margin.
 
+![Understanding leverage.](../../.gitbook/assets/11111.png)
+
 
 
