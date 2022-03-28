@@ -64,7 +64,7 @@ Step 1: Suppose a user wants to 'close and claim reward' the user needs to selec
 
 Step 2: Once they follow through with the above steps; the user will be provided with details of the reward and the position while closing it. Once the user views the details, the user needs to click on confirm and close the position and claim the reward.&#x20;
 
-![Confirmation of the close loan.](../../.gitbook/assets/4.jpeg)
+![The 'Confirm close loan' pop up to exit your position](<../../.gitbook/assets/Screenshot 2022-03-28 at 1.59.38 PM.png>)
 
 
 
