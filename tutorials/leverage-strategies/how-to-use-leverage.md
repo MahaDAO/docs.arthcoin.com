@@ -6,7 +6,7 @@ Step 1: Go to [https://app.arthcoin.com/](https://app.arthcoin.com) and select y
 
 Step 2: Once you select the network; you need to navigate to the leverage section.&#x20;
 
-![Pool availability is displayed on this page along with the option to open a position.](<../../.gitbook/assets/1 (1).jpg>)
+![Leverage home page](../../.gitbook/assets/1.jpg)
 
 
 
@@ -25,16 +25,16 @@ Step 6: Once the user gets a confirmation regarding the registration they can cl
 
 Step 7: After following through with step 6; the user will be directed to the supply asset page. Here the user needs to input an amount that they are willing to supply.&#x20;
 
-![User needs to input an amount they want to supply.](../../.gitbook/assets/supply.jpg)
+![The user needs to input an amount into the pool that they wish to supply. ](../../.gitbook/assets/1.png)
 
 
 
 Step 8: Once they have input an amount the user needs to click on 'supply' to proceed forward.&#x20;
 
 Step 9: After following through with the above the user is directed to the next page where the user needs to select the leverage that they are willing to opt for. \
-NOTE: The leverage ranges from 0.3x- 10x.&#x20;
+NOTE: The leverage ranges from 3x- 10x.&#x20;
 
-![Leverage selection ranges from 3x-10x.](../../.gitbook/assets/leverage.jpg)
+![The user needs to select the leverage that they want to opt for.](../../.gitbook/assets/2.png)
 
 
 
@@ -42,7 +42,7 @@ Step 10: Once the user selects the leverage value they will see the final borrow
 
 Step 11: After this the user will be directed to the final confirmation page where all the details will be displayed for a final review from the user's end.&#x20;
 
-![Final confirmation page for opening a position.](../../.gitbook/assets/confirm.jpg)
+![The user needs to confirm the details of the transaction in the final stage. ](../../.gitbook/assets/3.png)
 
 
 
@@ -58,4 +58,13 @@ Step 2: After this the user will be redirected to the supply page where in the u
 
 Step 1: Suppose a user wants to 'close and claim reward' the user needs to select the pool that they have already opened a position in and click on the 'close and claim reward' button.&#x20;
 
+![The user can view the pools they have invested in and click on the 'close' option.](<../../.gitbook/assets/Strategies Positions - your position (1).jpg>)
+
+
+
 Step 2: Once they follow through with the above steps; the user will be provided with details of the reward and the position while closing it. Once the user views the details, the user needs to click on confirm and close the position and claim the reward.&#x20;
+
+![Confirmation of the close loan.](../../.gitbook/assets/4.jpeg)
+
+
+
