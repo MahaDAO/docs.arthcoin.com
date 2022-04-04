@@ -16,7 +16,7 @@ We are limiting the scope of the program to critical and high severity bugs in t
 
 ### Audits
 
-MahaDAO smart contracts are a fork of Liquity which has been audited by [Trail of Bits](https://github.com/trailofbits/publications/blob/master/reviews/Liquity.pdf).
+MahaDAO smart contracts are a fork of Liquidity which has been audited by [Trail of Bits](https://github.com/trailofbits/publications/blob/master/reviews/Liquity.pdf).
 
 However, security audits don't eliminate risks completely. Please don’t supply your life savings or assets you can’t afford to lose, to the protocol, especially as a liquidity provider.
 
@@ -28,7 +28,7 @@ In the event of a market black swan or if the price of collateral drops signific
 
 Furthermore, if the total collateral ratio of particular collateral falls below the recovery mode collateral ratio (150% in most cases), then all loans that are also below the minimum collateral ratio also become eligible for liquidations.
 
-To learn more about liquations, read about it [here](liquidations.md).&#x20;
+To learn more about liquation's, read about it [here](liquidations.md).&#x20;
 
 We recommend borrowers always keep a high collateral ratio to avoid getting liquidated.
 
