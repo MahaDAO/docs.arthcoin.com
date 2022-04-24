@@ -12,7 +12,7 @@ In this section, we explain the various risks involved when interacting with the
 
 The MahaDAO offers a bug bounty program for responsible bug disclosures.
 
-We are limiting the scope of the program to critical and high severity bugs in the core contracts and are offering a reward of up to 20,000 MAHA. Happy hunting!
+We are limiting the scope of the program to critical and high severity bugs in the core contracts and are offering a reward of up to 10,000 MAHA. Happy hunting!
 
 ### Audits
 
