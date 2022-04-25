@@ -51,7 +51,7 @@ Step 8: Once you confirm the amount; the user will get a final confirmation rega
 
 Step 1: A user will get a withdraw option for a specific pool only if the user has deposited an amount in that pool. The user needs to navigate to a pool that they have deposited in and accordingly click on the withdraw button.&#x20;
 
-![Only the pools which have been deposited in will give the user an option to withdraw or claim.](../.gitbook/assets/6.jpg)
+![Only the pools which have been deposited in will give the user an option to withdraw or claim.](<../.gitbook/assets/6 (1).jpg>)
 
 
 
