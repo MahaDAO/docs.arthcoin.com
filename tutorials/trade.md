@@ -1,5 +1,5 @@
 ---
-description: Buy/sell large amounts of ARTH to any stable coin at the lowest slippage.
+description: Buy/sell large amounts of ARTH with any stable coin at the lowest slippage.
 cover: ../.gitbook/assets/Untitled.jpg
 coverY: 0
 ---
@@ -11,7 +11,7 @@ coverY: 0
 Step 1: Go to [https://arth.mahadao.com/](https://arth.mahadao.com) and select your preferred network from the top right.
 
 Step 2: Once you select the network; you need to navigate to the trade section. \
-NOTE: Under the polygon network the currency available are DAI-USDC-USDT
+NOTE: Under the polygon network the currency available are DAI,USDC,USDT.
 
 Step 3: There are two options on the trade page: BUY and SELL.
 
@@ -19,20 +19,19 @@ Step 3: There are two options on the trade page: BUY and SELL.
 
 
 
-Step 4: Suppose a user wants to buy ARTH; the user needs to click on the buy section.&#x20;
+Step 4: Suppose you want to buy ARTH; click on the Buy section.&#x20;
 
-Step 5: After the user navigates to the buy section and select the currency you want to trade in for ARTH from the drop down.&#x20;
+Step 5: After the user navigates to the buy section, select the currency you want to trade in for ARTH from the drop-down.&#x20;
 
-![The user needs to select the currency that they want to trade in from the drop down.](<../.gitbook/assets/trade main 2 .jpg>)
+![The user needs to select the currency that they want to trade in from the drop-down.](<../.gitbook/assets/trade main 2 .jpg>)
 
 
 
-Step 6: After selecting the currency from the drop down the user needs to input an amount that they want to trade in for ARTH. As soon as the user inputs an amount it shows the user the amount of ARTH the user will receive for the amount that they are trading in. \
-NOTE: If a user selects any specific currency immediately the amount for 1 ARTH as compared to the selected currency value is displayed below. &#x20;
+Step 6: After selecting the currency from the drop-down, the user needs to input an amount that they want to trade in for ARTH. As soon as the user inputs an amount, it shows the user the amount of ARTH the user will receive for the entered collateral.
 
-Step 7: Once the user inputs an amount then the user needs to click on the approve button first to approve the trade.&#x20;
+Step 7: Once the user inputs an amount, the user needs to click on the approve button first to approve the collateral.&#x20;
 
-Step 8: Once the user follows through with the approval and receives a confirmation of the transaction the user needs to click on buy to close the transaction.&#x20;
+Step 8: Once the user follows through with the approval and receives a confirmation of the transaction, the user needs to click on buy to close the transaction.&#x20;
 
 Step 9: Once the user clicks on buy and gets a successful transaction message it means that the user has completed the process.&#x20;
 
