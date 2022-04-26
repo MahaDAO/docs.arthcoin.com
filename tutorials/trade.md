@@ -1,5 +1,7 @@
 ---
 description: Buy/sell large amounts of ARTH to any stable coin at the lowest slippage.
+cover: ../.gitbook/assets/Untitled.jpg
+coverY: 0
 ---
 
 # Trade
