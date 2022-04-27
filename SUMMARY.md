@@ -38,4 +38,5 @@
 * [Closing a Loan](tutorials/closing-a-loan.md)
 * [Modifying a Loan](tutorials/modifying-a-loan.md)
 * [Trade](tutorials/trade.md)
+* [Pools](tutorials/pools.md)
 * [FAQs](tutorials/faqs.md)
