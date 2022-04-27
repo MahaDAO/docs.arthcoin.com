@@ -14,7 +14,9 @@ Step 3: In this section you will find that there is a pool which has ARTH.USD + 
 NOTE: The other 3 EPS that are included in this pool are: BUSD-USDC-USDT
 
 {% hint style="info" %}
-Ellipsis. Finance is an exchange for stable coins on the Binance Smart Chain. It allows for stable coins swap with very low slippage and minimal fees.
+Ellipsis (EPS) is the native token on the platform the provides value for LPs and token holders\
+Ellipsis. Finance is an exchange for stable coins on the Binance Smart Chain. It allows for stable coins swap with very low slippage and minimal fees. \
+EPS is a **Revenue Earning** token where token stakers will earn fees from the Ellipsis protocol.
 {% endhint %}
 
 Step 4: Once you select the pool you want to add liquidity into; click on the add liquidity button. After which you will be directed to the next page where in the user will need to input the collateral amount for all the tokens in the specified pool.&#x20;
