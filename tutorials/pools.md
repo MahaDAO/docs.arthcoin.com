@@ -4,6 +4,10 @@ description: Borrow ARTH against different collaterals against 0% interest.
 
 # Pools
 
+### POOLS:
+
+A liquidity pool is a crowdsourced pool of cryptocurrencies or tokens locked in a smart contract that is used to facilitate trades between the assets on a decentralized exchange (DEX). Instead of traditional markets of buyers and sellers, many decentralized finance (DeFi) platforms use automated market makers (AMMs), which allow digital assets to be traded in an automatic and permission less manner through the use of liquidity pools.
+
 ### ADD LIQUIDITY:
 
 Step 1: Go to [https://arth.mahadao.com/](https://arth.mahadao.com) and select your preferred network from the top right.
