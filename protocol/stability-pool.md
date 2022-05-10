@@ -8,23 +8,15 @@ description: >-
 
 To avoid the protocol going into extreme stress, the stability pool acts as a source of liquidity to repay debt from liquidated loans to ensure that the total ARTH supply always remains backed by collateral.&#x20;
 
-To avoid the protocol going into extreme stress, the stability pool acts as a source of liquidity to repay debt from liquidated loans. This ensures that the total ARTH supply always remains backed by collateral.
-
 When a loan position is liquidated, an equivalent amount of ARTH corresponding to the remaining debt has to be burned from the Stability Pool’s balance to repay its debt. In exchange, the entire collateral (committed by the borrower) is transferred to the stability pool as rewards to stability providers.
-
-When a loan position is liquidated, an equivalent amount of ARTH corresponding to the remaining debt has to be burned from the stability pool’s balance to repay its debt. In exchange, the entire collateral (committed by the borrower) is transferred to the stability pool as rewards to stability providers.
 
 ### Who funds the stability pool?
 
 The Stability Pool is funded by users transferring their ARTH into the pool. These are also known as pooled users or stability providers.
 
-The Stability Pool is funded by users who transfer their ARTH into the pool who are also known as pooled users or stability providers.
-
 ### Why do users add funds to the stability pool?
 
 Users that provide ARTH to the stability pool, do so to earn liquidation rewards.
-
-Users that provide ARTH to the stability pool mainly do it to earn liquidation rewards.
 
 Over a certain period, the stability pool will lose some/part of their ARTH deposits, as the protocol uses the stability pool to repay debt from liquidated loans. Although, during the same instance, the pool gains share of the liquidated collateral (committed by the borrower at the time of procuring a loan).&#x20;
 
