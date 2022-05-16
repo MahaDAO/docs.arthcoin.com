@@ -34,3 +34,9 @@ The requirement to liquidate a loan position is simply:&#x20;
 For every liquidation, the liquidator will have to pay gas fees. To make sure, liquidations are profitable, a significant gas fee is kept aside at the time of borrowing a loan.&#x20;
 
 Currently, the gas fee compensation is set at 5 ARTH or $10 acc to the current GMU of $2.
+
+### What happens if there is no ARTH in the stability pool?
+
+In the most extreme scenario when there is no ARTH in the stability pool that can be used to payback a loan, the debt & the collateral is redistributed across all the loan holders.&#x20;
+
+In such a case, the system redistributes the debt and collateral from liquidated loans to all other existing loans. The redistribution of debt and collateral is done in proportion to the recipient loan's collateral amount
