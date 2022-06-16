@@ -4,11 +4,11 @@ description: This page goes through all the steps needed to close a loan.
 
 # Closing a Loan
 
-**Step 1:** Go to ' Your loans' section and click on any of the opened loans.
+**Step 1:** Go to the 'View Loans' section.&#x20;
 
 ![](<../.gitbook/assets/your loans.jpg>)
 
-**Step 2:** Here you will see two options> Close loan and modify loan. Click on modify loan.
+**Step 2:** Here you will see two options> Close loan and modify loan. Click on close loan.
 
 ![](<../.gitbook/assets/modify close.jpg>)
 
