@@ -43,7 +43,7 @@ Step 7: Once you click on the deposit button; you will get a pop up regarding th
 
 Step 8: Once you confirm the amount; the user will get a final confirmation regarding the deposit made.
 
-![The final confirmation of the deposit.](../.gitbook/assets/5.jpg)
+![The final confirmation of the deposit.](<../.gitbook/assets/5 (1).jpg>)
 
 
 
