@@ -4,7 +4,7 @@
 
 Once you have procured either ARTH or MAHA tokens, you can begin to farm on either Polygon or BSC.
 
-Step 1: Go to [https://app.arthcoin.com/](https://app.arthcoin.com) and select your preferred network from the top right.
+Step 1: Go to [https://app.arthcoin.com/](https://app.arthcoin.com/) and select your preferred network from the top right.
 
 ![The user needs to navigate to the farming tab from the options on the left after selecting the network option according to their preference.](<../.gitbook/assets/1 (1).jpg>)
 

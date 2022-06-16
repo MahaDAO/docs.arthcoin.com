@@ -2,7 +2,7 @@
 
 Leverage strategies allow you to gain more exposure to assets/farms/LPs using ARTH's minting mechanism.&#x20;
 
-Step 1: Go to [https://arth.mahadao.com/](https://arth.mahadao.com) and select your preferred network from the top right.
+Step 1: Go to [https://arth.mahadao.com/](https://arth.mahadao.com/) and select your preferred network from the top right.
 
 Step 2: Once you select the network; you need to navigate to the leverage section.&#x20;
 

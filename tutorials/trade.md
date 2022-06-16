@@ -8,7 +8,7 @@ coverY: 0
 
 ## BUY:&#x20;
 
-Step 1: Go to [https://arth.mahadao.com/](https://arth.mahadao.com) and select your preferred network from the top right.
+Step 1: Go to [https://arth.mahadao.com/](https://arth.mahadao.com/) and select your preferred network from the top right.
 
 Step 2: Once you select the network; you need to navigate to the trade section. \
 NOTE: Under the polygon network the currency available are DAI,USDC,USDT.
@@ -39,7 +39,7 @@ Step 9: Once the user clicks on buy and gets a successful transaction message it
 
 ## SELL:
 
-Step 1: Go to [https://arth.mahadao.com/](https://arth.mahadao.com) and select your preferred network from the top right.
+Step 1: Go to [https://arth.mahadao.com/](https://arth.mahadao.com/) and select your preferred network from the top right.
 
 Step 2: Once you select the network; you need to navigate to the trade section. \
 NOTE: Under the polygon network the currency available are DAI-USDC-USDT
@@ -59,7 +59,7 @@ Step 5:  After the user navigates to the sell section and needs to select the cu
 
 
 Step 6: After selecting the currency from the drop down the user needs to input an amount that they want to trade ARTH in for . As soon as the user inputs an amount it shows the user the amount that the user will receive for the amount of ARTH that they are trading in for the selected currency. \
-NOTE: If a user selects any specific currency immediately the amount for 1 ARTH as compared to the selected currency value is displayed below. &#x20;
+NOTE: If a user selects any specific currency immediately the collateral for 1 ARTH as compared to the selected currency value is displayed below. &#x20;
 
 Step 7: Once the user inputs an amount then the user needs to click on the approve button first to approve the trade.&#x20;
 
