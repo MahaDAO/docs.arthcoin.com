@@ -26,7 +26,7 @@ Since ARTH is a stablecoin with trading pairs across various other cryptocurrenc
 
 ### **Staking Rewards**
 
-You can find a list of all staking/farming programs on [https://app.arthcoin.com/#/farming](https://polygon.arthcoin.com/#/farming).&#x20;
+You can find a list of all staking/farming programs on [https://arth.mahadao.com/#/farming](https://arth.mahadao.com/#/farming)
 
 ### No depreciation or loss of purchasing power
 
