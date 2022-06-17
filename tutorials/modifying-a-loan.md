@@ -6,7 +6,7 @@ description: This section explains how you can modify an existing loan
 
 Modify loan means you can add more collateral or you withdraw collateral. This lets you modify your existing loans. You can make these changes by clicking on any of the loans in the ' Your loans' section.
 
-**Step 1:** Go to 'View loans' section and click on any of the opened loans.
+**Step 1:** Go to ' View loans' section and click on any of the opened loans.
 
 **Step 2:** Here you will see two options, "Close Loan" and "Modify Loan". Click on modify loan.
 
