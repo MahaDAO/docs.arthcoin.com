@@ -15,7 +15,7 @@ The loan system mainly works on you exchanging WMATIC, WETH or DAI for ARTH at 0
 
 ****
 
-**Step 2:** Once you click on 'open loan' button you will find a drop down section that will let you choose from different currencies.&#x20;
+**Step 2:** Once you click on 'open loan' button you will find a drop down section that will let you choose from different assets.&#x20;
 
 ![You need to input an amount that is going to be the collateral amount from your end.](<../.gitbook/assets/2 (1).jpg>)
 
