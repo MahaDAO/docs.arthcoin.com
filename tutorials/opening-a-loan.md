@@ -6,7 +6,7 @@ description: This page describes how you can open a loan.
 
 The loan system mainly works on you exchanging WMATIC, WETH or DAI for ARTH at 0% interest. Two modes that play a crucial role in getting a loan.
 
-* **Normal mode:** In the normal mode the collateral ratio must be at least 110%\\
+* **Normal mode:** In the normal mode the collateral ratio must be at least 110%
 * **Recovery mode:** In recovery mode, the collateral ratio must be at least 150% when opening a loan.
 
 **Step 1:** For a user who wants to take a loan; click on the 'open loan' button. If a user has opened any loans before and wants to check the status can check it below in the opened loans list.
