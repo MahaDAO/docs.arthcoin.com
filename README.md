@@ -38,7 +38,7 @@ This means users who hold ARTH for longer periods of time should see an increase
 
 These are the deployed contracts on the various networks.
 
-| Network         | Addresses                                    |
-| --------------- | -------------------------------------------- |
-| Arth on BSC     | ​0x85daB10c3BA20148cA60C2eb955e1F8ffE9eAa79  |
-| Arth on polygon | ​0x862Fc9F243365d98Ed9FF68f720041074299B0dC  |
+| Network         | Addresses                                                                                                                |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| Arth on BSC     | ​[0x85daB10c3BA20148cA60C2eb955e1F8ffE9eAa79](https://bscscan.com/token/0x85daB10c3BA20148cA60C2eb955e1F8ffE9eAa79)      |
+| Arth on polygon | ​[0x862Fc9F243365d98Ed9FF68f720041074299B0dC](https://polygonscan.com/token/0x862Fc9F243365d98Ed9FF68f720041074299B0dC)  |
