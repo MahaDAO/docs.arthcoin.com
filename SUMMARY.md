@@ -25,8 +25,6 @@
 * [Closing a Loan](tutorials/closing-a-loan.md)
 * [Modifying a Loan](tutorials/modifying-a-loan.md)
 * [How to farm?](introduction-to-farming/how-to-farm.md)
-* [Trade](tutorials/trade.md)
-* [Pools](tutorials/pools.md)
 
 ## External Links
 
