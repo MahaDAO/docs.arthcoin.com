@@ -1,4 +1,4 @@
-# Target Price for ARTH
+# What is ARTH pegged to?
 
 Because stablecoins are almost always pegged to a target price, it is ideal for them to revolve around that price. Most stablecoins are pegged to 1 USD  or another fiat currency (like Japanese Yen, Chinese Yuan, etc).&#x20;
 

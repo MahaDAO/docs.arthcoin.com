@@ -1,8 +1,8 @@
 # Introducing Loans
 
-ARTH Loans is an algorithmic borrowing protocol that lets users draw interest-free loans against their crypto assets used as collateral. Loans are always lent in ARTH valuecoin (a stablecoin pegged to the Global Measurement Unit). Users need to commit a minimum Collateralization Ratio (CR) of 110%.&#x20;
+ARTH in its true nature is a decentralized borrowing protocol that lets users draw interest-free loans against their crypto assets used as collateral.&#x20;
 
-Because of the low collateralization ratio, it is essential to secure the protocol via other means.
+Loans are always lent in ARTH valuecoin (a stablecoin pegged to the Global Measurement Unit). Users need to commit a minimum Collateralization Ratio (CR) of 110%.&#x20;
 
 The protocol also uses secondary measures to secure the loans. In surplus to the 110% collateral committed, there exists a Stability Pool of ARTH valuecoin. This pool acts as a means of last resort if the protocol needs to go in Recovery mode.
 

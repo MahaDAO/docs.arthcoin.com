@@ -2,11 +2,8 @@
 
 * [Overview](README.md)
 * [The Money Illusion](the-money-illusion.md)
-* [What is ARTH pegged to?](what-is-arth-pegged-to.md)
+* [What is ARTH pegged to?](target-price-for-arth.md)
 * [MAHA and Governance](what-is-maha.md)
-* [Introduction to Farming](introduction-to-farming/README.md)
-  * [Concept of pools](introduction-to-farming/concept-of-pools.md)
-  * [How to farm?](introduction-to-farming/how-to-farm.md)
 
 ## Protocol
 
@@ -32,11 +29,10 @@
 
 ## Tutorials
 
-* [Leverage Strategies](tutorials/leverage-strategies/README.md)
-  * [How to use leverage?](tutorials/leverage-strategies/how-to-use-leverage.md)
 * [Opening a Loan](tutorials/opening-a-loan.md)
 * [Closing a Loan](tutorials/closing-a-loan.md)
 * [Modifying a Loan](tutorials/modifying-a-loan.md)
+* [How to farm?](tutorials/how-to-farm.md)
 * [Trade](tutorials/trade.md)
 * [Pools](tutorials/pools.md)
 * [FAQs](tutorials/faqs.md)

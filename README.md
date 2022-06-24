@@ -10,6 +10,8 @@ ARTH is a stablecoin that is designed to overtime appreciate against the US doll
 
 ARTH is issued using decentralized smart contracts that use cryptocurrency as collateral to maintain its peg. The fees charged to mint ARTH using cryptocurrency collateral at 0% interest rates which makes it very cost effective for borrowing/lending.
 
+ARTH only is fully backed with mechanisms that give ARTH a backing of at least 110% in highly liquid cryptocurrency collateral.
+
 ### 0% Interest Fees on Borrowing
 
 You take out loans and that’s it. No interests accrued, at all.&#x20;
