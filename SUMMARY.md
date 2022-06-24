@@ -3,7 +3,7 @@
 * [Overview](README.md)
 * [The Money Illusion](the-money-illusion.md)
 * [What is ARTH pegged to?](target-price-for-arth.md)
-* [Risks & Security](risks-and-security.md)
+* [Risks & Security](protocol/risks-and-security.md)
 * [MAHA and Governance](what-is-maha.md)
 
 ## Protocol
@@ -16,8 +16,8 @@
 * [Liquidations](protocol/liquidations.md)
 * [Stability Pools](protocol/stability-pool.md)
 * [Recovery Mode](protocol/recovery-mode.md)
-* [Flash Loans](protocol/flash-loans.md)
-* [FAQs](protocol/faqs.md)
+* [Flash Loans](protocol/0-flash-loans.md)
+* [FAQs](tutorials/faqs.md)
 
 ## Tutorials
 

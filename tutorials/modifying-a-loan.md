@@ -16,15 +16,12 @@ Modify loan means you can add more collateral or you withdraw collateral. This l
 
 ![Suppose you want to add more collateral and you can input an amount in the add collateral section and click on add collateral.](<../.gitbook/assets/add col 1.jpg>)
 
-**Step 4:** Suppose you are adding collateral and you follow through with step 3 you will get a confirm add collateral pop up followed by a metamask wallet confirmation.
+**Step 4:** Suppose you wanted to add more collateral, and you follow through with step 3 you will get a confirm add collateral pop up followed by a metamask wallet confirmation.
 
 ![Confirm withdraw collateral](<../.gitbook/assets/add col 2 .jpg>) ![Successful confirmation regarding the addition of collateral.](<../.gitbook/assets/add col confirm.jpg>)
 
-
-
 Step 5 : Suppose you want to add more collateral and you can input an amount in the add collateral section and click on add collateral.
 
-\
 **Step 6:** After you click on withdraw collateral you will get a confirm withdraw collateral pop up; which is followed by a metamask wallet confirmation.
 
 ![After you click on withdraw collateral you will get a confirm withdraw collateral pop up; which is followed by a metamask wallet confirmation.](<../.gitbook/assets/CONFIRM withdraw col 2.jpg>) ![After you input the amount you need to click on withdraw collateral.](<../.gitbook/assets/withdraw col.jpg>)

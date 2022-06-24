@@ -27,7 +27,7 @@ In the event of a market black swan or if the price of collateral drops signific
 
 Furthermore, if the total collateral ratio of particular collateral falls below the recovery mode collateral ratio (150% in most cases), then all loans that are also below the minimum collateral ratio also become eligible for liquidations.
 
-To learn more about liquation's, read about it [here](protocol/liquidations.md).&#x20;
+To learn more about liquation's, read about it [here](liquidations.md).&#x20;
 
 We recommend borrowers always keep a high collateral ratio to avoid getting liquidated.
 
@@ -35,7 +35,7 @@ We recommend borrowers always keep a high collateral ratio to avoid getting liqu
 
 In the event of a redemption, loans with the lowest collateral ratio lose their exposure to the underlying collateral.
 
-To learn more about how redemptions affect your loan, read about it [here](protocol/redeeming-arth.md#as-a-borrower-do-i-lose-money-if-im-redeemed-against).
+To learn more about how redemptions affect your loan, read about it [here](redeeming-arth.md#as-a-borrower-do-i-lose-money-if-im-redeemed-against).
 
 We recommend borrowers always keep a higher collateral ratio than other loans to avoid getting redeemed.
 

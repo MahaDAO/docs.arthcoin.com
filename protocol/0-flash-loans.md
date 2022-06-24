@@ -28,7 +28,7 @@ All flash loan contracts are controlled by the Governance contract which is gove
 * Pause the flash loan contract&#x20;
 * Change the fee that gets charged (which is currently set at 0.1%)
 
-To learn more about governance visit the [Governance section.](flash-loans.md#governance)
+To learn more about governance visit the [Governance section.](0-flash-loans.md#governance)
 
 ## How to use ARTH flash loans?
 

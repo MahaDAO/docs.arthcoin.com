@@ -5,7 +5,7 @@
 Although, the primary use case of ARTH Loans is not generating revenue, instead it is for users to take out seamless loans in a stable valuecoin, that is resistant to inflation. DeFi users, however, can generate revenue via:
 
 * Liquidating low CR% loans
-* Depositing ARTH valuecoin to the [Stability Pool](stability-pool.md) to earn liquidation rewards. Stability Pools always gives a net positive reward overtime.
+* Depositing ARTH valuecoin to the [Stability Pool](../protocol/stability-pool.md) to earn liquidation rewards. Stability Pools always gives a net positive reward overtime.
 * Participate in various staking/LP pools with partner projects and earn rewards in MAHA and partner tokens.
 
 ### Pre-requisites for taking out a loan?
