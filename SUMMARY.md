@@ -2,7 +2,7 @@
 
 * [Overview](README.md)
 * [The Money Illusion](the-money-illusion.md)
-* [Target Price for ARTH](target-price-for-arth.md)
+* [What is ARTH pegged to?](what-is-arth-pegged-to.md)
 * [MAHA and Governance](what-is-maha.md)
 * [Introduction to Farming](introduction-to-farming/README.md)
   * [Concept of pools](introduction-to-farming/concept-of-pools.md)

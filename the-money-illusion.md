@@ -16,7 +16,7 @@ It is the concept that the money you have now is worth more than the identical s
 
 ![Source: https://corporatefinanceinstitute.com/resources/knowledge/economics/money-illusion/](<.gitbook/assets/image (83).png>)
 
-Money illusion is an economic theory stating that people have a tendency to view their wealth \*\*\*\* and \*\*\*\* income in nominal dollar terms, rather than in real terms.
+Money illusion is an economic theory stating that people have a tendency to view their wealth and  income in nominal dollar terms, rather than in real terms.
 
 In other words, it is assumed that people do not take into account the level of inflation in an economy, wrongly believing that a dollar is worth the same as it was the prior year. It is also sometimes referred to as a price illusion.
 
@@ -26,9 +26,7 @@ Fisher’s book detailed a German shopkeeper during a time when Germany’s curr
 
 The shopkeeper was under the belief that because she was selling shirts above the cost she acquired them for, she was making a profit. However, according to Fisher, the shopkeeper received less money, or lost money, from selling her shirts. It is because the shopkeeper had lost purchasing power, or the number of goods and services she could purchase with the same amount of money, due to inflationary pressures.
 
-## What problem is MahaDAO trying to solve: Inflation & Loss of Purchasing Power
-
-![](<.gitbook/assets/image (41).png>)
+## The problem of inflation
 
 Inflation, and the fight against it, has been very much in the public’s mind in recent years. The shrinkage in the purchasing power of the dollar in the past, and particularly the fear (or hope by speculators) of a serious further decline in the future, has greatly influenced the thinking of Wall Street.
 

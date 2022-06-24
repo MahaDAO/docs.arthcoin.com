@@ -12,17 +12,17 @@ ARTH is issued using decentralized smart contracts that use cryptocurrency as co
 
 ### 0% Interest Fees on Borrowing
 
-You take out loans. That’s it. No interests accrued, at all. Unlike lending protocols like Compound or MakerDAO, the way ARTH does this is by charging a one-time borrowing fee that adjust algorithmically and is taken when a loan is opened.
+You take out loans and that’s it. No interests accrued, at all.&#x20;
+
+Unlike lending protocols like Compound or MakerDAO, the way ARTH does this is by charging a one-time borrowing fee that adjusts algorithmically whenever a loan is opened.
+
+ARTH becomes the cheapest stablecoin to borrow against.
 
 ### **Minimal Collateralization Ratio**
 
 110% — that’s it! And In some cases when the collateral used is stablecoins, the ratio is even lower, all the way down to 105%.
 
 Although we advise users to put a CR of not below 150%, the system allows for collateralization up to 110%. That means you can only be liquidated once your CR reaches below 110%.
-
-### Taking leverage long positions on yield farms/cryptocurrencies
-
-Since ARTH is a stablecoin with trading pairs across various other cryptocurrencies, you can also effectively gain a leveraged exposure to cryptocurrencies that can be used as collateral to mint ARTH.
 
 ### **Staking Rewards**
 
@@ -38,7 +38,8 @@ This means users who hold ARTH for longer periods of time should see an increase
 
 These are the deployed contracts on the various networks.
 
-| Network         | Addresses                                                                                                                |
-| --------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| Arth on BSC     | ​[0x85daB10c3BA20148cA60C2eb955e1F8ffE9eAa79](https://bscscan.com/token/0x85daB10c3BA20148cA60C2eb955e1F8ffE9eAa79)      |
-| Arth on polygon | ​[0x862Fc9F243365d98Ed9FF68f720041074299B0dC](https://polygonscan.com/token/0x862Fc9F243365d98Ed9FF68f720041074299B0dC)  |
+| Network  | Addresses                                                                                                                |
+| -------- | ------------------------------------------------------------------------------------------------------------------------ |
+| Ethereum | [0x8cc0f052fff7ead7f2edcccac895502e884a8a71](https://etherscan.io/address/0x8cc0f052fff7ead7f2edcccac895502e884a8a71)    |
+| BSC      | ​[0x85daB10c3BA20148cA60C2eb955e1F8ffE9eAa79](https://bscscan.com/token/0x85daB10c3BA20148cA60C2eb955e1F8ffE9eAa79)      |
+| Polygon  | ​[0x862Fc9F243365d98Ed9FF68f720041074299B0dC](https://polygonscan.com/token/0x862Fc9F243365d98Ed9FF68f720041074299B0dC)  |
