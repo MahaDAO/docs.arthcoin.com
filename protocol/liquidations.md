@@ -4,10 +4,10 @@ When a borrower's loan falls below the minimum collateralization ratio of 110%, 
 
 **For example:**&#x20;
 
-* A borrower took out a loan of $10,000 by committing collateral in WETH with a CR% of 120%.&#x20;
-* The borrower committed 4 WETH, taking WETH at a price of $3,000`($10,000*120%/3000)`
+* A borrower took out a loan of $10,000 by committing collateral in ETH with a CR% of 120%.&#x20;
+* The borrower committed 4 ETH, taking ETH at a price of $3,000`($10,000*120%/3000)`
 * For the loan position to be eligible for liquidation, the CR% needs to go below 110%&#x20;
-* If the price of WETH fell by 10% ($2700), his current CR% will fall to 108% ($2700\*4 WETH = $10,800 or 108% Collateralization Ratio)
+* If the price of ETH fell by 10% ($2700), his current CR% will fall to 108% ($2700\*4 WETH = $10,800 or 108% Collateralization Ratio)
 * This loan position can then be liquidated by anybody
 
 Anybody can liquidate a loan as soon as it drops below the Minimum Collateral Ratio of `110%`. The initiator receives a gas compensation (`5 ARTH` + `0.5%` of the Trove's collateral) as a reward for this service.

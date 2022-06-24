@@ -19,19 +19,19 @@ There are two kinds of redemptions:
 
 In such a case, your loan is closed, and you can claim your collateral surplus and the Liquidation Reserve at any time.&#x20;
 
-Let’s say you have a loan with `200 MAHA` collateralized with a debt of `3,200 ARTH` and the current price of MAHA is `20 $GMU`.
+Let’s say you have a loan with `200 ETH` collateralized with a debt of `3,200 ARTH` and the current price of ETH is `20 $GMU`.
 
 This puts your collateral ratio (CR) at `125%` `(= 100% * (20 * 200) / 3,200)`. Let’s imagine this is the lowest CR in the protocol and look at two examples of a partial redemption and a full redemption:
 
 **Example of a partial redemption**
 
-Somebody redeems `1,200 ARTH` for `60 MAHA` and thus repays `1,200 ARTH` of your debt, reducing it from `3,200 ARTH` to `2,000 ARTH`.&#x20;
+Somebody redeems `1,200 ARTH` for `60 ETH` and thus repays `1,200 ARTH` of your debt, reducing it from `3,200 ARTH` to `2,000 ARTH`.&#x20;
 
-In return, `60 MAHA,` worth `1,200 $GMU`, is transferred from your loan to the redeemer. Your collateral goes down from `200 MAHA to 140 MAHA`, while your collateral ratio goes up from `125%` to `140% (= 100% * (20 * 140) / 2,000)`.
+In return, `60 ETH,` worth `1,200 $GMU`, is transferred from your loan to the redeemer. Your collateral goes down from `200 ETH to 140 ETH`, while your collateral ratio goes up from `125%` to `140% (= 100% * (20 * 140) / 2,000)`.
 
 **Example of a full redemption**
 
-Somebody redeems `6,000 ARTH` for `300 MAHA`. Given that the redeemed amount is larger than your debt minus  `5 ARTH` (set aside as a Liquidation Reserve), your debt of `3,200 ARTH` is entirely cleared and your collateral gets reduced by `3,195 $GMU` of MAHA, leaving you with a collateral of `40 MAHA (= 200 - 3,200 / 20)`.
+Somebody redeems `6,000 ARTH` for `300 ETH`. Given that the redeemed amount is larger than your debt minus  `5 ARTH` (set aside as a Liquidation Reserve), your debt of `3,200 ARTH` is entirely cleared and your collateral gets reduced by `3,195 $GMU` of ETH, leaving you with a collateral of `40 ETH (= 200 - 3,200 / 20)`.
 
 In both cases, the net value of your position minus the debt remains the same, however during a redemption your exposure to the underlying asset decreases.&#x20;
 
@@ -65,7 +65,7 @@ No, redemptions are a completely separate mechanism. All one has to do to pay ba
 
 ### As a borrower, do I lose money if I'm redeemed against?&#x20;
 
-If your loan is redeemed against, you _do not_ incur a net loss. However, you will lose some of your ETH exposure. Your loan's collateral ratio will also improve after a redemption.&#x20;
+If your loan is redeemed against, you _do not_ incur a net loss. However, you will lose some of your collateral exposure. Your loan's collateral ratio will also improve after a redemption.&#x20;
 
 ### How can I avoid my loan's collateral being redeemed?&#x20;
 

@@ -3,36 +3,34 @@
 * [Overview](README.md)
 * [The Money Illusion](the-money-illusion.md)
 * [What is ARTH pegged to?](target-price-for-arth.md)
+* [Risks & Security](risks-and-security.md)
 * [MAHA and Governance](what-is-maha.md)
 
 ## Protocol
 
 * [Introducing Loans](protocol/introduction-arth-loans.md)
-* [Minting and Burning ARTH](protocol/minting-and-burning-arth.md)
-* [Risks & Security](protocol/risks-and-security.md)
+* [Minting and Burning](protocol/minting-and-burning-arth.md)
 * [Borrowing ARTH](protocol/borrowing-arth.md)
 * [Redeeming ARTH](protocol/redeeming-arth.md)
 * [Protocol Fees](protocol/how-does-arth-mitigate-against-stability-risk.md)
 * [Liquidations](protocol/liquidations.md)
 * [Stability Pools](protocol/stability-pool.md)
-* [Staking Programs](protocol/staking-programs.md)
 * [Recovery Mode](protocol/recovery-mode.md)
-* [0% Flash Loans](protocol/0-flash-loans.md)
-* [Tokenized Pools](protocol/tokenized-pools.md)
-
-## External Links
-
-* [Github](https://github.com/MahaDao/)
-* [Governance Portal](http://gov.mahadao.com)
-* [Forums](https://discuss.mahadao.com/)
-* [Dune Analytics](https://dune.xyz/mahadao/ARTH-Loans)
+* [Flash Loans](protocol/flash-loans.md)
+* [FAQs](protocol/faqs.md)
 
 ## Tutorials
 
 * [Opening a Loan](tutorials/opening-a-loan.md)
 * [Closing a Loan](tutorials/closing-a-loan.md)
 * [Modifying a Loan](tutorials/modifying-a-loan.md)
-* [How to farm?](tutorials/how-to-farm.md)
+* [How to farm?](introduction-to-farming/how-to-farm.md)
 * [Trade](tutorials/trade.md)
 * [Pools](tutorials/pools.md)
-* [FAQs](tutorials/faqs.md)
+
+## External Links
+
+* [Github](https://github.com/MahaDAO/arth-core)
+* [Discord](https://discord.gg/mahadao)
+* [Web Interface](https://arth.mahadao.com)
+* [Forums](https://discuss.mahadao.com/)

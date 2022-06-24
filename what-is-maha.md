@@ -24,4 +24,4 @@ Every few years market situations change. It's difficult to predict what design 
 
 Which is why some kind of governance is needed to make sure that ARTH will stay ahead of it's time.
 
-At the same time governance, shouldn't slow down or cause a chance to corrupt the protocol in any way or form.
+At the same time governance is designed in such a way that it shouldn't somehow centralized power to destabilize ARTH.
