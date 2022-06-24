@@ -1,4 +1,8 @@
-# Redeeming ARTH
+---
+description: This section explains how redeeming ARTH would work
+---
+
+# Redemptions
 
 When ARTH is redeemed, the collateral provided to the redeemer is allocated from loans with the lowest collateral ratio even if it is above the minimum collateral ratio `110%`.&#x20;
 

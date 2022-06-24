@@ -35,7 +35,7 @@ We recommend borrowers always keep a high collateral ratio to avoid getting liqu
 
 In the event of a redemption, loans with the lowest collateral ratio lose their exposure to the underlying collateral.
 
-To learn more about how redemptions affect your loan, read about it [here](redeeming-arth.md#as-a-borrower-do-i-lose-money-if-im-redeemed-against).
+To learn more about how redemptions affect your loan, read about it [here](redemptions.md#as-a-borrower-do-i-lose-money-if-im-redeemed-against).
 
 We recommend borrowers always keep a higher collateral ratio than other loans to avoid getting redeemed.
 

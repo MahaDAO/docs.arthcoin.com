@@ -8,9 +8,9 @@ description: >-
 
 Fees are charged by the protocol on various actions performed by users on the protocol. The ARTH platform charges three kinds of fees:
 
-* Mint & Redemption Fees
-* Stability Fees
-* Liquidation Fees
+* Mint & Redemption Fees in the native collateral (BNB, ETH, MATIC)
+* Stability Fees in MAHA
+* Liquidation Fees in both the native collateral and in ARTH.
 
 ### Mint & Redeem Fees
 

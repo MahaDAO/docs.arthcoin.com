@@ -8,15 +8,14 @@
 
 ## Protocol
 
-* [Introducing Loans](protocol/introduction-arth-loans.md)
 * [Minting and Burning](protocol/minting-and-burning-arth.md)
 * [Borrowing ARTH](protocol/borrowing-arth.md)
-* [Redeeming ARTH](protocol/redeeming-arth.md)
-* [Protocol Fees](protocol/how-does-arth-mitigate-against-stability-risk.md)
+* [Redemptions](protocol/redemptions.md)
 * [Liquidations](protocol/liquidations.md)
 * [Stability Pools](protocol/stability-pool.md)
 * [Recovery Mode](protocol/recovery-mode.md)
 * [Flash Loans](protocol/0-flash-loans.md)
+* [Protocol Fees](protocol/how-does-arth-mitigate-against-stability-risk.md)
 * [FAQs](tutorials/faqs.md)
 
 ## Tutorials
