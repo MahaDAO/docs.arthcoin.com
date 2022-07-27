@@ -22,13 +22,13 @@ The way ARTH does this is by charging a one-time borrowing fee that adjusts algo
 
 ### **Minimal Collateralization Ratio**
 
-110% — that’s it! And In some cases when the collateral used is stablecoins, the ratio is even lower, all the way down to 105%.
+110% — that’s it!
 
-Although we advise users to put a CR of not below 150%, the system allows for collateralization up to 110%. That means you can only be liquidated once your CR reaches below 110%.
+Although we advise users to put a CR of above 200%, the system allows for users to borrow with a collateral ratio of up to 110%. That means you can only be liquidated if your CR reaches below 110%.
 
-### **Staking Rewards**
+### **Earn Passive Yield (Staking)**
 
-You can find a list of all staking/farming programs on [https://arth.mahadao.com/#/farming](https://arth.mahadao.com/#/farming)
+As the stablecoin begins to grow you will find many new opportunities to earn a passive yield from the protocol. You can find a list of all farming programs on [https://arth.mahadao.com/#/farming](https://arth.mahadao.com/#/farming)
 
 ### No depreciation or loss of purchasing power
 
