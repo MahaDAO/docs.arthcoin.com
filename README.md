@@ -6,19 +6,19 @@ description: >-
 
 # Overview
 
-ARTH is a stablecoin that is designed to overtime appreciate against the US dollar whilst at the same time remain relatively stable.
+ARTH is a stablecoin that is designed to appreciate overtime against the US dollar while at the same time remain relatively stable.
 
-ARTH is issued using decentralized smart contracts that use cryptocurrency as collateral to maintain its peg. The fees charged to mint ARTH using cryptocurrency collateral at 0% interest rates which makes it very cost effective for borrowing/lending.
+ARTH is minted/burnt using decentralized smart contracts that use ETH as collateral to maintain its peg. The interest rate charged to mint ARTH using ETH is 0%, which makes it very cost effective for borrowing/lending.
 
-ARTH only is fully backed with mechanisms that give ARTH a backing of at least 110% in highly liquid cryptocurrency collateral.
+ARTH is fully collateralized with mechanisms that give it a backing of at least 110% in ETH.
 
 ### 0% Interest Fees on Borrowing
 
-You take out loans and that’s it. No interests accrued, at all.&#x20;
+You take out a loan with ETH and that’s it. No interests accrued, at all.&#x20;
 
-Unlike lending protocols like Compound or MakerDAO, the way ARTH does this is by charging a one-time borrowing fee that adjusts algorithmically whenever a loan is opened.
+Unlike other lending protocols like Compound or MakerDAO, there are no interest fees that the borrower has to pay when borrowing ARTH with ETH.&#x20;
 
-ARTH becomes the cheapest stablecoin to borrow against.
+The way ARTH does this is by charging a one-time borrowing fee that adjusts algorithmically whenever a loan is opened. This makes ARTH the cheapest stablecoin to borrow against with ETH.
 
 ### **Minimal Collateralization Ratio**
 
