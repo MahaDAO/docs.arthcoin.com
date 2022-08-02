@@ -10,6 +10,10 @@ To avoid the protocol going into extreme stress, the stability pool acts as a so
 
 When a loan position is liquidated, an equivalent amount of ARTH corresponding to the remaining debt has to be burned from the Stability Pool’s balance to repay its debt. In exchange, the entire collateral (committed by the borrower) is transferred to the stability pool as rewards to stability providers.
 
+{% hint style="info" %}
+The stability is currently deployed at [0x2c360b513ae52947eeb37cfad57ac9b7c9373e1b](https://etherscan.io/address/0x2c360b513ae52947eeb37cfad57ac9b7c9373e1b)
+{% endhint %}
+
 ### Who funds the stability pool?
 
 The Stability Pool is funded by users transferring their ARTH into the pool. These are also known as pooled users or stability providers.
