@@ -9,7 +9,7 @@
 ## Protocol
 
 * [Minting and Burning](protocol/minting-and-burning-arth.md)
-* [Borrowing ARTH](protocol/borrowing-arth.md)
+* [Collateral Ratios](protocol/borrowing-arth.md)
 * [Redemptions](protocol/redemptions.md)
 * [Liquidations](protocol/liquidations.md)
 * [Stability Pools](protocol/stability-pool.md)

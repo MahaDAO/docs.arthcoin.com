@@ -6,11 +6,15 @@ description: This reviews the mechanics and scenarios that involve minting and b
 
 ### When is ARTH minted?
 
-ARTH is minted when a collateral is deposited into any of the collateral pools which ensures that every ARTH minted will always have some kind of backing to ensure its stability. ARTH is never minted without some kind of collateral being deposited into the protocol.&#x20;
+`ARTH` is minted whenever `ETH` is deposited into any of the  pools which ensures that every `ARTH` minted will always have some kind of backing to ensure its stability. `ARTH` is never minted without some amount of `ETH` being deposited into the protocol.&#x20;
 
-Arbitrageurs looking to profit from the peg activity of ARTH can mint ARTH using cryptocurrency collateral whenever ARTH is trading above its target price. The extra ARTH that is minted is sold in the open market. A bet is being made by arbitrageurs that ARTH will fall back to its peg and will look to sell the newly minted ARTH whenever it's above its peg to realize a profit. This done by opening a loan and minting ARTH.
+Arbitrageurs looking to profit from the peg activity of `ARTH` can mint `ARTH` using cryptocurrency collateral whenever `ARTH` is trading above its target price. The extra `ARTH` that is minted is sold in the open market. A bet is being made by arbitrageurs that `ARTH` will fall back to its peg and will look to sell the newly minted `ARTH` whenever it's above its peg to realize a profit. This done by opening a loan and minting `ARTH`.
 
-**Example**: this [transaction](https://bscscan.com/tx/0x89f65e57b49b58bc38ace144710f0a043a3289d5d294396db81e25ab392179fc) shows ARTH being minted as a user deposits collateral.
+**Example**: this [transaction](https://etherscan.io/tx/0xcb7b4eab25c06ea759daa31700b1e1271adf7e06fa5176d6808924a1c8057faf) shows ARTH being minted as a user deposits collateral.
+
+{% hint style="info" %}
+A minimum debt of `250 ARTH` is required to open a loan position. A user also has to set aside `50 ARTH` for gas fees in case of liquidations.
+{% endhint %}
 
 ### When is ARTH burnt?
 
@@ -24,4 +28,4 @@ This happens by market participants in three different scenarios:
 * Whenever a loan is closed or liquidated: Whenever a loan is closed or liquidated, the ARTH that was minted against that loan is burnt off and the collateral against that loan is given back or distributed to the [stability pool depositors](stability-pool.md).
 * Whenever a loan is redeemed: Users who redeem ARTH for a cryptocurrency collateral will get burn their ARTH.
 
-**Example**: this [transaction](https://bscscan.com/tx/0x4f267cd3901155b91e35ad3b541784edf9f7bb286360919d017427ed6f809ac4) shows ARTH being burnt as it gets redeemed for its underlying collateral.
+**Example**: this [transaction](https://etherscan.io/tx/0x92ddd07b50e0f1778b48aea8da39fb91d8fea223dba61913c6e438b0840e3155) shows ARTH being burnt as it gets redeemed for its underlying collateral.
