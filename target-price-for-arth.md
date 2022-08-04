@@ -10,6 +10,10 @@ However, ARTH is price pegged to the algorithmic price-feed called as the global
 
 The goal of the algorithmic peg is to achieve stability whilst at the same time slowly appreciate in value.
 
+![A sample simulation of the GMU indicator](<.gitbook/assets/image (9).png>)
+
+In various simulation, it was found that the GMU remained relatively stable in moments when the market turned bearish but started to appreciate ever so slightly whenever the market turned bullish.
+
 ## How does the GMU work?
 
 The basic idea of the GMU is to capture the growth/appreciation of an underlying asset without causing too much volatility. In this case, the underlying asset is ETH.
@@ -59,6 +63,10 @@ The above code snippet represents logic on how the GMU is calculated. It uses th
 * **pricesLongTerm:** A price feed that is used to represent the long-term trend of the underlying asset. In the current deployment, we use the 30 day moving average of the ETH/USD price feed.
 * **startingPrice**: A starting price for the indicator. In the current deployment, this is set to 2$
 * **dampeningFactor**: A dampening factor that dampens the indicator. A high `dampeningFactor` will cause the GMU to capture more the underlying collateral's appreciation. Vice-versa, a low `dampeningFactor` will cause the GMU to capture less of the underlying collateral's appreciation. In the current deployment, the dampeningFactor is set at `10%`.
+
+{% embed url="https://github.com/MahaDAO/gmu-oracle-contracts/blob/master/simulation/eth-24mo.ipynb" %}
+A python notebook simulating the GMU algorithm
+{% endembed %}
 
 ## FAQs
 
