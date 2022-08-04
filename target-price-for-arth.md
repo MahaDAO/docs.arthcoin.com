@@ -14,6 +14,10 @@ The goal of the algorithmic peg is to achieve stability whilst at the same time 
 
 In various simulation, it was found that the GMU remained relatively stable in moments when the market turned bearish but started to appreciate ever so slightly whenever the market turned bullish.
 
+{% hint style="info" %}
+The GMU Oracle is currently deployed at[ 0x7ee5010cbd5e499b7d66a7cba2ec3bde5fca8e00](https://etherscan.io/address/0x7ee5010cbd5e499b7d66a7cba2ec3bde5fca8e00)
+{% endhint %}
+
 ## How does the GMU work?
 
 The basic idea of the GMU is to capture the growth/appreciation of an underlying asset without causing too much volatility. In this case, the underlying asset is ETH.
