@@ -16,6 +16,7 @@
 * [Recovery Mode](protocol/recovery-mode.md)
 * [Flash Loans](protocol/0-flash-loans.md)
 * [Protocol Fees](protocol/how-does-arth-mitigate-against-stability-risk.md)
+* [Deployed Addresses](protocol/deployed-addresses.md)
 * [FAQs](tutorials/faqs.md)
 
 ## Tutorials

@@ -16,6 +16,8 @@ Post a liquidation. the loan position's debt is fulfilled by the stability pool 
 
 In special cases when the protocol goes under the [Recovery mode](recovery-mode.md), liquidation happens to all loans below the `150%` collateral ratio.
 
+This [transaction](https://etherscan.io/tx/0xca4263fe02d5725dbb345991b7f66885bc0dbb10d9fb01c82184e63addf00a3c) is an example of a liquidation that rewarded the liquidator with `50 ARTH` and sent the `ETH` rewards to `ARTH` stakers in the stability pool.
+
 ## **FAQs**
 
 ### Who can liquidate a loan position?&#x20;
