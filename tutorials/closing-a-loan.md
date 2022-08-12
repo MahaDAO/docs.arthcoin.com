@@ -8,9 +8,9 @@ description: This page goes through all the steps needed to close a loan.
 
 ![Click on clos loan.](../.gitbook/assets/5.jpg)
 
-**Step 2:** Here you will see two options, `Close Loan` and `Modify Loan`. Click on close loan.
+**Step 2:** Here you will see two options, `Close Loan` and `Modify Loan`. Click on C**lose Loan**.
 
-**Step 3:** You will be prompted to confirm the closure of the same. Review all the details and make sure you have enough ARTH balance needed to close the loan
+**Step 3:** You will be prompted to confirm the closure of the same. Review all the details and make sure you have enough `ARTH` balance needed to close the loan.
 
 ![Confirmation of the close loan](../.gitbook/assets/close.jpg)
 

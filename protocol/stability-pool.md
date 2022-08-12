@@ -6,13 +6,15 @@ description: >-
 
 # Stability Pools
 
-To avoid the protocol going into extreme stress, the stability pool acts as a source of liquidity to repay debt from liquidated loans to ensure that the total ARTH supply always remains backed by collateral.&#x20;
+To avoid the protocol going into extreme stress, the stability pool acts as a source of liquidity to repay debt from liquidated loans to ensure that the total `ARTH` supply always remains backed by collateral.&#x20;
 
-When a loan position is liquidated, an equivalent amount of ARTH corresponding to the remaining debt has to be burned from the Stability Pool’s balance to repay its debt. In exchange, the entire collateral (committed by the borrower) is transferred to the stability pool as rewards to stability providers.
+When a loan position is liquidated, an equivalent amount of `ARTH` corresponding to the remaining debt has to be burned from the Stability Pool’s balance to repay its debt. In exchange, the entire collateral (committed by the borrower) is transferred to the stability pool as rewards to stability providers.
 
 {% hint style="info" %}
 The stability pool is currently deployed at [0x2c360b513ae52947eeb37cfad57ac9b7c9373e1b](https://etherscan.io/address/0x2c360b513ae52947eeb37cfad57ac9b7c9373e1b)
 {% endhint %}
+
+## FAQs
 
 ### Who funds the stability pool?
 
@@ -20,13 +22,13 @@ The Stability Pool is funded by users who transfer their `ARTH` into the pool. T
 
 Here is an [example transaction](https://etherscan.io/tx/0xd99cbd02c5d38d092d107bafea3d7be2101c8c0f56dc4161ea6cc8b425c8ae13) of a user depositing `ARTH` into the stability pool.
 
-### Liquidation Rewards - Why deposit  into the stability pool?
+### Liquidation Rewards - Why deposit into the stability pool?
 
 Users that provide `ARTH` to the `stability pool`, do so to earn **liquidation rewards**.
 
-Over a certain period, the `stability pool` will lose some/part of their `ARTH` deposits, as the protocol uses the `stability pool` to repay bad debt from liquidated loans.&#x20;
+Over a certain period,  the `stability pool` will lose some/part of their `ARTH` deposits, as the protocol uses the`stability pool` to repay bad debt from liquidated loans.&#x20;
 
-Although, during the same instance, the pool gains share of the liquidated collateral (committed by the borrower at the time of procuring a loan).&#x20;
+Although, during the same instance, the pool gains a share of the liquidated collateral (committed by the borrower at the time of procuring a loan).&#x20;
 
 As loan positions are always created at 110%+ CR and liquidated just below it, they are rationally accepted that the participants in the stability pool will always remain in a net positive position. The amount they receive from liquidated collateral will always remain more than the amount that was deducted to pay the liquidated position.
 
@@ -35,11 +37,9 @@ As loan positions are always created at 110%+ CR and liquidated just below it, t
 The only time that stability pool providers can be in a net negative position is when the collateral is losing value at a significant pace. In such a case, stability pool providers can immediately withdraw the collateral received from liquidations and sell their position if they feel that the collateral's value is decreasing significantly against the USD. \
 
 
-## FAQs
-
 ### Why should I become a Stability Pool Provider?
 
-Stability Providers deposit ARTH into the stability pool, which acts as a supplement to the Loan platform. Depositing ARTH valuecoin to the [Stability Pool](stability-pool.md) earns you liquidation rewards.
+Stability Providers deposit `ARTH` into the stability pool, which acts as a supplement to the Loan platform. Depositing `ARTH` valuecoin to the [Stability Pool](stability-pool.md) earns you liquidation rewards.
 
 Whenever a loan position is liquidated, the collateral used to fund the loan (at 110%), is returned to the Stability Pool. \
 \
@@ -47,7 +47,7 @@ Stability Providers always remain in a safe and net positive position.&#x20;
 
 ### Can you give me a real-life example of how the Stability Providers benefit by funding the Stability Pool?
 
-Liquidations happen below 110% Collateralization Ratio.\
+Liquidations happen below a 110% Collateralization Ratio.\
 \
 Let's take a situation where:&#x20;
 

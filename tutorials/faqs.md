@@ -2,30 +2,30 @@
 
 ### How can I earn money with ARTH Loans?
 
-Although, the primary use case of ARTH Loans is not generating revenue, instead it is for users to take out seamless loans in a stable valuecoin, that is resistant to inflation. DeFi users, however, can generate revenue via:
+Although the primary use case of `ARTH` Loans is not generating revenue, instead, it is for users to take out seamless loans in a stable valuecoin, that is resistant to inflation. DeFi users, however, can generate revenue via:
 
 * Liquidating low CR% loans
-* Depositing ARTH valuecoin to the [Stability Pool](../protocol/stability-pool.md) to earn liquidation rewards. Stability Pools always gives a net positive reward overtime.
-* Participate in various staking/LP pools with partner projects and earn rewards in MAHA and partner tokens.
+* Depositing `ARTH` valuecoin to the [Stability Pool](../protocol/stability-pool.md) to earn liquidation rewards. Stability Pools always give net positive rewards over time
+* Participate in various staking/LP pools with partner projects and earn rewards in `MAHA` and partner tokens
 
 ### Pre-requisites for taking out a loan?
 
 * Metamask or any web3 compatible wallet installed.
-* Collaterals in the form of the native blockchain token (ETH, BNB, MATIC etc..)
+* Collaterals in the form of the native blockchain token (`ETH`, `BNB`, `MATIC`, etc.).
 
 ### Pre-requisites for becoming a Stability Provider?
 
-To become a Stability Provider, you need ARTH.
+To become a Stability Provider, you need `ARTH`.
 
-ARTH can be borrowed by putting in collateral in the form of opening a loan position. Alternatively, you can also buy ARTH from the open market directly from a DEX.
+`ARTH` can be borrowed by putting in collateral in the form of opening a loan position. Alternatively, you can also buy `ARTH` from the open market directly from a DEX.
 
 ### What is the gas fee compensation?
 
-To make liquidations profitable, the borrower needs to keep away a gas fee compensation at the time of borrowing ARTH. The current gas fee compensation is 5 ARTH (or roughly $10) on PoS chains and roughly 50 ARTH on the ETH chain
+To make liquidations profitable, the borrower needs to keep away a gas fee compensation at the time of borrowing `ARTH`. The current gas fee compensation is 5 `ARTH` (or roughly $10) on PoS chains and roughly 50 `ARTH` on the `ETH` chain
 
 ### What is the minimum requirement to create a loan position?
 
-A borrower can only take out a loan, by creating a debt position of not less than 50 ARTH on PoS chains and 250 ARTH on the ETH chain.
+A borrower can only take out a loan, by creating a debt position of not less than 50 `ARTH` on PoS chains and 250 `ARTH` on the `ETH` chain.
 
 ### Who can liquidate a loan position?&#x20;
 
@@ -52,7 +52,7 @@ As a borrower, simply increasing your collateral ratio to >150% will protect you
 
 ### Can I be liquidated if my collateral ratio is below 150% in Recovery Mode?&#x20;
 
-Yes. You will be in line for liquidations if the loans who have collateral ratio below yours aren't enough to bring the protocol back out of recovery mode.
+Yes. You will be in line for liquidations if the loans who have a collateral ratio below yours aren't enough to bring the protocol back out of recovery mode.
 
 ## Any Further Questions?
 

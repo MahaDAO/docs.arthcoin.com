@@ -6,15 +6,15 @@ description: >-
 
 # Overview
 
-ARTH is a stablecoin that is designed to appreciate overtime against the US dollar while at the same time remain relatively stable.
+ARTH is a stablecoin that is designed to appreciate over time against the US dollar while at the same time, it remains relatively stable.
 
-ARTH is minted/burnt using decentralized smart contracts that use ETH as collateral to maintain its peg. The interest rate charged to mint ARTH using ETH is 0%, which makes it very cost effective for borrowing/lending.
+ARTH is minted/burnt using decentralized smart contracts that use ETH as collateral to maintain its peg. The interest rate charged to mint ARTH using ETH is 0%, which makes it very cost-effective for borrowing/lending.
 
 ARTH is fully collateralized with mechanisms that give it a backing of at least 110% in ETH.
 
 ### 0% Interest Fees on Borrowing
 
-You take out a loan with ETH and that’s it. No interests accrued, at all.&#x20;
+You take out a loan with ETH, and that’s it. No interests accrued at all.&#x20;
 
 Unlike other lending protocols like Compound or MakerDAO, there are no interest fees that the borrower has to pay when borrowing ARTH with ETH.&#x20;
 
@@ -24,15 +24,15 @@ The way ARTH does this is by charging a one-time borrowing fee that adjusts algo
 
 110% — that’s it!
 
-Although we advise users to put a CR of above 200%, the system allows for users to borrow with a collateral ratio of up to 110%. That means you can only be liquidated if your CR reaches below 110%.
+Although we advise users to put a CR above 200%, the system allows users to borrow with a collateral ratio of up to 110%. That means you can only be liquidated if your CR reaches below 110%.
 
 ### **Earn Passive Yield (Staking)**
 
-As the stablecoin begins to grow you will find many new opportunities to earn a passive yield from the protocol. You can find a list of all farming programs on [https://arth.mahadao.com/#/farming](https://arth.mahadao.com/#/farming)
+As the stablecoin begins to grow, you will find many new opportunities to earn a passive yield from the protocol. You can find a list of all farming programs on [https://arth.mahadao.com/#/farming](https://arth.mahadao.com/#/farming)
 
-### No depreciation or loss of purchasing power
+### No Depreciation or Loss of Purchasing Power
 
-One of the biggest differentiators of ARTH amongst other stable coins is that it is designed to appreciate against the US dollar.&#x20;
+One of the biggest differentiators of ARTH amongst other stablecoins is that it is designed to appreciate against the US dollar.&#x20;
 
 This means users who hold ARTH for longer periods of time should see an increase in their purchasing power when compared to other currencies.
 

@@ -2,7 +2,7 @@
 
 * [Overview](README.md)
 * [The Money Illusion](the-money-illusion.md)
-* [What is ARTH pegged to?](target-price-for-arth.md)
+* [What is ARTH Pegged to?](target-price-for-arth.md)
 * [Risks & Security](protocol/risks-and-security.md)
 * [MAHA and Governance](what-is-maha.md)
 
@@ -24,7 +24,7 @@
 * [Opening a Loan](tutorials/opening-a-loan.md)
 * [Closing a Loan](tutorials/closing-a-loan.md)
 * [Modifying a Loan](tutorials/modifying-a-loan.md)
-* [How to farm?](introduction-to-farming/how-to-farm.md)
+* [How to Farm?](introduction-to-farming/how-to-farm.md)
 
 ## External Links
 

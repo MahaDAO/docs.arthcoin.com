@@ -4,9 +4,9 @@ description: This section explains how redeeming ARTH would work
 
 # Redemptions
 
-When ARTH is redeemed, the collateral provided to the redeemer is allocated from loans with the lowest collateral ratio even if it is above the minimum collateral ratio `110%`.&#x20;
+When `ARTH` is redeemed, the collateral provided to the redeemer is allocated from loans with the lowest collateral ratio, even if it is above the minimum collateral ratio `110%`.&#x20;
 
-During a redemption, the borrower who has a loan with the lowest ratio will have to give up some of their collateral to the redeemer, but in return, their ARTH debt will be reduced accordingly. .&#x20;
+During a redemption, the borrower who has a loan with the lowest ratio will have to give up some of their collateral to the redeemer, but in return, their ARTH debt will be reduced accordingly.&#x20;
 
 {% hint style="info" %}
 During a redemption, the value by which your collateral is reduced corresponds to the nominal ARTH amount by which your loan's debt is decreased.&#x20;
@@ -16,8 +16,8 @@ Redemptions can be thought of as somebody else repaying your debt and retrieving
 
 There are two kinds of redemptions:
 
-* Partial Redemptions where your debt is partially reduced (not to 0).
-* Full Redemptions where your debt is fully reduced to 0.
+* **Partial Redemptions** where your debt is partially reduced (not to 0).
+* **Full Redemptions** where your debt is fully reduced to 0.
 
 ### Partial Redemptions
 
@@ -35,7 +35,7 @@ In return, `60 ETH,` worth `1,200 $GMU`, is transferred from your loan to the re
 
 **Example of a full redemption**
 
-Somebody redeems `6,000 ARTH` for `300 ETH`. Given that the redeemed amount is larger than your debt minus  `5 ARTH` (set aside as a Liquidation Reserve), your debt of `3,200 ARTH` is entirely cleared and your collateral gets reduced by `3,195 $GMU` of ETH, leaving you with a collateral of `40 ETH (= 200 - 3,200 / 20)`.
+Somebody redeems `6,000 ARTH` for `300 ETH`. Given that the redeemed amount is larger than your debt minus  `5 ARTH` (set aside as a Liquidation Reserve), your debt of `3,200 ARTH` is entirely cleared and your collateral gets reduced by `3,195 $GMU` of ETH, leaving you with collateral of `40 ETH (= 200 - 3,200 / 20)`.
 
 In both cases, the net value of your position minus the debt remains the same, however during a redemption your exposure to the underlying asset decreases.&#x20;
 
@@ -45,7 +45,7 @@ Under normal operation, the redemption fee is given by the formula `(baseRate + 
 
 ### How is the `baseRate` calculated?
 
-Redemption fees are based on the `baseRate` state variable, which is dynamically updated. The `baseRate` increases with each redemption, and decays according to time passed since the last fee event - i.e. the last redemption or issuance of ARTH.
+Redemption fees are based on the `baseRate` state variable, which is dynamically updated. The `baseRate` increases with each redemption, and decays according to the time passed since the last fee event - i.e. the last redemption or issuance of ARTH.
 
 Upon each redemption:
 
@@ -55,7 +55,7 @@ Upon each redemption:
 
 ## Stability Fees
 
-For every redemption, the ARTH holder will have to pay a fee which is a percentage of the value being liquidated in MAHA tokens.
+For every redemption, the `ARTH` holder will have to pay a fee which is a percentage of the value being liquidated in `MAHA` tokens.
 
 This acts as a method to dampen the redemption of bonds which can often create a negative price impact if done all too quickly. The stability fee is not meant to de-incentivize ARTH holders from redeeming their bonds but rather used to control the speed at which they do so.
 

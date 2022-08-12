@@ -11,7 +11,7 @@ New loans can only be taken out if the borrower sets a CR% of >=150%.
 During Recovery Mode, loans with a collateral ratio **below 150%** can be liquidated.&#x20;
 {% endhint %}
 
-'Recovery Mode' is initiated to make sure new borrowers take out loans that do not further reduce the TCR, and help raise the TCR back above 150%. Furthermore, it's also an incentive for ARTH holders to participate in the Stability Pool and provide more ARTH to the pool.\
+'Recovery Mode' is initiated to make sure new borrowers take out loans that do not further reduce the TCR and help raise the TCR back above 150%. Furthermore, it's also an incentive for `ARTH` holders to participate in the Stability Pool and provide more ARTH to the pool.\
 \
 As a system design, Recovery Mode is best avoided. Thus, the possibility of going into recovery mode should be a crucial point for ecosystem participants to make amends to their position, to ensure that they do not go into Recovery Mode.
 
@@ -29,9 +29,9 @@ Yes. While the redemption fee remains the same, the borrowing fee is set to 0% t
 
 As a borrower, simply increasing your collateral ratio to >150% will protect you from any liquidations. Thus, you will have to either&#x20;
 
-* Add more collateral or&#x20;
+* Add more collateral
 * Repay some debt&#x20;
 
 ### Can I be liquidated if my collateral ratio is below 150% in Recovery Mode?&#x20;
 
-Yes. During recovery mode your position can be liquidated if it falls below 150% CR. Otherwise, during normal circumstances, the CR will remain at 110%. It is advised to both monitor and adjust as needed to avoid liquidation risk.
+Yes. During recovery mode, your position can be liquidated if it falls below 150% CR. Otherwise, during normal circumstances, the CR will remain at 110%. It is advised to both monitor and adjusts as needed to avoid liquidation risk.
