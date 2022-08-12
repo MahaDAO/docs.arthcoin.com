@@ -6,7 +6,7 @@ description: This section talks about the ARTH peg
 
 Because stablecoins are almost always pegged to a target price, it is ideal for them to revolve around that price. Most stablecoins are pegged to 1 USD  or another fiat currency (like Japanese Yen, Chinese Yuan, etc.).&#x20;
 
-However, ARTH is price pegged to the algorithmic price-feed called the global measurement unit (or the GMU). For simplicity purposes, ARTH's initial price was set at **2 USD worth of GMU,** signifying the rise in inflation among other things.
+However, `ARTH` is price pegged to the algorithmic price-feed called the global measurement unit (or the GMU). For simplicity purposes, `ARTH`'s initial price was set at **2 USD worth of GMU,** signifying the rise in inflation among other things.
 
 The goal of the algorithmic peg is to achieve stability whilst at the same time slowly appreciating in value.
 
@@ -20,7 +20,7 @@ The GMU Oracle is currently deployed at[ 0x7ee5010cbd5e499b7d66a7cba2ec3bde5fca8
 
 ## How Does the GMU Work?
 
-The basic idea of the GMU is to capture the growth/appreciation of an underlying asset without causing too much volatility. In this case, the underlying asset is ETH.
+The basic idea of the GMU is to capture the growth/appreciation of an underlying asset without causing too much volatility. In this case, the underlying asset is `ETH`.
 
 To do this it uses two moving averages. A 7-day moving average to understand the short-term price trend of the underlying asset (which is mainly used to understand when to stop the appreciation). And a 30-day moving average is used to understand the long-term price trend of an underlying asset (which is mainly used to understand how much to appreciate the price).
 
@@ -32,7 +32,7 @@ If both the 30-day and 7-day moving averages are in an upwards trend, then the i
 def arth_indicator(pricesLongTerm, pricesShortTerm, startingPrice,  
   longTermDuration = 30, dampeningFactor = 0.1):
   '''
-  An indicator to algorithimatically calculate ARTH's price
+  An indicator to algorithmically calculate ARTH's price
   '''
   trend = [startingPrice] * longTermDuration
 
@@ -76,20 +76,20 @@ A python notebook simulating the GMU algorithm
 
 ### Who pays for the appreciation of ARTH?
 
-The appreciation of ARTH is paid for by those who deposit collateral into the protocol. Which means whenever ARTH appreciates against the US dollar, collateral providers who have opened loans and deposited collateral need to ensure that they are able to pay back their loan with the principal plus the appreciation (which behaves a bit like an interest fee).
+The appreciation of `ARTH` is paid for by those who deposit collateral into the protocol. This means whenever `ARTH` appreciates against the US dollar, collateral providers who have opened loans and deposited collateral need to ensure that they are able to pay back their loan with the principal plus the appreciation (which behaves a bit like an interest fee).
 
 ### Is the appreciation of ARTH  similar to an interest fee or tax to borrowers?
 
 Yes.&#x20;
 
-While loans and lending protocol for ARTH is set to have 0% borrowing fees, the appreciation of ARTH behaves like an **indirect** interest fee or tax.
+While loans and lending protocol for `ARTH` is set to have 0% borrowing fees, the appreciation of `ARTH` behaves like an **indirect** interest fee or tax.
 
-But since ARTH only appreciates if the underlying collateral appreciates, borrowers (in most cases) don't have to do anything if they are already exposed to the underlying collateral. Because ARTH appreciates at a fraction of how much the underlying collateral appreciates, the borrower still realizes a net gain even after paying for ARTH's appreciation.
+But since `ARTH` only appreciates if the underlying collateral appreciates, borrowers (in most cases) don't have to do anything if they are already exposed to the underlying collateral. Because `ARTH` appreciates at a fraction of how much the underlying collateral appreciates, the borrower still realizes a net gain even after paying for `ARTH`'s appreciation.
 
 ### Can the peg be influenced?
 
 The peg can be influenced by only two major factors&#x20;
 
-**Incentives via Governance**: Governance can decide to incentivize users who deposit a certain type of collateral thereby influencing the collateral compositions of ARTH.
+**Incentives via Governance**: Governance can decide to incentivize users who deposit a certain type of collateral thereby influencing the collateral compositions of `ARTH`.
 
-**Appreciation of the underlying collateral**: ARTH's price is influenced by its underlying collateral (ETH)
+**Appreciation of the underlying collateral**: `ARTH`'s price is influenced by its underlying collateral (`ETH`)

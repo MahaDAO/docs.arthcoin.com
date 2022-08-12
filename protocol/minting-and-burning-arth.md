@@ -18,7 +18,7 @@ A minimum debt of `250 ARTH` is required to open a loan position. A user also ha
 
 ### When is ARTH Burnt?
 
-ARTH is burnt whenever the underlying collateral is redeemed or during the closure of a loan by a user.&#x20;
+`ARTH` is burnt whenever the underlying collateral is redeemed or during the closure of a loan by a user.&#x20;
 
 This happens by market participants in three different scenarios:
 

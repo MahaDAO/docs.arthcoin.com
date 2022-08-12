@@ -11,7 +11,7 @@ description: >-
 
 The MahaDAO offers a bug bounty program for responsible bug disclosures.
 
-We are limiting the scope of the program to critical and high-severity bugs in the core contracts and are offering a reward of up to 10,000 MAHA. Happy hunting!
+We are limiting the scope of the program to critical and high-severity bugs in the core contracts and are offering a reward of up to 10,000 `MAHA`. Happy hunting!
 
 ### Audits
 
@@ -43,20 +43,20 @@ We recommend borrowers always keep a higher collateral ratio than other loans to
 
 The protocol uses price oracles that inform the protocol on the collateral ratio of various loans. An attack on oracles can cause the attacker to manipulate the price feed and hence cause unwanted liquidations.
 
-To mitigate oracle risks, the ARTH protocol uses chainlink and umbrella finance oracles for the various collaterals.
+To mitigate oracle risks, the `ARTH` protocol uses chainlink and umbrella finance oracles for the various collaterals.
 
 ### Collateral Risk
 
-In the case of a black swan event where one of the collateral loses its underlying value, all loans backing the underlying collateral will suddenly get liquidated, causing all borrowers who have borrowed ARTH using the affected collateral to get liquidated.
+In the case of a black swan event where one of the collateral loses its underlying value, all loans backing the underlying collateral will suddenly get liquidated, causing all borrowers who have borrowed `ARTH` using the affected collateral to get liquidated.
 
-This type of event could also cause temporary harm to the ARTH's peg.
+This type of event could also cause temporary harm to the `ARTH`'s peg.
 
-To mitigate collateral risk, ARTH's collateral exposure is diversified so that there is no heavy risk from a single type of collateral.
+To mitigate collateral risk, `ARTH`'s collateral exposure is diversified so that there is no heavy risk from a single type of collateral.
 
 Furthermore, rigorous checks and balances are put in place before new collateral is onboarded.
 
 ### Bridge Attacks
 
-In the case of ARTH's deployment on various sidechains, most assets are bridged tokens that were originally issued on the Ethereum chain. In the case of a hack on any of these bridges, the backing of the bridged token is lost, reducing its underlying value and can cause liquidations.
+In the case of `ARTH`'s deployment on various sidechains, most assets are bridged tokens that were originally issued on the Ethereum chain. In the case of a hack on any of these bridges, the backing of the bridged token is lost, reducing its underlying value and can cause liquidations.
 
 eg: [https://arstechnica.com/information-technology/2022/02/how-323-million-in-crypto-was-stolen-from-a-blockchain-bridge-called-wormhole/](https://arstechnica.com/information-technology/2022/02/how-323-million-in-crypto-was-stolen-from-a-blockchain-bridge-called-wormhole/)
