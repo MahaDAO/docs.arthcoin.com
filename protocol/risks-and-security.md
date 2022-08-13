@@ -57,6 +57,8 @@ Furthermore, rigorous checks and balances are put in place before new collateral
 
 ### Bridge Attacks
 
-In the case of `ARTH`'s deployment on various sidechains, most assets are bridged tokens that were originally issued on the Ethereum chain. In the case of a hack on any of these bridges, the backing of the bridged token is lost, reducing its underlying value and can cause liquidations.
+`ARTH` is only minted/burnt on the Ethereum blockchain. Deployment on various other sidechains (or layer 2 chains) exist as simply bridged tokens that were originally issued on the Ethereum chain.&#x20;
+
+In the case of a hack on any of the bridges supporting these bridged tokens, the backing of these bridged token is lost, reducing its underlying value and can a loss to holders on the bridged chain.
 
 eg: [https://arstechnica.com/information-technology/2022/02/how-323-million-in-crypto-was-stolen-from-a-blockchain-bridge-called-wormhole/](https://arstechnica.com/information-technology/2022/02/how-323-million-in-crypto-was-stolen-from-a-blockchain-bridge-called-wormhole/)
