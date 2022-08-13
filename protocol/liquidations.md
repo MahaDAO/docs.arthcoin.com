@@ -6,21 +6,25 @@ Anybody can liquidate a loan as soon as it drops below the Minimum Collateral Ra
 
 Post a liquidation, a loan position's debt is fulfilled by the stability pool and its collateral is distributed among [stability pool providers](stability-pool.md). The borrower still keeps the loan amount he received in `ARTH` but the user loses approximately `10%` in overall value for each liquidation + fees while repaying the borrowed loan.
 
+{% hint style="info" %}
+Liquidations are performed by the [TroveManager](https://github.com/MahaDAO/arth-core/blob/main/packages/contracts/contracts/TroveManager.sol) contract which is deployed at [0xF4eD5d0C3C977B57382fabBEa441A63FAaF843d3#code](https://etherscan.io/address/0xF4eD5d0C3C977B57382fabBEa441A63FAaF843d3#code)
+{% endhint %}
+
 {% hint style="warning" %}
 In special cases when the total collateral ratio drops below `150%` and the protocol goes under the [Recovery mode](recovery-mode.md), liquidation happens to all loans below the `150%` collateral ratio until the total collateral ratio comes back to `150%`
 {% endhint %}
 
 ### **For example**&#x20;
 
-* A borrower took out a loan of $10,000 by committing collateral in `ETH` with a CR% of 120%
+* A borrower took out a loan of `$10,000` by committing collateral in `ETH` with a CR of `120%`\`
 * The borrower committed 4 `ETH`, taking `ETH` at a price of $3,000`($10,000*120%/3000)`
-* For the loan position to be eligible for liquidation, the CR% needs to go below 110%&#x20;
-* If the price of `ETH` fell by 10% ($2700), his current CR% will fall to 108% ($2700\*4 ETH = $10,800 or 108% Collateralization Ratio)
+* For the loan position to be eligible for liquidation, the CR% needs to go below `110%`
+* If the price of `ETH` fell by `10%` (`$2700`), his current CR% will fall to `108%` (`$2700*4 ETH` = `$10,800` or `108%` Collateralization Ratio)
 * This loan position can then be liquidated by anybody
 
 This [transaction](https://etherscan.io/tx/0xca4263fe02d5725dbb345991b7f66885bc0dbb10d9fb01c82184e63addf00a3c) is an example of a liquidation that rewarded the liquidator with `50 ARTH` and sent the `ETH` rewards to `ARTH` stakers in the stability pool.
 
-![https://etherscan.io/tx/0xca4263fe02d5725dbb345991b7f66885bc0dbb10d9fb01c82184e63addf00a3c](../.gitbook/assets/image.png)
+![https://etherscan.io/tx/0xca4263fe02d5725dbb345991b7f66885bc0dbb10d9fb01c82184e63addf00a3c](<../.gitbook/assets/image (1).png>)
 
 ## **FAQs**
 
@@ -30,8 +34,8 @@ Almost anybody can liquidate a loan position. The requirement to liquidate a loa
 
 `Current Collateralization Ratio < Minimum Collateralization Ratio`&#x20;
 
-* Minimum Collateralization Ratio in **Normal mode**: 110%&#x20;
-* Minimum Collateralization Ratio in **Recovery mode**: 150%&#x20;
+* Minimum Collateralization Ratio in **Normal mode**: `110%`
+* Minimum Collateralization Ratio in **Recovery mode**: `150%`
 
 ### What do I get if I liquidate a loan position?
 

@@ -19,6 +19,10 @@ There are two kinds of redemptions:
 * **Partial Redemptions** where your debt is partially reduced (not to 0).
 * **Full Redemptions** where your debt is fully reduced to 0.
 
+{% hint style="info" %}
+Redemptions are performed by the [TroveManager](https://github.com/MahaDAO/arth-core/blob/main/packages/contracts/contracts/TroveManager.sol) contract which is deployed at [0xF4eD5d0C3C977B57382fabBEa441A63FAaF843d3#code](https://etherscan.io/address/0xF4eD5d0C3C977B57382fabBEa441A63FAaF843d3#code)
+{% endhint %}
+
 ### Partial Redemptions
 
 In such a case, your loan is closed, and you can claim your collateral surplus and the Liquidation Reserve at any time.&#x20;
