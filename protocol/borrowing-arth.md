@@ -10,13 +10,11 @@ Users can lock up their `ETH` & borrow `ARTH` against the collateral. Redeeming 
 
 For borrowing, a user has to open a loan position & deposit a certain amount of collateral for it. A user can then draw `ARTH` depending upon the collateral ratio they have set. Users can set a collateral ratio of anything up to `110%` and above.
 
-There are three kinds of collateral ratios to consider.
+There are four kinds of collateral ratios to consider.
 
-### 1. Nominal Collateralization Ratio (NCR)
+### Nominal Collateralization Ratio (NCR)
 
-Let's understand the collateralization ratio in further detail.
-
-The CR or collateralization ratio is the ratio that determines how much ARTH a borrower will receive for the assets they are willing to collateralize.\
+The NCR or nominal collateralization ratio is the ratio that determines how much ARTH a borrower will receive for the assets they are willing to collateralize.\
 \
 The CR is set by the user. The minimum CR required is 110%.
 
@@ -26,7 +24,7 @@ The CR is set by the user. The minimum CR required is 110%.
 
 A higher CR% means a user's position is less prone to [liquidation](liquidations.md). But, it also means that they will receive less `ARTH` for the collateralized position. Whereas a lower CR% means the user's position is more prone to liquidation, and they will receive more `ARTH` for their collateralized position.
 
-### 2. Minimum Collateralization Ratio (MCR)
+### Minimum Collateralization Ratio (MCR)
 
 The `Minimum Collateralization Ratio (or MCR)` is the lowest ratio of collateral that will not trigger a liquidation. This is set at 110% under normal conditions.
 
@@ -35,3 +33,16 @@ Whereas in [**recovery mode**](recovery-mode.md)**,** this MCR is set to 150%. T
 {% hint style="info" %}
 As a borrower, you should make sure you open a loan with a high enough collateral ratio (we recommend 200%+) to avoid getting liquidated and suffering a loss of funds.
 {% endhint %}
+
+### Total Collateral Ratio (TCR)
+
+The `Total Collateral Ratio or TCR` is the ratio of the Dollar value of the entire system collateral at the current protocol price, to the entire system debt.&#x20;
+
+In other words, it's the sum of the collateral of all loans expressed in the [protocol price](../target-price-for-arth.md), divided by the debt of all loans expressed in `ARTH`.
+
+### Individual Collateral Ratio (ICR)
+
+this section is yet to be done
+
+
+

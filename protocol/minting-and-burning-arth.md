@@ -32,4 +32,4 @@ This happens by market participants in three different scenarios:
 
 **Example**: this [transaction](https://etherscan.io/tx/0x92ddd07b50e0f1778b48aea8da39fb91d8fea223dba61913c6e438b0840e3155) shows `ARTH` being burnt as it gets redeemed for its underlying collateral.&#x20;
 
-![https://etherscan.io/tx/0x92ddd07b50e0f1778b48aea8da39fb91d8fea223dba61913c6e438b0840e3155](<../.gitbook/assets/image (14).png>)
+![https://etherscan.io/tx/0x92ddd07b50e0f1778b48aea8da39fb91d8fea223dba61913c6e438b0840e3155](<../.gitbook/assets/image (3).png>)

@@ -6,11 +6,9 @@ description: >-
 
 # Flash Loans
 
-A flash loan allows a user to borrow `ARTH` without the need for collateral. Since these loans are governed by smart contracts which force a user to pay back the loan, the transaction will fail if the principal is not paid back.
+A flash loan allows a user to borrow `ARTH` without the need for collateral. Since these loans are controlled by smart contracts which force a user to pay back the loan, the transaction will fail if the `ARTH` minted is not paid back in the same transaction.
 
 Flash loans allow users to borrow large sums of funds without having to have any collateral in hand.
-
-Unlike protocols like Aave which charge a fee to borrowers when they take a flash loan, `ARTH`'s flash-loan mechanism charges 0% fees. This means a user can borrow and repay a near infinite supply of ARTH as long as they are able to pay back the loan within the same transaction.
 
 **Example**: This is the first flash loan taken in `ARTH`: [https://bscscan.com/tx/0x7e272e37f143174fbdb1053ea8ee8ed918b82deebacd05c1b7f5527c864c735a](https://bscscan.com/tx/0x7e272e37f143174fbdb1053ea8ee8ed918b82deebacd05c1b7f5527c864c735a)
 
@@ -30,7 +28,7 @@ All flash loan contracts are controlled by the Governance contract which is gove
 
 To learn more about governance visit the [Governance section.](0-flash-loans.md#governance)
 
-## How to Use ARTH Flash Loans?
+## How to use Flash Loans?
 
 Visit the [Github](https://github.com/MahaDAO/flashloans-arth) repository to view an example flash-loan. Use the following lender addresses below for the appropriate network.
 

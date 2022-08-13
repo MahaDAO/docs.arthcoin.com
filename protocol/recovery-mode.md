@@ -1,17 +1,19 @@
 # Recovery Mode
 
-Recovery Mode is triggered when the Total Collateral Ratio or TCR of the system drops below 150%.
+Recovery Mode is a special mode that is triggered when the Total Collateral Ratio or TCR of the system drops below `150%`.
 
-Minimum Collateralization Ratio in **Normal mode**: 110%\
-Minimum Collateralization Ratio in **Recovery mode**: 150%
+* Minimum Collateralization Ratio in **Normal mode**: `110%`
+* Minimum Collateralization Ratio in **Recovery mode**: `150%`
 
-New loans can only be taken out if the borrower sets a CR% of >=150%.
+New loans can only be taken out if the borrower sets a CR% of >=`150%`
 
 {% hint style="warning" %}
-During Recovery Mode, loans with a collateral ratio **below 150%** can be liquidated.&#x20;
+If the protocol goes into recovery mode, then loans with a collateral ratio **below `150%`** can be liquidated until the protocol comes back out of recovery mode. In general, borrowers are encouraged to always maintain a collateral ratio above `150%`. \
+\
+To understand more about this behavior, read [recovery mode liquidations](liquidations.md#recovery-mode-liquidations).
 {% endhint %}
 
-'Recovery Mode' is initiated to make sure new borrowers take out loans that do not further reduce the TCR and help raise the TCR back above 150%. Furthermore, it's also an incentive for `ARTH` holders to participate in the Stability Pool and provide more ARTH to the pool.\
+**Recovery Mode** is initiated to make sure new borrowers take out loans that do not further reduce the TCR and help raise the TCR back above `150%`. Furthermore, it's also an incentive for `ARTH` holders to participate in the Stability Pool and provide more ARTH to the pool.\
 \
 As a system design, Recovery Mode is best avoided. Thus, the possibility of going into recovery mode should be a crucial point for ecosystem participants to make amends to their position, to ensure that they do not go into Recovery Mode.
 
