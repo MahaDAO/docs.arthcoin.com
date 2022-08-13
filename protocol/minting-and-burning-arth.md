@@ -12,6 +12,8 @@ Arbitrageurs looking to profit from the peg activity of `ARTH` can mint `ARTH` u
 
 **Example**: this [transaction](https://etherscan.io/tx/0xcb7b4eab25c06ea759daa31700b1e1271adf7e06fa5176d6808924a1c8057faf) shows ARTH being minted as a user deposits collateral.
 
+![https://etherscan.io/tx/0xcb7b4eab25c06ea759daa31700b1e1271adf7e06fa5176d6808924a1c8057faf](<../.gitbook/assets/image (9).png>)
+
 {% hint style="info" %}
 A minimum debt of `250 ARTH` is required to open a loan position. A user also has to set aside `50 ARTH` for gas fees in case of liquidations.
 {% endhint %}
@@ -28,4 +30,6 @@ This happens by market participants in three different scenarios:
 * **Whenever a loan is closed or liquidated:** Whenever a loan is closed or liquidated, the ARTH that was minted against that loan is burnt off and the collateral against that loan is given back or distributed to the [stability pool depositors](stability-pool.md).
 * **Whenever a loan is redeemed:** Users who redeem `ARTH` for a cryptocurrency collateral will be able to burn their `ARTH`.
 
-**Example**: this [transaction](https://etherscan.io/tx/0x92ddd07b50e0f1778b48aea8da39fb91d8fea223dba61913c6e438b0840e3155) shows `ARTH` being burnt as it gets redeemed for its underlying collateral. Link: [https://etherscan.io/tx/0x92ddd07b50e0f1778b48aea8da39fb91d8fea223dba61913c6e438b0840e3155](https://etherscan.io/tx/0x92ddd07b50e0f1778b48aea8da39fb91d8fea223dba61913c6e438b0840e3155)
+**Example**: this [transaction](https://etherscan.io/tx/0x92ddd07b50e0f1778b48aea8da39fb91d8fea223dba61913c6e438b0840e3155) shows `ARTH` being burnt as it gets redeemed for its underlying collateral.&#x20;
+
+![https://etherscan.io/tx/0x92ddd07b50e0f1778b48aea8da39fb91d8fea223dba61913c6e438b0840e3155](<../.gitbook/assets/image (101).png>)
