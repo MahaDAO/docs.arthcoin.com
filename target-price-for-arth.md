@@ -10,7 +10,7 @@ However, `ARTH` is price pegged to the algorithmic price-feed called the global 
 
 The goal of the algorithmic peg is to achieve stability whilst at the same time slowly appreciating in value.
 
-![A sample simulation of the GMU indicator](<.gitbook/assets/image (9) (4).png>)
+![A sample simulation of the GMU indicator](<.gitbook/assets/image (9).png>)
 
 In various simulations, it was found that the GMU remained relatively stable in moments when the market turned bearish but started to appreciate ever so slightly whenever the market turned bullish.
 
