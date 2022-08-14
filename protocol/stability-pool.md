@@ -10,7 +10,7 @@ To avoid the protocol going into extreme stress, the stability pool acts as a so
 
 When a loan position is liquidated, an equivalent amount of `ARTH` corresponding to the remaining debt has to be burned from the Stability Pool’s balance to repay its debt. In exchange, the entire collateral (committed by the borrower) is transferred to the stability pool as rewards to stability providers.
 
-Any user may deposit LUSD tokens to the Stability Pool. This allows them to earn the collateral from the liquidated Trove. When a liquidation occurs, the liquidated debt is cancelled with the same amount of LUSD in the Pool (which is burned as a result), and the liquidated Ether is proportionally distributed to depositors.
+Any user may deposit ARTH tokens to the Stability Pool. This allows them to earn the collateral from the liquidated Trove. When a liquidation occurs, the liquidated debt is cancelled with the same amount of ARTH in the Pool (which is burned as a result), and the liquidated Ether is proportionally distributed to depositors.
 
 Stability Pool depositors can expect to earn net gains from liquidations, as in most cases, the value of the liquidated Ether will be greater than the value of the cancelled debt (since a liquidated Trove will likely have an ICR just slightly below 110%).
 
@@ -34,9 +34,10 @@ Here’s an example of the Stability Pool absorbing liquidations. The Stability 
 
 There are two loans to be liquidated, T1 and T2:
 
-| T1 | 1.6  | 150 | 1.066666667 | 160 | 10 |
-| -- | ---- | --- | ----------- | --- | -- |
-| T2 | 2.45 | 225 | 1.088888889 | 245 | 20 |
+| Loans | Collateral (ETH) | Debt (ARTH) | ICR   | ETH Value | Collateral Surplus |
+| ----- | ---------------- | ----------- | ----- | --------- | ------------------ |
+| T1    | 1.6              | 150         | 1.066 | 160       | 10                 |
+| T2    | 2.45             | 225         | 1.088 | 245       | 20                 |
 
 Here are the deposits, before any liquidations occur:
 
@@ -45,25 +46,25 @@ Here are the deposits, before any liquidations occur:
 | A         | 100     | 0.1667 |
 | B         | 200     | 0.3333 |
 | C         | 300     | 0.5    |
-| Total     | 600     | 1      |
+| **Total** | **600** | **1**  |
 
-Now, the first liquidation T1 is absorbed by the Pool: 150 debt is cancelled with 150 Pool LUSD, and its 1.6 ETH is split between depositors. We see the gains earned by A, B, C, are in proportion to their share of the total LUSD in the Stability Pool:
+Now, the first liquidation T1 is absorbed by the Pool: 150 debt is cancelled with 150 Pool ARTH, and its 1.6 ETH is split between depositors. We see the gains earned by A, B, C, are in proportion to their share of the total ARTH in the Stability Pool:
 
-| Deposit | Debt absorbed from T1 | Deposit after | Total ETH gained | (deposit+ETHgain)() | Current ROI   |
-| ------- | --------------------- | ------------- | ---------------- | ------------------- | ------------- |
-| A       | 25                    | 75            | 0.2666666667     | 101.6666667         | 0.01666666667 |
-| B       | 50                    | 150           | 0.5333333333     | 203.3333333         | 0.01666666667 |
-| C       | 75                    | 225           | 0.8              | 305                 | 0.01666666667 |
-| Total   | 150                   | 450           | 1.6              | 610                 | 0.01666666667 |
+| Deposit   | Debt absorbed from T1 | Deposit after | Total ETH gained | Deposit + ETH gain | Current ROI |
+| --------- | --------------------- | ------------- | ---------------- | ------------------ | ----------- |
+| A         | 25                    | 75            | 0.2666           | 101.666            | 0.0166      |
+| B         | 50                    | 150           | 0.53333          | 203.333            | 0.0166      |
+| C         | 75                    | 225           | 0.8              | 305                | 0.0166      |
+| **Total** | **150**               | **450**       | **1.6**          | **610**            | **0.0166**  |
 
 And now the second liquidation, T2, occurs: 225 debt is cancelled with 225 Pool LUSD, and 2.45 ETH is split between depositors. The accumulated ETH gain includes all ETH gain from T1 and T2.
 
-| Depositor | Debt absorbed from T2 | Deposit after | Accumulated ETH | (deposit+ETHgain)() | Current ROI |
-| --------- | --------------------- | ------------- | --------------- | ------------------- | ----------- |
-| A         | 37.5                  | 37.5          | 0.675           | 105                 | 0.05        |
-| B         | 75                    | 75            | 1.35            | 210                 | 0.05        |
-| C         | 112.5                 | 112.5         | 2.025           | 315                 | 0.05        |
-| Total     | 225                   | 225           | 4.05            | 630                 | 0.05        |
+| Depositor | Debt absorbed from T2 | Deposit after | Accumulated ETH | Deposit + ETH gain | Current ROI |
+| --------- | --------------------- | ------------- | --------------- | ------------------ | ----------- |
+| A         | 37.5                  | 37.5          | 0.675           | 105                | 0.05        |
+| B         | 75                    | 75            | 1.35            | 210                | 0.05        |
+| C         | 112.5                 | 112.5         | 2.025           | 315                | 0.05        |
+| **Total** | **225**               | **225**       | **4.05**        | **630**            | **0.05**    |
 
 It’s clear that:
 
