@@ -1,11 +1,10 @@
 # Recovery Mode
 
-Recovery Mode is a special mode that is triggered when the Total Collateral Ratio or TCR of the system drops below `150%`.
+Recovery Mode is a special mode that is triggered when the [Total Collateral Ratio (TCR)](borrowing-arth.md#total-collateral-ratio-tcr) of the protocol drops below `150%`.
 
-* Minimum Collateralization Ratio in **Normal mode**: `110%`
-* Minimum Collateralization Ratio in **Recovery mode**: `150%`
+During Recovery Mode, liquidation conditions are relaxed, and the system blocks borrower transactions that would further decrease the TCR. New ARTH may only be issued by adjusting existing loans in a way that improves their [ICR](borrowing-arth.md#individual-collateral-ratio-icr), or by opening a new loan with an ICR of >=150%.&#x20;
 
-New loans can only be taken out if the borrower sets a CR% of >=`150%`
+In general, if an existing loan's adjustment reduces its ICR, the transaction is only executed if the resulting TCR is above 150%
 
 {% hint style="warning" %}
 If the protocol goes into recovery mode, then loans with a collateral ratio **below `150%`** can be liquidated until the protocol comes back out of recovery mode. In general, borrowers are encouraged to always maintain a collateral ratio above `150%`. \
@@ -37,3 +36,9 @@ As a borrower, simply increasing your collateral ratio to >150% will protect you
 ### Can I be liquidated if my collateral ratio is below 150% in Recovery Mode?&#x20;
 
 Yes. During recovery mode, your position can be liquidated if it falls below 150% CR. Otherwise, during normal circumstances, the CR will remain at 110%. It is advised to both monitor and adjusts as needed to avoid liquidation risk.
+
+### How much of a loan's collateral can be liquidated in Recovery Mode?
+
+In Recovery Mode, liquidation loss is capped at `110%` of a loan's collateral. Any remainder, i.e. the collateral above `110%` (and below the TCR), can be reclaimed by the liquidated borrower using the standard web interface.
+
+This means that a borrower will face the same liquidation “penalty” (`10%`) in Recovery Mode as in Normal Mode if their loan gets liquidated.

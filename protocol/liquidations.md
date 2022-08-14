@@ -1,8 +1,13 @@
 # Liquidations
 
-The user is exposed to liquidation when a borrower's loan falls below the minimum collateralization ratio of `110%`.
+The protocol utilizes a two-step liquidation mechanism in the following order of priority:
 
-Anybody can liquidate a loan as soon as it drops below the Minimum Collateral Ratio of `110%`. The initiator receives a gas compensation (`5 ARTH` + `0.5%` of the Trove's collateral) as a reward for this service.
+1. Offset under-collateralized loans against the [Stability Pool](stability-pool.md) containing `ARTH` tokens
+2. Redistribute under-collateralized loans to other borrowers if the Stability Pool is emptied
+
+The protocol primarily uses the ARTH tokens in its Stability Pool to absorb the under-collateralized debt, i.e. to repay the liquidated borrower's liability.
+
+Anybody can liquidate a loan as soon as it drops below the Minimum Collateral Ratio of `110%`. The initiator receives a gas compensation (`50 ARTH` + `0.5%` of the loan's collateral) as a reward for this service.
 
 Post a liquidation, a loan position's debt is fulfilled by the stability pool and its collateral is distributed among [stability pool providers](stability-pool.md). The borrower still keeps the loan amount he received in `ARTH` but the user loses approximately `10%` in overall value for each liquidation + fees while repaying the borrowed loan.
 
@@ -13,6 +18,10 @@ Liquidations are performed by the [TroveManager](https://github.com/MahaDAO/arth
 {% hint style="warning" %}
 In special cases when the total collateral ratio drops below `150%` and the protocol goes under the [Recovery mode](recovery-mode.md), liquidation happens to all loans below the `150%` collateral ratio until the total collateral ratio comes back to `150%`
 {% endhint %}
+
+If the liquidated debt is higher than the amount of ARTH in the Stability Pool, the system tries to cancel as much debt as possible with the tokens in the Stability Pool, and then redistributes the remaining liquidated collateral and debt across all active loans.
+
+Anyone may call the public `liquidateTroves()` function, which will check for under-collateralized loans, and liquidate them. Alternatively they can call `batchLiquidateTroves()` with a custom list of trove addresses to attempt to liquidate.
 
 ## **Liquidation example**&#x20;
 
@@ -65,3 +74,4 @@ Currently, the gas fee compensation is set at `50 ARTH`.
 In the most extreme scenario when there is no `ARTH` in the stability pool that can be used to pay back a loan, the debt & the collateral is redistributed across all the loan holders.&#x20;
 
 In such a case, the system redistributes the debt and collateral from liquidated loans to all other existing loans. The redistribution of debt and collateral is done in proportion to the recipient loan's collateral amount
+
