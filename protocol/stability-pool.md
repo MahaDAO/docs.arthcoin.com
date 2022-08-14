@@ -10,9 +10,9 @@ To avoid the protocol going into extreme stress, the stability pool acts as a so
 
 When a loan position is liquidated, an equivalent amount of `ARTH` corresponding to the remaining debt has to be burned from the Stability Pool’s balance to repay its debt. In exchange, the entire collateral (committed by the borrower) is transferred to the stability pool as rewards to stability providers.
 
-Any user may deposit ARTH tokens to the Stability Pool. This allows them to earn the collateral from the liquidated Trove. When a liquidation occurs, the liquidated debt is cancelled with the same amount of ARTH in the Pool (which is burned as a result), and the liquidated Ether is proportionally distributed to depositors.
+Any user may deposit `ARTH` tokens to the Stability Pool. This allows them to earn the collateral from the liquidated Trove. When a liquidation occurs, the liquidated debt is cancelled with the same amount of `ARTH` in the Pool (which is burned as a result), and the liquidated Ether is proportionally distributed to depositors.
 
-Stability Pool depositors can expect to earn net gains from liquidations, as in most cases, the value of the liquidated Ether will be greater than the value of the cancelled debt (since a liquidated Trove will likely have an ICR just slightly below 110%).
+Stability Pool depositors can expect to earn net gains from liquidations, as in most cases, the value of the liquidated Ether will be greater than the value of the cancelled debt (since a liquidated loan will likely have an [ICR](borrowing-arth.md#individual-collateralization-ratio-icr) just slightly below `110%`).
 
 {% hint style="info" %}
 The stability pool is currently deployed at [0x2c360b513ae52947eeb37cfad57ac9b7c9373e1b](https://etherscan.io/address/0x2c360b513ae52947eeb37cfad57ac9b7c9373e1b)
@@ -85,7 +85,7 @@ Here is an [example transaction](https://etherscan.io/tx/0xd99cbd02c5d38d092d107
 
 Users that provide `ARTH` to the `stability pool`, do so to earn **liquidation rewards**.
 
-Over a certain period,  the `stability pool` will lose some/part of their `ARTH` deposits, as the protocol uses the`stability pool` to repay bad debt from liquidated loans.&#x20;
+Over a certain period,  the `stability pool` will lose some/part of their `ARTH` deposits, as the protocol uses the stability pool to repay bad debt from liquidated loans.&#x20;
 
 Although, during the same instance, the pool gains a share of the liquidated collateral (committed by the borrower at the time of procuring a loan).&#x20;
 
@@ -100,9 +100,7 @@ The only time that stability pool providers can be in a net negative position is
 
 Stability Providers deposit `ARTH` into the stability pool, which acts as a supplement to the Loan platform. Depositing `ARTH` valuecoin to the [Stability Pool](stability-pool.md) earns you liquidation rewards.
 
-Whenever a loan position is liquidated, the collateral used to fund the loan (at 110%), is returned to the Stability Pool. \
-\
-Stability Providers always remain in a safe and net positive position.&#x20;
+Whenever a loan position is liquidated, the collateral used to fund the loan (at `110%`), is returned to the Stability Pool. Stability Providers always remain in a safe and net positive position.&#x20;
 
 ### Can you give me a real-life example of how the Stability Providers benefit by funding the Stability Pool?
 
