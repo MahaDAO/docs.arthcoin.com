@@ -12,11 +12,11 @@ For borrowing, a user has to open a loan position & deposit a certain amount of 
 
 There are four kinds of collateral ratios to consider.
 
-### Nominal Collateralization Ratio (NCR)
+### Individual Collateralization Ratio (ICR)
 
-The NCR or nominal collateralization ratio is the ratio that determines how much ARTH a borrower will receive for the assets they are willing to collateralize.\
+The ICR or Individual collateralization ratio is the ratio that determines how much `ARTH` a borrower will receive for the `ETH` they are willing to collateralize.\
 \
-The CR is set by the user. The minimum CR required is 110%.
+The CR is set by the user when a loan is opened and can be adjusted later on by adding/removing collateral or debt. The minimum CR required is `110%`.
 
 **Example 1:** If user A sets a CR of `110%` and creates a position of `10,000$` in `ARTH`, they would have to at least collateralize `11,000$` worth of `ETH`. This position is highly prone to liquidation if the CR% falls below `110%`.
 
@@ -40,9 +40,6 @@ The `Total Collateral Ratio or TCR` is the ratio of the Dollar value of the enti
 
 In other words, it's the sum of the collateral of all loans expressed in the [protocol price](../target-price-for-arth.md), divided by the debt of all loans expressed in `ARTH`.
 
-### Individual Collateral Ratio (ICR)
+### Nominal Collateral Ratio (NCR)
 
-this section is yet to be done
-
-
-
+A loan's nominal ICR is its entire collateral (in `ETH`) multiplied by `100e18` and divided by its entire debt.
