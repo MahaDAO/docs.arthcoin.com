@@ -35,13 +35,26 @@ This [transaction](https://etherscan.io/tx/0xca4263fe02d5725dbb345991b7f66885bc0
 
 ![https://etherscan.io/tx/0xca4263fe02d5725dbb345991b7f66885bc0dbb10d9fb01c82184e63addf00a3c](../.gitbook/assets/image.png)
 
-## Recovery Mode Liquidations
+## Liquidation Logic
 
-In a special scenario when the protocol goes into [Recovery Mode](recovery-mode.md), liquidations handled by the protocol behave differently. This section describes all the various scenarios on when/how a liquidation happens.
+To understand what exactly happens in normal mode and in recovery mode, we detail brlow&#x20;
 
 * ICR = [Individual Collateral Ratio](borrowing-arth.md#individual-collateral-ratio-icr)
 * MCR = [Minimum Collateral Ratio ](borrowing-arth.md#minimum-collateralization-ratio-mcr)
 * TCR = [Total Collateral Ratio ](borrowing-arth.md#total-collateral-ratio-tcr)
+
+### Normal Mode Liquidations (TCR > 150%)
+
+| Condition                                                                                                        | Liquidation behavior                                                                                                                                                                                                                                                                                                                  |
+| ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p><code>ICR &#x3C; MCR</code> <strong>and</strong> </p><p><code>Stability Pool ARTH</code> >= loan debt</p>     | <p>ARTH in the StabilityPool equal to the Trove's debt is offset with the Trove's debt. </p><p></p><p>The Trove's ETH collateral is shared between depositors.</p>                                                                                                                                                                    |
+| <p><code>ICR &#x3C; MCR</code> <strong>and</strong> </p><p><code>Stability Pool ARTH</code> &#x3C; loan debt</p> | <p>The total StabilityPool ARTH is offset with an equal amount of debt from the loan. A fraction of the loan's collateral (equal to the ratio of its offset debt to its entire debt) is shared between depositors. </p><p></p><p>The remaining debt and collateral (minus ETH gas compensation) is redistributed to active loans.</p> |
+| <p><code>ICR &#x3C; MCR</code> <strong>and</strong> </p><p><code>Stability Pool ARTH</code> = 0</p>              | Redistribute all debt and collateral (minus ETH gas compensation) to active loans.                                                                                                                                                                                                                                                    |
+| `ICR >= MCR`                                                                                                     | Do nothing.                                                                                                                                                                                                                                                                                                                           |
+
+### Recovery Mode Liquidations (TCR < 150%)
+
+In a special scenario when the protocol goes into [Recovery Mode](recovery-mode.md), liquidations handled by the protocol behave differently. This section describes all the various scenarios on when/how a liquidation happens.
 
 | Condition                                                                                                                 | Behaviour                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | ------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
