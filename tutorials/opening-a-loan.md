@@ -9,9 +9,11 @@ The loan system mainly works on you exchanging `MATIC`, `WETH` or `BNB` for `ART
 * **Normal mode:** In the normal mode the collateral ratio must be at least 110%
 * **Recovery mode:** In recovery mode, the collateral ratio must be at least 150% when opening a loan.
 
-**Step 1:** For a user who wants to take a loan; click on the **Open a Loan** button. If a user has opened any loans before and wants to check the status can check it below in the opened loans list.
+![You can view all the opened loans on the overview page and in case you want to open a new loan you can click on the take loan button.](<../.gitbook/assets/loans overview.jpg>)
 
-![The user needs to click on open loan to start the first step towards opening a loan.](<../.gitbook/assets/1 (2).jpg>)
+**Step 1:** If you want to take a loan; click on the **Open a Loan** button. If you have already opened any loans before and want to check the status of those loans you can check it below in the opened loans list.
+
+![You need to click on the open loan to start the first step towards opening a loan.](<../.gitbook/assets/loans 1.jpg>)
 
 **Step 2:** Once you click on the **Open a Loan** button you will find a drop-down section that will let you choose from different assets.&#x20;
 

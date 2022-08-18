@@ -5,7 +5,7 @@ The protocol utilizes a two-step liquidation mechanism in the following order of
 1. Offset under-collateralized loans against the [Stability Pool](stability-pool.md) containing `ARTH` tokens
 2. Redistribute under-collateralized loans to other borrowers if the Stability Pool is emptied
 
-The protocol primarily uses the ARTH tokens in its Stability Pool to absorb the under-collateralized debt, i.e. to repay the liquidated borrower's liability.
+The protocol primarily uses the `ARTH` tokens in its Stability Pool to absorb the under-collateralized debt, i.e. to repay the liquidated borrower's liability.
 
 Anybody can liquidate a loan as soon as it drops below the Minimum Collateral Ratio of `110%`. The initiator receives a gas compensation (`50 ARTH` + `0.5%` of the loan's collateral) as a reward for this service.
 
@@ -19,7 +19,7 @@ Liquidations are performed by the [TroveManager](https://github.com/MahaDAO/arth
 In special cases when the total collateral ratio drops below `150%` and the protocol goes under the [Recovery mode](recovery-mode.md), liquidation happens to all loans below the `150%` collateral ratio until the total collateral ratio comes back to `150%`
 {% endhint %}
 
-If the liquidated debt is higher than the amount of ARTH in the Stability Pool, the system tries to cancel as much debt as possible with the tokens in the Stability Pool, and then redistributes the remaining liquidated collateral and debt across all active loans.
+If the liquidated debt is higher than the amount of `ARTH` in the Stability Pool, the system tries to cancel as much debt as possible with the tokens in the Stability Pool, and then redistributes the remaining liquidated collateral and debt across all active loans.
 
 Anyone may call the public `liquidateTroves()` function, which will check for under-collateralized loans, and liquidate them. Alternatively they can call `batchLiquidateTroves()` with a custom list of trove addresses to attempt to liquidate.
 
@@ -31,13 +31,13 @@ Anyone may call the public `liquidateTroves()` function, which will check for un
 * If the price of `ETH` fell by `10%` (`$2700`), his current CR% will fall to `108%` (`$2700*4 ETH` = `$10,800` or `108%` Collateralization Ratio)
 * This loan position can then be liquidated by anybody
 
-This [transaction](https://etherscan.io/tx/0xca4263fe02d5725dbb345991b7f66885bc0dbb10d9fb01c82184e63addf00a3c) is an example of a liquidation that rewarded the liquidator with `50 ARTH` and sent the `ETH` rewards to `ARTH` stakers in the stability pool.
+This [transaction](https://etherscan.io/tx/0xca4263fe02d5725dbb345991b7f66885bc0dbb10d9fb01c82184e63addf00a3c) showcases a liquidation event that rewarded the liquidator with `50 ARTH + 0.5% of the collateral` and sent the `ETH` rewards to `ARTH` stakers in the stability pool.
 
 ![https://etherscan.io/tx/0xca4263fe02d5725dbb345991b7f66885bc0dbb10d9fb01c82184e63addf00a3c](../.gitbook/assets/image.png)
 
 ## Liquidation Logic
 
-To understand what exactly happens in normal mode and in recovery mode, we detail brlow&#x20;
+To understand what exactly happens in normal mode and in recovery mode, we detail below the precise behavior of liquidations, which depends on the ICR of the Trove being liquidated and global system conditions: the total collateralization ratio (TCR) of the system, the size of the Stability Pool, etc.
 
 * ICR = [Individual Collateral Ratio](borrowing-arth.md#individual-collateral-ratio-icr)
 * MCR = [Minimum Collateral Ratio ](borrowing-arth.md#minimum-collateralization-ratio-mcr)
@@ -81,6 +81,8 @@ Almost anybody can liquidate a loan position. The requirement to liquidate a loa
 For every liquidation, the liquidator will have to pay gas fees. To make sure, liquidations are profitable, a significant gas fee is kept aside at the time of borrowing a loan.&#x20;
 
 Currently, the gas fee compensation is set at `50 ARTH`.
+
+Besides the gas fee compensation, the liquidator also earns `0.5%` of the liquidated loan's collateral.
 
 ### What happens if there is no ARTH in the stability pool?
 
