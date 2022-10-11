@@ -30,7 +30,7 @@ The front end takes a cut of `1-kickbackRate` of the `MAHA` earned by the deposi
 
 ## Stability Pool example
 
-Here’s an example of the Stability Pool absorbing liquidations. The Stability Pool contains 3 depositors, A, B and C, and the `GMU:USD` price is 100.
+Here’s an example of the Stability Pool absorbing liquidations. The Stability Pool contains 3 depositors, A, B, and C, and the `Growth peg:USD` price is 100.
 
 There are two loans to be liquidated, T1 and T2:
 
@@ -48,7 +48,7 @@ Here are the deposits, before any liquidations occur:
 | C         | 300     | 0.5    |
 | **Total** | **600** | **1**  |
 
-Now, the first liquidation T1 is absorbed by the Pool: 150 debt is cancelled with 150 Pool ARTH, and its 1.6 ETH is split between depositors. We see the gains earned by A, B, C, are in proportion to their share of the total ARTH in the Stability Pool:
+Now, the first liquidation T1 is absorbed by the Pool: 150 debt is canceled with 150 Pool ARTH, and its 1.6 ETH is split between depositors. We see the gains earned by A, B, and C, are in proportion to their share of the total ARTH in the Stability Pool:
 
 | Deposit   | Debt absorbed from T1 | Deposit after | Total ETH gained | Deposit + ETH gain | Current ROI |
 | --------- | --------------------- | ------------- | ---------------- | ------------------ | ----------- |
@@ -57,7 +57,7 @@ Now, the first liquidation T1 is absorbed by the Pool: 150 debt is cancelled wit
 | C         | 75                    | 225           | 0.8              | 305                | 0.0166      |
 | **Total** | **150**               | **450**       | **1.6**          | **610**            | **0.0166**  |
 
-And now the second liquidation, T2, occurs: 225 debt is cancelled with 225 Pool ARTH, and 2.45 ETH is split between depositors. The accumulated ETH gain includes all ETH gain from T1 and T2.
+And now the second liquidation, T2, occurs: 225 debt is canceled with 225 Pool ARTH, and 2.45 ETH is split between depositors. The accumulated ETH gain includes all ETH gain from T1 and T2.
 
 | Depositor | Debt absorbed from T2 | Deposit after | Accumulated ETH | Deposit + ETH gain | Current ROI |
 | --------- | --------------------- | ------------- | --------------- | ------------------ | ----------- |
@@ -69,7 +69,7 @@ And now the second liquidation, T2, occurs: 225 debt is cancelled with 225 Pool 
 It’s clear that:
 
 * Each depositor gets the same ROI from a given liquidation
-* Depositors return increases over time, as the deposits absorb liquidations with a positive collateral surplus
+* Depositors' return increases over time, as the deposits absorb liquidations with a positive collateral surplus
 
 Eventually, a deposit can be fully “used up” in absorbing debt, and reduced to 0. This happens whenever a liquidation occurs that empties the Stability Pool. A deposit stops earning ETH gains when it has been reduced to 0.
 

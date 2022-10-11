@@ -6,21 +6,21 @@ description: This section talks about the ARTH peg
 
 Because stablecoins are almost always pegged to a target price, it is ideal for them to revolve around that price. Most stablecoins are pegged to 1 USD  or another fiat currency (like Japanese Yen, Chinese Yuan, etc.).&#x20;
 
-However, `ARTH` is price pegged to the algorithmic price-feed called the global measurement unit (or the GMU). For simplicity purposes, `ARTH`'s initial price was set at **2 USD worth of GMU,** signifying the rise in inflation among other things.
+However, `ARTH` is price pegged to the algorithmic price-feed called the Growth Peg. For simplicity purposes, `ARTH`'s initial price was set at **2 USD worth of Growth Peg,** signifying the rise in inflation among other things.
 
 The goal of the algorithmic peg is to achieve stability whilst at the same time slowly appreciating in value.
 
-![A sample simulation of the GMU indicator](<.gitbook/assets/image (9).png>)
+![A sample simulation of the Growth Peg indicator](<.gitbook/assets/image (9).png>)
 
-In various simulations, it was found that the GMU remained relatively stable in moments when the market turned bearish but started to appreciate ever so slightly whenever the market turned bullish.
+In various simulations, it was found that the Growth Peg remained relatively stable in moments when the market turned bearish but started to appreciate ever so slightly whenever the market turned bullish.
 
 {% hint style="info" %}
-The GMU Oracle is currently deployed at[ 0x7ee5010cbd5e499b7d66a7cba2ec3bde5fca8e00](https://etherscan.io/address/0x7ee5010cbd5e499b7d66a7cba2ec3bde5fca8e00)
+The Growth Peg Oracle is currently deployed at[ 0x7ee5010cbd5e499b7d66a7cba2ec3bde5fca8e00](https://etherscan.io/address/0x7ee5010cbd5e499b7d66a7cba2ec3bde5fca8e00)
 {% endhint %}
 
-## How Does the GMU Work?
+## How Does the Growth Peg Work?
 
-The basic idea of the GMU is to capture the growth/appreciation of an underlying asset without causing too much volatility. In this case, the underlying asset is `ETH`.
+The basic idea of the Growth Peg is to capture the appreciation of an underlying asset without causing too much volatility. In this case, the underlying asset is `ETH`.
 
 To do this it uses two moving averages. A 7-day moving average to understand the short-term price trend of the underlying asset (which is mainly used to understand when to stop the appreciation). And a 30-day moving average is used to understand the long-term price trend of an underlying asset (which is mainly used to understand how much to appreciate the price).
 
@@ -61,15 +61,15 @@ def arth_indicator(pricesLongTerm, pricesShortTerm, startingPrice,
 ```
 {% endcode %}
 
-The above code snippet represents the logic of how the GMU is calculated. It uses the following variables.
+The above code snippet represents the logic of how the growth peg is calculated. It uses the following variables.
 
 * **pricesShortTerm:** A price feed that is used to represent the short-term trend of the underlying asset. In the current deployment, we use the 7-day moving average of the ETH/USD price feed.
 * **pricesLongTerm:** A price feed that is used to represent the long-term trend of the underlying asset. In the current deployment, we use the 30-day moving average of the ETH/USD price feed.
 * **startingPrice**: A starting price for the indicator. In the current deployment, this is set to 2$
-* **dampeningFactor**: A dampening factor that dampens the indicator. A high `dampeningFactor` will cause the GMU to capture more of the underlying collateral's appreciation. Vice-versa, a low `dampeningFactor` will cause the GMU to capture less of the underlying collateral's appreciation. In the current deployment, the dampeningFactor is set at `10%`.
+* **dampeningFactor**: A dampening factor that dampens the indicator. A high `dampeningFactor` will cause the Growth Peg to capture more of the underlying collateral's appreciation. Vice-versa, a low `dampeningFactor` will cause the growth peg to capture less of the underlying collateral's appreciation. In the current deployment, the dampeningFactor is set at `10%`.
 
 {% embed url="https://github.com/MahaDAO/gmu-oracle-contracts/blob/master/simulation/eth-24mo.ipynb" %}
-A python notebook simulating the GMU algorithm
+A python notebook simulating the Growth Peg algorithm
 {% endembed %}
 
 ## FAQs
