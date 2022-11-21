@@ -1,8 +1,7 @@
 ---
 description: >-
   Welcome to ARTH guidebook. This page talks about ARTH as a stable valuecoin
-  and how it is different from other stablecoins in terms of the trust,
-  security, and functionality.
+  and how it works.
 ---
 
 # Overview
