@@ -1,12 +1,13 @@
 ---
 description: >-
-  This page talks about what is ARTH and what makes it different from other
-  stablecoins.
+  Welcome to ARTH guidebook. This page talks about ARTH as a stable valuecoin
+  and how it is different from other stablecoins in terms of the trust,
+  security, and functionality.
 ---
 
 # Overview
 
-`ARTH` is a stablecoin that is designed to appreciate over time against the US dollar while at the same time, it remains relatively stable.
+`ARTH` is a stablecoin that is designed to appreciate overtime against the US dollar while at the same time, it remains relatively stable.
 
 `ARTH` is minted/burnt using decentralized smart contracts that use `ETH` as collateral to maintain its peg. The interest rate charged to mint `ARTH` using `ETH` is 0%, which makes it very cost-effective for borrowing/lending.
 
