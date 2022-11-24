@@ -9,15 +9,13 @@ The loan system mainly works on you exchanging `MATIC`, `WETH` or `BNB` for `ART
 * **Normal mode:** In the normal mode the collateral ratio must be at least 110%
 * **Recovery mode:** In recovery mode, the collateral ratio must be at least 150% when opening a loan.
 
-![You can view all the opened loans on the overview page and in case you want to open a new loan you can click on the take loan button.](<../.gitbook/assets/loans overview.jpg>)
+<figure><img src="../.gitbook/assets/1 overview.jpg" alt=""><figcaption><p>You can view all the opened loans on the overview page and in case you want to open a new loan you can click on the take loan button.</p></figcaption></figure>
 
 **Step 1:** If you want to take a loan; click on the **Open a Loan** button. If you have already opened any loans before and want to check the status of those loans you can check it below in the opened loans list.
 
-![You need to click on the open loan to start the first step towards opening a loan.](<../.gitbook/assets/loans 1.jpg>)
-
 **Step 2:** Once you click on the **Open a Loan** button you will find a drop-down section that will let you choose from different assets.&#x20;
 
-![You need to input an amount that is going to be the collateral amount from your end.](<../.gitbook/assets/2 (1).jpg>)
+<figure><img src="../.gitbook/assets/open loan 1 (1).jpg" alt=""><figcaption><p>You need to input an amount that is going to be the collateral amount from your end.</p></figcaption></figure>
 
 **Step 3:** After you select the asset; you need to input an amount that is going to be the collateral amount from your end.&#x20;
 
@@ -27,11 +25,9 @@ _**NOTE:** In normal mode, the amount you enter has to be amounting to a collate
 
 **Step 5:** Click on the **confirm loan** button to open your loan.
 
-![You need to click on the 'take loan' button to confirm the opening of the loan. ](<../.gitbook/assets/3 (2).jpg>)
+<figure><img src="../.gitbook/assets/open loan 2.jpg" alt=""><figcaption><p>You need to click on the 'take loan' button to confirm the opening of the loan. </p></figcaption></figure>
 
 **Step 6:** Once you have got the successful transaction confirmation, you proceed with the next step which is - complete transaction.
-
-![Successful confirmation of the opening of the loan](<../.gitbook/assets/4 (1).jpg>)
 
 **Step 7:** Once you click on **complete transaction** you will get another metamask confirmation. Once confirmed, it completes your _open a loan_ process.
 
