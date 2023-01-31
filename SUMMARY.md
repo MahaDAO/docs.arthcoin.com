@@ -12,7 +12,7 @@
 * [Collateral Ratios](protocol/borrowing-arth.md)
 * [Redemptions](protocol/redemptions.md)
 * [Liquidations](protocol/liquidations.md)
-* [Stability Pools](protocol/stability-pool.md)
+* [Stability Pool](protocol/stability-pool.md)
 * [Recovery Mode](protocol/recovery-mode.md)
 * [Flash Loans](protocol/0-flash-loans.md)
 * [Protocol Fees](protocol/how-does-arth-mitigate-against-stability-risk.md)
