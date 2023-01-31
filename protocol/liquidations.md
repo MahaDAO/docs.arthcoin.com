@@ -12,7 +12,9 @@ Anybody can liquidate a loan as soon as it drops below the Minimum Collateral Ra
 Post a liquidation, a loan position's debt is fulfilled by the stability pool and its collateral is distributed among [stability pool providers](stability-pool.md). The borrower still keeps the loan amount he received in `ARTH` but the user loses approximately `10%` in overall value for each liquidation + fees while repaying the borrowed loan.
 
 {% hint style="info" %}
-Liquidations are performed by the [TroveManager](https://github.com/MahaDAO/arth-core/blob/main/packages/contracts/contracts/TroveManager.sol) contract which is deployed at [0xF4eD5d0C3C977B57382fabBEa441A63FAaF843d3#code](https://etherscan.io/address/0xF4eD5d0C3C977B57382fabBEa441A63FAaF843d3#code)
+Liquidations are performed by the [TroveManager](https://github.com/MahaDAO/arth-core/blob/main/packages/contracts/contracts/TroveManager.sol) contract which is deployed at&#x20;
+
+[0x8b1da95724b1e376aE49FdB67afE33Fe41093af5](https://etherscan.io/address/0x8b1da95724b1e376aE49FdB67afE33Fe41093af5#code)
 {% endhint %}
 
 {% hint style="warning" %}
@@ -29,7 +31,7 @@ Anyone may call the public `liquidateTroves()` function, which will check for un
 * The borrower committed 4 `ETH`, taking `ETH` at a price of $3,000`($10,000*120%/3000)`
 * For the loan position to be eligible for liquidation, the CR% needs to go below `110%`
 * If the price of `ETH` fell by `10%` (`$2700`), his current CR% will fall to `108%` (`$2700*4 ETH` = `$10,800` or `108%` Collateralization Ratio)
-* This loan position can then be liquidated by anybody
+* Anybody can then liquidate this loan position
 
 This [transaction](https://etherscan.io/tx/0xca4263fe02d5725dbb345991b7f66885bc0dbb10d9fb01c82184e63addf00a3c) showcases a liquidation event that rewarded the liquidator with `50 ARTH + 0.5% of the collateral` and sent the `ETH` rewards to `ARTH` stakers in the stability pool.
 

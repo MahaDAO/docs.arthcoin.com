@@ -20,7 +20,9 @@ There are two kinds of redemptions:
 * **Full Redemptions** where a loan's debt is fully reduced to 0.
 
 {% hint style="info" %}
-Redemptions are performed by the [TroveManager](https://github.com/MahaDAO/arth-core/blob/main/packages/contracts/contracts/TroveManager.sol) contract which is deployed at [0xF4eD5d0C3C977B57382fabBEa441A63FAaF843d3#code](https://etherscan.io/address/0xF4eD5d0C3C977B57382fabBEa441A63FAaF843d3#code)
+Redemptions are performed by the [TroveManager](https://github.com/MahaDAO/arth-core/blob/main/packages/contracts/contracts/TroveManager.sol) contract which is deployed at&#x20;
+
+[0x8b1da95724b1e376aE49FdB67afE33Fe41093af5](https://etherscan.io/address/0x8b1da95724b1e376aE49FdB67afE33Fe41093af5#code)
 {% endhint %}
 
 ### Partial Redemptions
@@ -39,13 +41,13 @@ In return, `60 ETH,` worth `1,200 $GMU`, is transferred from your loan to the re
 
 ### Full Redemptions
 
-A full redemption happens when the amount of `ARTH` redeemed for `ETH` is more than the amount of debt a loan has. In such situations the borrower's loan is completely closed (as it's debt is paid off by the redeemer's `ARTH`), the equivalent amount of `ETH` is sent back to the redeemer and the borrower's collateral (`ETH`) exposure is reduced by the amount redeemed.
+A full redemption happens when the amount of `ARTH` redeemed for `ETH` is more than the amount of debt a loan has. In such situations, the borrower's loan is completely closed (as its debt is paid off by the redeemer's `ARTH`), the equivalent amount of `ETH` is sent back to the redeemer and the borrower's collateral (`ETH`) exposure is reduced by the amount redeemed.
 
 **Example of a full redemption**
 
 Somebody redeems `6,000 ARTH` for `300 ETH`. Given that the redeemed amount is larger than your debt minus  `50 ARTH` (set aside as a Liquidation Reserve), your debt of `3,200 ARTH` is entirely cleared and your collateral gets reduced by `3,150 $GMU` of ETH, leaving you with collateral of `40 ETH (= 200 - 3,200 / 20)`.
 
-In both cases, the net value of your position minus the debt remains the same, however during a redemption your exposure to the underlying asset decreases.&#x20;
+In both cases, the net value of your position minus the debt remains the same, however, during a redemption, your exposure to the underlying asset decreases.&#x20;
 
 ## Redemption Fees
 

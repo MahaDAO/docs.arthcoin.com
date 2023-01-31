@@ -4,18 +4,20 @@ description: >-
   protocol by providing incentives to pooled users
 ---
 
-# Stability Pools
+# Stability Pool
 
 To avoid the protocol going into extreme stress, the stability pool acts as a source of liquidity to repay debt from liquidated loans to ensure that the total `ARTH` supply always remains backed by collateral.&#x20;
 
 When a loan position is liquidated, an equivalent amount of `ARTH` corresponding to the remaining debt has to be burned from the Stability Pool’s balance to repay its debt. In exchange, the entire collateral (committed by the borrower) is transferred to the stability pool as rewards to stability providers.
 
-Any user may deposit `ARTH` tokens to the Stability Pool. This allows them to earn the collateral from the liquidated Trove. When a liquidation occurs, the liquidated debt is cancelled with the same amount of `ARTH` in the Pool (which is burned as a result), and the liquidated Ether is proportionally distributed to depositors.
+Any user may deposit `ARTH` tokens to the Stability Pool. This allows them to earn the collateral from the liquidated Trove. When a liquidation occurs, the liquidated debt is canceled with the same amount of `ARTH` in the Pool (which is burned as a result), and the liquidated Ether is proportionally distributed to depositors.
 
-Stability Pool depositors can expect to earn net gains from liquidations, as in most cases, the value of the liquidated Ether will be greater than the value of the cancelled debt (since a liquidated loan will likely have an [ICR](borrowing-arth.md#individual-collateralization-ratio-icr) just slightly below `110%`).
+Stability Pool depositors can expect to earn net gains from liquidations, as in most cases, the value of the liquidated Ether will be greater than the value of the canceled debt (since a liquidated loan will likely have an [ICR](borrowing-arth.md#individual-collateralization-ratio-icr) just slightly below `110%`).
 
 {% hint style="info" %}
-The stability pool is currently deployed at [0x2c360b513ae52947eeb37cfad57ac9b7c9373e1b](https://etherscan.io/address/0x2c360b513ae52947eeb37cfad57ac9b7c9373e1b)
+The stability pool is currently deployed at&#x20;
+
+[0x910F16455E5eB4605Fe639e2846579c228eeD3B5](https://etherscan.io/address/0x67002ECB9934312DF2aE28fE522C72c775e952BE#code)
 {% endhint %}
 
 ## MAHA Issuance to Stability Providers
@@ -24,7 +26,7 @@ Stability Providers earn `MAHA` tokens continuously over time, in proportion to 
 
 Each Stability Pool deposit is tagged with a front end tag - the Ethereum address of the front end through which the deposit was made. Stability deposits made directly with the protocol (no front end) are tagged with the zero address.
 
-When a deposit earns `MAHA`, it is split between the depositor, and the front end through which the deposit was made. Upon registering as a front end, a front end chooses a “kickback rate”: this is the percentage of `MAHA` earned by a tagged deposit, to allocate to the depositor. Thus, the total MAHA received by a depositor is the total `MAHA` earned by their deposit, multiplied by `kickbackRate`.&#x20;
+When a deposit earns `MAHA`, it is split between the depositor and the front end through which the deposit was made. Upon registering as a front end, a front end chooses a “kickback rate”: this is the percentage of `MAHA` earned by a tagged deposit, to allocate to the depositor. Thus, the total MAHA received by a depositor is the total `MAHA` earned by their deposit, multiplied by `kickbackRate`.&#x20;
 
 The front end takes a cut of `1-kickbackRate` of the `MAHA` earned by the deposit.
 
