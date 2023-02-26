@@ -4,7 +4,7 @@ description: This page describes how you can open a loan.
 
 # Opening a Loan
 
-The loan system mainly works on you exchanging `ETH` for `ARTH` at 0% interest. Two modes play a crucial role in getting a loan.
+The loan system mainly works on you exchanging `MATIC`, `WETH` or `BNB` for `ARTH` at 0% interest. Two modes play a crucial role in getting a loan.
 
 * **Normal mode:** In the normal mode the collateral ratio must be at least 110%
 * **Recovery mode:** In recovery mode, the collateral ratio must be at least 150% when opening a loan.

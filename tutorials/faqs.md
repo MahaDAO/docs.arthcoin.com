@@ -11,7 +11,7 @@ Although the primary use case of `ARTH` Loans is not generating revenue, instead
 ### Pre-requisites for taking out a loan?
 
 * Metamask or any web3 compatible wallet installed.
-* Collaterals in the form of the native blockchain token (`ETH`, `BNB`, `MATIC`, etc.).
+* Collaterals in the form of the native blockchain token (`ETH`).
 
 ### Pre-requisites for becoming a Stability Provider?
 
