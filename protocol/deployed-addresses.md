@@ -38,8 +38,8 @@ For best security, we recommend using `ARTH` on the Ethereum chain. For low tran
 
 Bridged version of `ARTH` are made accessible using [AnySwap](https://anyswap.exchange/)
 
-| Network  | Addresses                                                                                                              |
-| -------- | ---------------------------------------------------------------------------------------------------------------------- |
-| Ethereum | [0x8cc0f052fff7ead7f2edcccac895502e884a8a71](https://etherscan.io/address/0x8cc0f052fff7ead7f2edcccac895502e884a8a71)  |
-| BSC      | ​[0x85daB10c3BA20148cA60C2eb955e1F8ffE9eAa79](https://bscscan.com/token/0x85daB10c3BA20148cA60C2eb955e1F8ffE9eAa79)    |
-| Polygon  | [0xe52509181feb30eb4979e29ec70d50fd5c44d590](https://polygonscan.com/token/0xe52509181feb30eb4979e29ec70d50fd5c44d590) |
+| Network      | Addresses                                                                                                             |
+| ------------ | --------------------------------------------------------------------------------------------------------------------- |
+| Ethereum     | [0x8cc0f052fff7ead7f2edcccac895502e884a8a71](https://etherscan.io/address/0x8cc0f052fff7ead7f2edcccac895502e884a8a71) |
+| BSC          | ​[0x85daB10c3BA20148cA60C2eb955e1F8ffE9eAa79](https://bscscan.com/token/0x85daB10c3BA20148cA60C2eb955e1F8ffE9eAa79)   |
+| Arbitrum One | [0x5441695f4445E40900b4c4B0Fb3eD2B9E51601A6](https://arbiscan.io/address/0x5441695f4445e40900b4c4b0fb3ed2b9e51601a6)  |
