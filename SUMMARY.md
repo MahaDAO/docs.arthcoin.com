@@ -2,7 +2,9 @@
 
 * [Overview](README.md)
 * [The Money Illusion](the-money-illusion.md)
-* [What is ARTH Pegged to?](target-price-for-arth.md)
+* [ETH as a Collateral](eth-as-a-collateral.md)
+* [What is ARTH Pegged to?](what-is-arth-pegged-to/README.md)
+  * [CPI Limitations and Solutions](what-is-arth-pegged-to/cpi-limitations-and-solutions.md)
 * [Risks & Security](protocol/risks-and-security.md)
 * [MAHA and Governance](what-is-maha.md)
 

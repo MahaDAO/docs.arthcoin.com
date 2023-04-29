@@ -38,7 +38,7 @@ As a borrower, you should make sure you open a loan with a high enough collatera
 
 The `Total Collateral Ratio or TCR` is the ratio of the Dollar value of the entire system collateral at the current protocol price, to the entire system debt.&#x20;
 
-In other words, it's the sum of the collateral of all loans expressed in the [protocol price](../target-price-for-arth.md), divided by the debt of all loans expressed in `ARTH`.
+In other words, it's the sum of the collateral of all loans expressed in the [protocol price](../what-is-arth-pegged-to/), divided by the debt of all loans expressed in `ARTH`.
 
 ### Nominal Collateral Ratio (NCR)
 

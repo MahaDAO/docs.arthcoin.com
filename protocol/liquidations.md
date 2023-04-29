@@ -35,7 +35,7 @@ Anyone may call the public `liquidateTroves()` function, which will check for un
 
 This [transaction](https://etherscan.io/tx/0xca4263fe02d5725dbb345991b7f66885bc0dbb10d9fb01c82184e63addf00a3c) showcases a liquidation event that rewarded the liquidator with `50 ARTH + 0.5% of the collateral` and sent the `ETH` rewards to `ARTH` stakers in the stability pool.
 
-![https://etherscan.io/tx/0xca4263fe02d5725dbb345991b7f66885bc0dbb10d9fb01c82184e63addf00a3c](../.gitbook/assets/image.png)
+![https://etherscan.io/tx/0xca4263fe02d5725dbb345991b7f66885bc0dbb10d9fb01c82184e63addf00a3c](<../.gitbook/assets/image (101).png>)
 
 ## Liquidation Logic
 

@@ -123,7 +123,7 @@ What do you pay:
   * Your Debt Share = 10%&#x20;
   * Your Debt share = `20,000 USD` (10% of Total Debt)
   * Your initial ARTH position: `100,000 USD`
-  * Your new ARTH position: `80,000 USD` **** (Initial Position - Your Debt Share) .
+  * Your new ARTH position: `80,000 USD` (Initial Position - Your Debt Share) .
 
 What do you get:
 
