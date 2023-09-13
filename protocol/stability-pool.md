@@ -95,7 +95,7 @@ The only time that stability pool providers can be in a net negative position is
 
 ### Why should I become a Stability Pool Provider?
 
-Stability Providers deposit `ARTH` into the stability pool, which acts as a supplement to the Loan platform. Depositing `ARTH` valuecoin to the [Stability Pool](stability-pool.md) earns you liquidation rewards.
+Stability Providers deposit `ARTH` into the stability pool, which acts as a supplement to the Loan platform. Depositing `ARTH` flatcoin to the [Stability Pool](stability-pool.md) earns you liquidation rewards.
 
 Whenever a loan position is liquidated, the collateral used to fund the loan (at `110%`), is returned to the Stability Pool. Stability Providers always remain in a safe and net positive position.&#x20;
 

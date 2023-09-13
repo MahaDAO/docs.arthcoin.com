@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Overview: What is ARTH](README.md)
+* [Overview: What is ARTH?](README.md)
 * [The Money Illusion](the-money-illusion.md)
 * [ETH as a Collateral](eth-as-a-collateral.md)
 * [What is ARTH Pegged to?](what-is-arth-pegged-to/README.md)
@@ -23,7 +23,7 @@
 
 ## Tutorials
 
-* [How to Mint ARTH](tutorials/how-to-mint-arth.md)
+* [How to Mint ARTH?](tutorials/how-to-mint-arth.md)
 * [Opening a Loan](tutorials/opening-a-loan.md)
 * [Closing a Loan](tutorials/closing-a-loan.md)
 * [Modifying a Loan](tutorials/modifying-a-loan.md)

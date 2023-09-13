@@ -1,12 +1,12 @@
 ---
 description: >-
-  Welcome to ARTH guidebook. This page talks about ARTH as a stable valuecoin
-  and how it works.
+  Welcome to ARTH guidebook. This page talks about ARTH as a flatcoin and how it
+  works.
 ---
 
-# Overview: What is ARTH
+# Overview: What is ARTH?
 
-`ARTH` is a stablecoin that is designed to appreciate overtime against the US dollar while at the same time, it remains relatively stable.
+`ARTH` is a flatcoin that is designed to appreciate overtime against the US dollar while at the same time, it remains relatively stable.
 
 `ARTH` is minted/burnt using decentralized smart contracts that use `ETH` as collateral to maintain its peg. The interest rate charged to mint `ARTH` using `ETH` is 0%, which makes it very cost-effective for borrowing/lending.
 
