@@ -4,7 +4,7 @@ description: >-
   and how it works.
 ---
 
-# Overview
+# Overview: What is ARTH
 
 `ARTH` is a stablecoin that is designed to appreciate overtime against the US dollar while at the same time, it remains relatively stable.
 
@@ -40,8 +40,4 @@ This means users who hold `ARTH` for longer periods of time should see an increa
 
 These are the deployed contracts on the various networks.
 
-| Network  | Addresses                                                                                                                |
-| -------- | ------------------------------------------------------------------------------------------------------------------------ |
-| Ethereum | [0x8cc0f052fff7ead7f2edcccac895502e884a8a71](https://etherscan.io/address/0x8cc0f052fff7ead7f2edcccac895502e884a8a71)    |
-| BSC      | ​[0x85daB10c3BA20148cA60C2eb955e1F8ffE9eAa79](https://bscscan.com/token/0x85daB10c3BA20148cA60C2eb955e1F8ffE9eAa79)      |
-| Polygon  | ​[0x862Fc9F243365d98Ed9FF68f720041074299B0dC](https://polygonscan.com/token/0x862Fc9F243365d98Ed9FF68f720041074299B0dC)  |
+<table><thead><tr><th width="150">Network</th><th>Addresses</th></tr></thead><tbody><tr><td>Ethereum</td><td><a href="https://etherscan.io/address/0x8cc0f052fff7ead7f2edcccac895502e884a8a71">0x8cc0f052fff7ead7f2edcccac895502e884a8a71</a></td></tr><tr><td>BSC</td><td>​<a href="https://bscscan.com/token/0x85daB10c3BA20148cA60C2eb955e1F8ffE9eAa79">0x85daB10c3BA20148cA60C2eb955e1F8ffE9eAa79</a></td></tr><tr><td>Polygon</td><td>​<a href="https://polygonscan.com/token/0x862Fc9F243365d98Ed9FF68f720041074299B0dC">0x862Fc9F243365d98Ed9FF68f720041074299B0dC</a> </td></tr></tbody></table>

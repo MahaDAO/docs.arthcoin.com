@@ -61,12 +61,7 @@ Now, the first liquidation T1 is absorbed by the Pool: 150 debt is canceled with
 
 And now the second liquidation, T2, occurs: 225 debt is canceled with 225 Pool ARTH, and 2.45 ETH is split between depositors. The accumulated ETH gain includes all ETH gain from T1 and T2.
 
-| Depositor | Debt absorbed from T2 | Deposit after | Accumulated ETH | Deposit + ETH gain | Current ROI |
-| --------- | --------------------- | ------------- | --------------- | ------------------ | ----------- |
-| A         | 37.5                  | 37.5          | 0.675           | 105                | 0.05        |
-| B         | 75                    | 75            | 1.35            | 210                | 0.05        |
-| C         | 112.5                 | 112.5         | 2.025           | 315                | 0.05        |
-| **Total** | **225**               | **225**       | **4.05**        | **630**            | **0.05**    |
+<table><thead><tr><th>Depositor</th><th>Debt absorbed from T2</th><th>Deposit after</th><th width="124">Accumulated ETH</th><th>Deposit + ETH gain</th><th>Current ROI</th></tr></thead><tbody><tr><td>A</td><td>37.5</td><td>37.5</td><td>0.675</td><td>105</td><td>0.05</td></tr><tr><td>B</td><td>75</td><td>75</td><td>1.35</td><td>210</td><td>0.05</td></tr><tr><td>C</td><td>112.5</td><td>112.5</td><td>2.025</td><td>315</td><td>0.05</td></tr><tr><td><strong>Total</strong></td><td><strong>225</strong></td><td><strong>225</strong></td><td><strong>4.05</strong></td><td><strong>630</strong></td><td><strong>0.05</strong></td></tr></tbody></table>
 
 It’s clear that:
 

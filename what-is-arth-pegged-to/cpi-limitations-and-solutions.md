@@ -1,6 +1,6 @@
 ---
 description: >-
-  This guide talks about issues with CPI and why ARTH has it's own decentralized
+  This guide talks about issues with CPI and why ARTH has its own decentralized
   price peg.
 ---
 
